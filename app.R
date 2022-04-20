@@ -15,6 +15,7 @@ library(caret)
 library(fastDummies)
 library(ggmosaic)
 library(lmerTest)
+library(plotly)
 aspekti <- readRDS("aspektilog.rds")
 puu <- readRDS("puu.rds")
 puuhl <- readRDS("puuhl.rds")
@@ -62,8 +63,8 @@ ui <- navbarPage(
                                                                                                     "RT orthographic/semantic condition L2",
                                                                                                     "RT morphological condition L1",
                                                                                                     "RT orthographic/semantic condition L1")),verbatimTextOutput("keskiarvot")),
-  tabPanel("Visualize", radioButtons("mosaic","Mosaic plot", choices = c("Marker L2","Stem L2","Marker HL","Stem HL")),tableOutput("taulvisu"),plotOutput("ainvisu")),
-  tabPanel("Asp, Odds ratio", radioButtons(inputId = "sjplot","Odds ratio", choices = c("L2","HL","Random effect language L2","Random effect language HL" ,"Random effect proficiency L2","Random effect proficiency HL")), plotOutput("vetosuhde")),
+  tabPanel("Visualize", radioButtons("mosaic","Mosaic plot", choices = c("Marker L2","Stem L2","Marker HL","Stem HL")),tableOutput("taulvisu"),plotlyOutput("ainvisu")),
+  tabPanel("Asp, Odds ratio", radioButtons(inputId = "sjplot","Odds ratio", choices = c("L2","HL","Random effect language L2","Random effect language HL" ,"Random effect proficiency L2","Random effect proficiency HL")), plotlyOutput("vetosuhde")),
   tabPanel("Asp, logreg", 
            radioButtons(inputId = "loginp", "Statistics", choices = c("ASP L2", "ASP HL")),
            radioButtons(inputId = "logmlinp", "Machine Learning", choices = c("ML L2", "ML HL")), 
@@ -170,17 +171,16 @@ server <- function(input, output, session) {
     mlcart
   })
   
-  output$ainvisu <- renderPlot({
-    mosaiikki()
+  output$ainvisu <- renderPlotly({
+    ggplotly(mosaiikki())
   })
   
   output$taulvisu <- renderTable({
     head(aspektiaineisto)
   })
   
-  output$vetosuhde <- renderPlot({
-    veto <- oddsit()
-    plot(veto)
+  output$vetosuhde <- renderPlotly({
+   oddsit()
     })
   
 }
