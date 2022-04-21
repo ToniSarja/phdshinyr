@@ -16,6 +16,7 @@ library(fastDummies)
 library(ggmosaic)
 library(lmerTest)
 library(plotly)
+library(DT)
 aspekti <- readRDS("aspektilog.rds")
 puu <- readRDS("puu.rds")
 puuhl <- readRDS("puuhl.rds")
@@ -40,6 +41,7 @@ prof_l2 <- readRDS("prof_l2.rds")
 prof_hl <- readRDS("prof_hl.rds")
 labralmel2 <- readRDS("labralmel2.rds")
 aspektiaineisto <- readRDS("aspektiaineisto.rds")
+aspektiaineisto_hl <- readRDS("aspektiaineisto_hl.rds")
 reactionl2 <- readRDS("reaktioajatl2onl.rds")
 reactionl2llab <- readRDS("reaktioajatl2onl.rds")
 aspmark <-readRDS("aspmark.rds")
@@ -63,7 +65,7 @@ ui <- navbarPage(
                                                                                                     "RT orthographic/semantic condition L2",
                                                                                                     "RT morphological condition L1",
                                                                                                     "RT orthographic/semantic condition L1")),verbatimTextOutput("keskiarvot")),
-  tabPanel("Visualize", radioButtons("mosaic","Mosaic plot", choices = c("Marker L2","Stem L2","Marker HL","Stem HL")),tableOutput("taulvisu"),plotlyOutput("ainvisu")),
+  tabPanel("Visualize", radioButtons("mosaic","Mosaic plot", choices = c("Marker L2","Stem L2","Marker HL","Stem HL")),plotlyOutput("ainvisu"),selectInput(inputId = "asptaul","Choose dataset", choices = c("L2","HL")),dataTableOutput("taulvisu")),
   tabPanel("Asp, Odds ratio", radioButtons(inputId = "sjplot","Odds ratio", choices = c("L2","HL","Random effect language L2","Random effect language HL" ,"Random effect proficiency L2","Random effect proficiency HL")), plotlyOutput("vetosuhde")),
   tabPanel("Asp, logreg", 
            radioButtons(inputId = "loginp", "Statistics", choices = c("ASP L2", "ASP HL")),
@@ -106,6 +108,12 @@ server <- function(input, output, session) {
            "RT Orto/Sem L2" = ortomalliL2,
            "RT Orto/Sem L1" = ortomalliL1)
             
+  })
+  
+  aspektitaulukko <- reactive({
+    switch(input$asptaul,
+           "L2" = aspektiaineisto,
+           "HL" = aspektiaineisto_hl)
   })
   
   treeInput <- reactive({
@@ -175,8 +183,8 @@ server <- function(input, output, session) {
     ggplotly(mosaiikki())
   })
   
-  output$taulvisu <- renderTable({
-    head(aspektiaineisto)
+  output$taulvisu <- renderDataTable({
+    aspektitaulukko() 
   })
   
   output$vetosuhde <- renderPlotly({
