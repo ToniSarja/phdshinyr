@@ -74,13 +74,43 @@ ui <- navbarPage(
            verbatimTextOutput("mllog")),
   tabPanel("Asp, tree models", 
            radioButtons(inputId = "treeinp", "Statistics", choices = c("Decision tree L2", "Decision tree HL")),
-           radioButtons(inputId = "mltreeinp", "Machine Learning", choices = c("ML CART L2", "ML CART HL")), 
            plotOutput("tree"),
-           verbatimTextOutput("mltree")
-  ))
+           fileInput("upload","Upload dataset"),
+           selectInput("var1_ml", "Select ML Variable", choices = NULL),
+           selectInput("var2_ml", "Select ML Variable", choices = NULL),
+           selectInput("var3_ml", "Select ML Variable", choices = NULL),
+           actionButton("go_ml","Run ML model"),
+           verbatimTextOutput("glmSummary"),
+           verbatimTextOutput("mlSummary"))
+  )
 
 
 server <- function(input, output, session) {
+  
+  data <- reactive({
+    req(input$upload)
+    ext <- tools::file_ext(input$upload$name)
+    switch(ext,
+           csv = vroom::vroom(input$upload$datapath, delim = ","),
+           tsv = vroom::vroom(input$upload$datapath, delim = "\t"),
+           validate("Invalid file; Please upload a .csv or .tsv file")
+    )
+    
+  })
+  
+  
+  
+  observeEvent(input$upload, {
+    req(data())
+    updateSelectInput(session, "var1", choices = colnames(data()))
+    updateSelectInput(session, "var2", choices = colnames(data()))
+    updateSelectInput(session, "var3", choices = colnames(data()))
+    updateSelectInput(session, "var4", choices = colnames(data()))
+    updateSelectInput(session, "var5", choices = colnames(data()))
+    updateSelectInput(session, "var1_ml", choices = colnames(data()))
+    updateSelectInput(session, "var2_ml", choices = colnames(data()))
+    updateSelectInput(session, "var3_ml", choices = colnames(data()))
+  })
   
   mosaiikki <- reactive({
     switch(input$mosaic,
@@ -190,6 +220,31 @@ server <- function(input, output, session) {
   output$vetosuhde <- renderPlotly({
    oddsit()
     })
+  
+  mlModel <- eventReactive(input$go_ml, {
+    req(data(),input$var1_ml,input$var2_ml,input$var3_ml)
+    x3 <- as.factor(data()[[as.name(input$var1_ml)]])
+    y3 <- as.factor(data()[[as.name(input$var2_ml)]])
+    z3 <- as.factor(data()[[as.name(input$var3_ml)]])
+    df <- data.frame(x3,y3,z3)
+    set.seed(123)
+    split = sample.split(df$x3, SplitRatio = 0.75)
+    training_set = subset(df, split == TRUE)
+    test_set = subset(df, split == FALSE)
+    classifier = rpart(formula = x3 ~ y3 + z3, data = training_set)
+    y_pred = predict(classifier, newdata = test_set[-1], type = 'class')
+    accuracy <- Accuracy(y_pred,test_set[,1])*100
+    recall <- Recall(y_pred,test_set[,1])*100
+    precision <- Precision(y_pred,test_set[,1])*100
+    f1 <- F1_Score(y_pred,test_set[,1])*100
+    metrics <- cbind(accuracy,recall,precision,f1)
+    metrics   
+  })
+  
+  output$mlSummary <- renderPrint({
+    req(mlModel())
+    mlModel()
+  })
   
 }
   
