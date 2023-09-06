@@ -1,0 +1,793 @@
+target2,prime2,rt,key,participant,primetype,relationtype,Primert
+ЛЕТЕТЬ,птица,0.501735,j,elena.a_L2,related,semantic,sem
+ЕХАТЬ,машина,0.53025,j,elena.a_L2,related,semantic,sem
+СПАТЬ,сон,1.001475,j,elena.a_L2,related,semantic,sem
+ЖЕЛАТЬ,надежда,0.56968,j,elena.a_L2,related,semantic,sem
+ИСКАТЬ,найти,0.70602,j,elena.a_L2,related,semantic,sem
+УБИТЬ,мертвый,0.542385,j,elena.a_L2,related,semantic,sem
+КУРИТЬ,сигарета,0.58132,j,elena.a_L2,related,semantic,sem
+НАЧАТЬ,старт,0.631005,j,elena.a_L2,related,semantic,sem
+ПИТЬ,вода,0.539655,j,elena.a_L2,related,semantic,sem
+СЧИТАТЬ,мнение,0.620445,j,elena.a_L2,related,semantic,sem
+ПОМНИТЬ,память,0.67165,j,elena.a_L2,related,semantic,sem
+ПЛАКАТЬ,слезы,0.61142,j,elena.a_L2,related,semantic,sem
+ХВАТИТЬ,достаточно,0.63793,j,elena.a_L2,related,semantic,sem
+ДУМАТЬ,мысль,0.564435,j,elena.a_L2,related,semantic,sem
+СЛЫШАТЬ,ухо,0.531185,j,elena.a_L2,related,semantic,sem
+ВЕРНУТЬ,возвращение,0.56913,j,elena.a_L2,related,semantic,sem
+ПИСАТЬ,карандаш,0.486745,j,elena.a_L2,related,semantic,sem
+ГОВОРИТЬ,общение,0.61482,j,elena.a_L2,related,semantic,sem
+ЗАЯВИТЬ,сообщение,0.55185,j,elena.a_L2,related,semantic,sem
+СТРАДАТЬ,странный,0.668595,j,elena.a_L2,related,orthographic,ort
+СМОТРЕТЬ,смоленск,0.46503,j,elena.a_L2,related,orthographic,ort
+СТОЯТЬ,столько,0.51398,j,elena.a_L2,related,orthographic,ort
+ИГРАТЬ,гранит,0.531375,j,elena.a_L2,related,orthographic,ort
+СТАВИТЬ,старик,0.58502,j,elena.a_L2,related,orthographic,ort
+СЛУШАТЬ,случай,0.54917,j,elena.a_L2,related,orthographic,ort
+ПРОСИТЬ,протеин,0.834575,j,elena.a_L2,related,orthographic,ort
+МЕШАТЬ,ремешки,0.719725,j,elena.a_L2,related,orthographic,ort
+ТЕРПЕТЬ,теперь,0.641205,j,elena.a_L2,related,orthographic,ort
+ТЕРЯТЬ,террор,0.664855,j,elena.a_L2,related,orthographic,ort
+СИДЕТЬ,синее,0.555355,j,elena.a_L2,related,orthographic,ort
+ЧИТАТЬ,цитата,0.5312,j,elena.a_L2,related,orthographic,ort
+ДЕРЖАТЬ,деревня,0.60343,j,elena.a_L2,related,orthographic,ort
+ВЕРИТЬ,вертолет,0.847105,j,elena.a_L2,related,orthographic,ort
+ЗВОНИТЬ,вонючий,0.56349,j,elena.a_L2,related,orthographic,ort
+СОЗДАТЬ,здание,0.53071,j,elena.a_L2,related,orthographic,ort
+СТРОИТЬ,строгий,0.60155,j,elena.a_L2,related,orthographic,ort
+СОБРАТЬ,образ,0.514605,j,elena.a_L2,related,orthographic,ort
+ВЫБРАТЬ,вибрация,0.51489,j,elena.a_L2,related,orthographic,ort
+ТРАТИТЬ,транслит,0.56872,j,elena.a_L2,related,orthographic,ort
+ЛЕТЕТЬ,птица,0.876,j,Inni,related,semantic,sem
+ЕХАТЬ,машина,0.913,j,Inni,related,semantic,sem
+СПАТЬ,сон,0.782,j,Inni,related,semantic,sem
+ЖЕЛАТЬ,надежда,0.976,j,Inni,related,semantic,sem
+ИСКАТЬ,найти,0.807,j,Inni,related,semantic,sem
+УБИТЬ,мертвый,1.037,j,Inni,related,semantic,sem
+КУРИТЬ,сигарета,0.785,j,Inni,related,semantic,sem
+НОСИТЬ,одежда,0.789,j,Inni,related,semantic,sem
+НАЧАТЬ,старт,0.703,j,Inni,related,semantic,sem
+ПИТЬ,вода,1.025,j,Inni,related,semantic,sem
+СЧИТАТЬ,мнение,1.654,j,Inni,related,semantic,sem
+ПОМНИТЬ,память,0.788,j,Inni,related,semantic,sem
+ПЛАКАТЬ,слезы,0.886,j,Inni,related,semantic,sem
+ХВАТИТЬ,достаточно,0.921,j,Inni,related,semantic,sem
+ДУМАТЬ,мысль,0.984,j,Inni,related,semantic,sem
+СЛЫШАТЬ,ухо,0.828,j,Inni,related,semantic,sem
+ВЕРНУТЬ,возвращение,0.856,j,Inni,related,semantic,sem
+ПИСАТЬ,карандаш,1.351,j,Inni,related,semantic,sem
+ГОВОРИТЬ,общение,1.106,j,Inni,related,semantic,sem
+СТРАДАТЬ,странный,1.185,j,Inni,related,orthographic,ort
+СМОТРЕТЬ,смоленск,0.91,j,Inni,related,orthographic,ort
+СТОЯТЬ,столько,1.019,j,Inni,related,orthographic,ort
+ИГРАТЬ,гранит,0.852,j,Inni,related,orthographic,ort
+СТАВИТЬ,старик,1.92,j,Inni,related,orthographic,ort
+СЛУШАТЬ,случай,0.928,j,Inni,related,orthographic,ort
+ПРОСИТЬ,протеин,0.929,j,Inni,related,orthographic,ort
+МЕШАТЬ,ремешки,0.871,j,Inni,related,orthographic,ort
+ТЕРПЕТЬ,теперь,1.349,j,Inni,related,orthographic,ort
+ТЕРЯТЬ,террор,0.824,j,Inni,related,orthographic,ort
+СИДЕТЬ,синее,0.918,j,Inni,related,orthographic,ort
+ЧИТАТЬ,цитата,1.57,j,Inni,related,orthographic,ort
+ДЕРЖАТЬ,деревня,0.882,j,Inni,related,orthographic,ort
+ВЕРИТЬ,вертолет,0.853,j,Inni,related,orthographic,ort
+СОЗДАТЬ,здание,0.953,j,Inni,related,orthographic,ort
+СТРОИТЬ,строгий,0.85,j,Inni,related,orthographic,ort
+СОБРАТЬ,образ,1.127,j,Inni,related,orthographic,ort
+ВЫБРАТЬ,вибрация,1.053,j,Inni,related,orthographic,ort
+ТРАТИТЬ,транслит,1.49,j,Inni,related,orthographic,ort
+ЛЕТЕТЬ,птица,0.80162,j,JL2,related,semantic,sem
+ЕХАТЬ,машина,0.606935,j,JL2,related,semantic,sem
+СПАТЬ,сон,0.641845,j,JL2,related,semantic,sem
+ЖЕЛАТЬ,надежда,0.60608,j,JL2,related,semantic,sem
+ИСКАТЬ,найти,0.68042,j,JL2,related,semantic,sem
+КУРИТЬ,сигарета,0.6575,j,JL2,related,semantic,sem
+НОСИТЬ,одежда,0.784785,j,JL2,related,semantic,sem
+НАЧАТЬ,старт,0.702435,j,JL2,related,semantic,sem
+ПИТЬ,вода,0.88553,j,JL2,related,semantic,sem
+ПОМНИТЬ,память,0.496395,j,JL2,related,semantic,sem
+ПЛАКАТЬ,слезы,0.63922,j,JL2,related,semantic,sem
+ДУМАТЬ,мысль,0.798545,j,JL2,related,semantic,sem
+СЛЫШАТЬ,ухо,0.91002,j,JL2,related,semantic,sem
+ПИСАТЬ,карандаш,0.75895,j,JL2,related,semantic,sem
+СТОЯТЬ,столько,0.776575,j,JL2,related,orthographic,ort
+ИГРАТЬ,гранит,0.63869,j,JL2,related,orthographic,ort
+СЛУШАТЬ,случай,0.778665,j,JL2,related,orthographic,ort
+ПРОСИТЬ,протеин,0.771465,j,JL2,related,orthographic,ort
+МЕШАТЬ,ремешки,0.86661,j,JL2,related,orthographic,ort
+СИДЕТЬ,синее,0.9093,j,JL2,related,orthographic,ort
+ЧИТАТЬ,цитата,0.62572,j,JL2,related,orthographic,ort
+ДЕРЖАТЬ,деревня,0.850755,j,JL2,related,orthographic,ort
+ВЕРИТЬ,вертолет,0.74646,j,JL2,related,orthographic,ort
+ЗВОНИТЬ,вонючий,0.67667,j,JL2,related,orthographic,ort
+СТРОИТЬ,строгий,0.69786,j,JL2,related,orthographic,ort
+СОБРАТЬ,образ,0.981845,j,JL2,related,orthographic,ort
+ЛЕТЕТЬ,птица,0.515485,j,Marushka,related,semantic,sem
+СПАТЬ,сон,0.61561,j,Marushka,related,semantic,sem
+ЖЕЛАТЬ,надежда,0.732035,j,Marushka,related,semantic,sem
+ИСКАТЬ,найти,0.62074,j,Marushka,related,semantic,sem
+КУРИТЬ,сигарета,0.525685,j,Marushka,related,semantic,sem
+НАЧАТЬ,старт,0.623625,j,Marushka,related,semantic,sem
+ПИТЬ,вода,0.637085,j,Marushka,related,semantic,sem
+СЧИТАТЬ,мнение,0.622,j,Marushka,related,semantic,sem
+ПОМНИТЬ,память,0.588055,j,Marushka,related,semantic,sem
+ПЛАКАТЬ,слезы,0.581755,j,Marushka,related,semantic,sem
+ХВАТИТЬ,достаточно,0.58503,j,Marushka,related,semantic,sem
+СЛЫШАТЬ,ухо,0.75513,j,Marushka,related,semantic,sem
+ВЕРНУТЬ,возвращение,0.62538,j,Marushka,related,semantic,sem
+ПИСАТЬ,карандаш,0.64968,j,Marushka,related,semantic,sem
+ГОВОРИТЬ,общение,0.641435,j,Marushka,related,semantic,sem
+СМОТРЕТЬ,смоленск,0.85074,j,Marushka,related,orthographic,ort
+СТОЯТЬ,столько,0.59284,j,Marushka,related,orthographic,ort
+ИГРАТЬ,гранит,0.621405,j,Marushka,related,orthographic,ort
+СТАВИТЬ,старик,0.821775,j,Marushka,related,orthographic,ort
+СЛУШАТЬ,случай,0.73649,j,Marushka,related,orthographic,ort
+СИДЕТЬ,синее,0.602905,j,Marushka,related,orthographic,ort
+ЧИТАТЬ,цитата,0.589135,j,Marushka,related,orthographic,ort
+ДЕРЖАТЬ,деревня,0.72007,j,Marushka,related,orthographic,ort
+СТРОИТЬ,строгий,0.55213,j,Marushka,related,orthographic,ort
+ВЫБРАТЬ,вибрация,0.58296,j,Marushka,related,orthographic,ort
+ЛЕТЕТЬ,птица,0.701,j,Omena_10,related,semantic,sem
+СПАТЬ,сон,0.632,j,Omena_10,related,semantic,sem
+ЖЕЛАТЬ,надежда,0.616,j,Omena_10,related,semantic,sem
+ИСКАТЬ,найти,0.579,j,Omena_10,related,semantic,sem
+КУРИТЬ,сигарета,0.624,j,Omena_10,related,semantic,sem
+НОСИТЬ,одежда,0.779,j,Omena_10,related,semantic,sem
+НАЧАТЬ,старт,0.795,j,Omena_10,related,semantic,sem
+ПИТЬ,вода,0.613,j,Omena_10,related,semantic,sem
+СЧИТАТЬ,мнение,0.786,j,Omena_10,related,semantic,sem
+ПОМНИТЬ,память,0.699,j,Omena_10,related,semantic,sem
+ПЛАКАТЬ,слезы,0.791,j,Omena_10,related,semantic,sem
+ХВАТИТЬ,достаточно,0.673,j,Omena_10,related,semantic,sem
+ДУМАТЬ,мысль,0.71,j,Omena_10,related,semantic,sem
+СЛЫШАТЬ,ухо,0.829,j,Omena_10,related,semantic,sem
+ВЕРНУТЬ,возвращение,0.682,j,Omena_10,related,semantic,sem
+ПИСАТЬ,карандаш,0.605,j,Omena_10,related,semantic,sem
+ГОВОРИТЬ,общение,0.841,j,Omena_10,related,semantic,sem
+ЗАЯВИТЬ,сообщение,0.68,j,Omena_10,related,semantic,sem
+СТРАДАТЬ,странный,0.573,j,Omena_10,related,orthographic,ort
+СМОТРЕТЬ,смоленск,0.502,j,Omena_10,related,orthographic,ort
+СТОЯТЬ,столько,0.655,j,Omena_10,related,orthographic,ort
+ИГРАТЬ,гранит,0.86,j,Omena_10,related,orthographic,ort
+СТАВИТЬ,старик,0.629,j,Omena_10,related,orthographic,ort
+СЛУШАТЬ,случай,0.635,j,Omena_10,related,orthographic,ort
+ПРОСИТЬ,протеин,0.911,j,Omena_10,related,orthographic,ort
+МЕШАТЬ,ремешки,0.716,j,Omena_10,related,orthographic,ort
+ТЕРПЕТЬ,теперь,0.688,j,Omena_10,related,orthographic,ort
+ТЕРЯТЬ,террор,0.663,j,Omena_10,related,orthographic,ort
+СИДЕТЬ,синее,0.648,j,Omena_10,related,orthographic,ort
+ЧИТАТЬ,цитата,0.669,j,Omena_10,related,orthographic,ort
+ДЕРЖАТЬ,деревня,0.636,j,Omena_10,related,orthographic,ort
+ВЕРИТЬ,вертолет,0.628,j,Omena_10,related,orthographic,ort
+ЗВОНИТЬ,вонючий,0.674,j,Omena_10,related,orthographic,ort
+СОЗДАТЬ,здание,0.631,j,Omena_10,related,orthographic,ort
+СТРОИТЬ,строгий,0.757,j,Omena_10,related,orthographic,ort
+СОБРАТЬ,образ,0.654,j,Omena_10,related,orthographic,ort
+ВЫБРАТЬ,вибрация,0.693,j,Omena_10,related,orthographic,ort
+ТРАТИТЬ,транслит,0.871,j,Omena_10,related,orthographic,ort
+ЛЕТЕТЬ,птица,0.517,j,Siriyvolk93,related,semantic,sem
+СПАТЬ,сон,0.732,j,Siriyvolk93,related,semantic,sem
+ЖЕЛАТЬ,надежда,0.609,j,Siriyvolk93,related,semantic,sem
+ИСКАТЬ,найти,0.704,j,Siriyvolk93,related,semantic,sem
+УБИТЬ,мертвый,0.883,j,Siriyvolk93,related,semantic,sem
+КУРИТЬ,сигарета,0.716,j,Siriyvolk93,related,semantic,sem
+НОСИТЬ,одежда,0.708,j,Siriyvolk93,related,semantic,sem
+НАЧАТЬ,старт,0.677,j,Siriyvolk93,related,semantic,sem
+ПИТЬ,вода,0.524,j,Siriyvolk93,related,semantic,sem
+СЧИТАТЬ,мнение,1.09,j,Siriyvolk93,related,semantic,sem
+ПОМНИТЬ,память,0.598,j,Siriyvolk93,related,semantic,sem
+ПЛАКАТЬ,слезы,0.666,j,Siriyvolk93,related,semantic,sem
+ДУМАТЬ,мысль,0.653,j,Siriyvolk93,related,semantic,sem
+СЛЫШАТЬ,ухо,0.715,j,Siriyvolk93,related,semantic,sem
+ВЕРНУТЬ,возвращение,0.808,j,Siriyvolk93,related,semantic,sem
+ПИСАТЬ,карандаш,0.67,j,Siriyvolk93,related,semantic,sem
+ГОВОРИТЬ,общение,0.683,j,Siriyvolk93,related,semantic,sem
+ЗАЯВИТЬ,сообщение,0.84,j,Siriyvolk93,related,semantic,sem
+СТРАДАТЬ,странный,0.752,j,Siriyvolk93,related,orthographic,ort
+СМОТРЕТЬ,смоленск,0.674,j,Siriyvolk93,related,orthographic,ort
+СТОЯТЬ,столько,0.741,j,Siriyvolk93,related,orthographic,ort
+ИГРАТЬ,гранит,0.815,j,Siriyvolk93,related,orthographic,ort
+СТАВИТЬ,старик,0.933,j,Siriyvolk93,related,orthographic,ort
+СЛУШАТЬ,случай,0.665,j,Siriyvolk93,related,orthographic,ort
+ПРОСИТЬ,протеин,0.725,j,Siriyvolk93,related,orthographic,ort
+МЕШАТЬ,ремешки,0.666,j,Siriyvolk93,related,orthographic,ort
+ТЕРПЕТЬ,теперь,0.834,j,Siriyvolk93,related,orthographic,ort
+СИДЕТЬ,синее,0.578,j,Siriyvolk93,related,orthographic,ort
+ЧИТАТЬ,цитата,0.573,j,Siriyvolk93,related,orthographic,ort
+ДЕРЖАТЬ,деревня,0.501,j,Siriyvolk93,related,orthographic,ort
+ВЕРИТЬ,вертолет,0.619,j,Siriyvolk93,related,orthographic,ort
+ЗВОНИТЬ,вонючий,0.598,j,Siriyvolk93,related,orthographic,ort
+СОЗДАТЬ,здание,0.785,j,Siriyvolk93,related,orthographic,ort
+СТРОИТЬ,строгий,0.682,j,Siriyvolk93,related,orthographic,ort
+СОБРАТЬ,образ,0.618,j,Siriyvolk93,related,orthographic,ort
+ВЫБРАТЬ,вибрация,0.773,j,Siriyvolk93,related,orthographic,ort
+ТРАТИТЬ,транслит,1.005,j,Siriyvolk93,related,orthographic,ort
+ЛЕТЕТЬ,птица,0.548585,j,vvkopiskelija_L2,related,semantic,sem
+СПАТЬ,сон,0.55203,j,vvkopiskelija_L2,related,semantic,sem
+ЖЕЛАТЬ,надежда,0.53541,j,vvkopiskelija_L2,related,semantic,sem
+ИСКАТЬ,найти,0.68279,j,vvkopiskelija_L2,related,semantic,sem
+УБИТЬ,мертвый,0.6678,j,vvkopiskelija_L2,related,semantic,sem
+КУРИТЬ,сигарета,0.573835,j,vvkopiskelija_L2,related,semantic,sem
+НОСИТЬ,одежда,0.580825,j,vvkopiskelija_L2,related,semantic,sem
+НАЧАТЬ,старт,0.656395,j,vvkopiskelija_L2,related,semantic,sem
+ПИТЬ,вода,0.479905,j,vvkopiskelija_L2,related,semantic,sem
+ПОМНИТЬ,память,1.42978,j,vvkopiskelija_L2,related,semantic,sem
+ПЛАКАТЬ,слезы,0.570315,j,vvkopiskelija_L2,related,semantic,sem
+ХВАТИТЬ,достаточно,0.57078,j,vvkopiskelija_L2,related,semantic,sem
+ДУМАТЬ,мысль,0.59208,j,vvkopiskelija_L2,related,semantic,sem
+СЛЫШАТЬ,ухо,0.59936,j,vvkopiskelija_L2,related,semantic,sem
+ВЕРНУТЬ,возвращение,0.681125,j,vvkopiskelija_L2,related,semantic,sem
+ПИСАТЬ,карандаш,0.571445,j,vvkopiskelija_L2,related,semantic,sem
+ГОВОРИТЬ,общение,0.599205,j,vvkopiskelija_L2,related,semantic,sem
+ЗАЯВИТЬ,сообщение,0.565755,j,vvkopiskelija_L2,related,semantic,sem
+СТРАДАТЬ,странный,0.55127,j,vvkopiskelija_L2,related,orthographic,ort
+СМОТРЕТЬ,смоленск,0.540925,j,vvkopiskelija_L2,related,orthographic,ort
+СТОЯТЬ,столько,0.78156,j,vvkopiskelija_L2,related,orthographic,ort
+ИГРАТЬ,гранит,0.614665,j,vvkopiskelija_L2,related,orthographic,ort
+СЛУШАТЬ,случай,0.53142,j,vvkopiskelija_L2,related,orthographic,ort
+ПРОСИТЬ,протеин,0.603195,j,vvkopiskelija_L2,related,orthographic,ort
+МЕШАТЬ,ремешки,0.58026,j,vvkopiskelija_L2,related,orthographic,ort
+ТЕРПЕТЬ,теперь,0.837475,j,vvkopiskelija_L2,related,orthographic,ort
+ТЕРЯТЬ,террор,0.63013,j,vvkopiskelija_L2,related,orthographic,ort
+СИДЕТЬ,синее,0.479825,j,vvkopiskelija_L2,related,orthographic,ort
+ЧИТАТЬ,цитата,0.500215,j,vvkopiskelija_L2,related,orthographic,ort
+ДЕРЖАТЬ,деревня,0.568455,j,vvkopiskelija_L2,related,orthographic,ort
+ВЕРИТЬ,вертолет,0.564445,j,vvkopiskelija_L2,related,orthographic,ort
+ЗВОНИТЬ,вонючий,0.667255,j,vvkopiskelija_L2,related,orthographic,ort
+СТРОИТЬ,строгий,0.6156,j,vvkopiskelija_L2,related,orthographic,ort
+СОБРАТЬ,образ,0.624745,j,vvkopiskelija_L2,related,orthographic,ort
+ВЫБРАТЬ,вибрация,0.571285,j,vvkopiskelija_L2,related,orthographic,ort
+ТРАТИТЬ,транслит,0.79851,j,vvkopiskelija_L2,related,orthographic,ort
+ВЕРИТЬ,самый,0.635,j,belka,a_unrelated,orthographic,unrel
+ВЕРИТЬ,самый,0.605775,j,ellada,a_unrelated,orthographic,unrel
+ВЕРИТЬ,самый,0.630535,j,Hannuska,a_unrelated,orthographic,unrel
+ВЕРИТЬ,самый,0.590355,j,Johonu_L2,a_unrelated,orthographic,unrel
+ВЕРИТЬ,самый,0.55005,j,kotitonttu,a_unrelated,orthographic,unrel
+ВЕРИТЬ,самый,0.81565,j,miisa_L2,a_unrelated,orthographic,unrel
+ВЕРИТЬ,самый,0.50394,j,svet_L2,a_unrelated,orthographic,unrel
+ВЕРНУТЬ,средство,0.85,,april2021,a_unrelated,semantic,unrel
+ВЕРНУТЬ,средство,0.689145,,Branta Leucopsis,a_unrelated,semantic,unrel
+ВЕРНУТЬ,средство,0.440035,,TP,a_unrelated,semantic,unrel
+ВЕРНУТЬ,средство,0.622405,,DEO_L2,a_unrelated,semantic,unrel
+ВЕРНУТЬ,средство,0.93288,,huoletonL2,a_unrelated,semantic,unrel
+ВЕРНУТЬ,средство,1.53962,,Konona_L2,a_unrelated,semantic,unrel
+ВЕРНУТЬ,средство,0.66151,,lapaL2,a_unrelated,semantic,unrel
+ВЫБРАТЬ,назад,0.913,,april2021,a_unrelated,orthographic,unrel
+ВЫБРАТЬ,назад,0.691825,,Branta Leucopsis,a_unrelated,orthographic,unrel
+ВЫБРАТЬ,назад,0.562905,,TP,a_unrelated,orthographic,unrel
+ВЫБРАТЬ,назад,0.677185,,DEO_L2,a_unrelated,orthographic,unrel
+ВЫБРАТЬ,назад,0.6849,,huoletonL2,a_unrelated,orthographic,unrel
+ВЫБРАТЬ,назад,1.443345,,Konona_L2,a_unrelated,orthographic,unrel
+ВЫБРАТЬ,назад,1.300025,,lapaL2,a_unrelated,orthographic,unrel
+ГОВОРИТЬ,все-таки,0.635,j,belka,a_unrelated,semantic,unrel
+ГОВОРИТЬ,все-таки,0.588665,j,ellada,a_unrelated,semantic,unrel
+ГОВОРИТЬ,все-таки,0.821905,j,Hannuska,a_unrelated,semantic,unrel
+ГОВОРИТЬ,все-таки,0.56545,j,Johonu_L2,a_unrelated,semantic,unrel
+ГОВОРИТЬ,все-таки,0.6225,j,kotitonttu,a_unrelated,semantic,unrel
+ГОВОРИТЬ,все-таки,0.685015,j,miisa_L2,a_unrelated,semantic,unrel
+ГОВОРИТЬ,все-таки,0.649805,j,svet_L2,a_unrelated,semantic,unrel
+ДЕРЖАТЬ,работа,0.733,j,belka,a_unrelated,orthographic,unrel
+ДЕРЖАТЬ,работа,0.542505,j,ellada,a_unrelated,orthographic,unrel
+ДЕРЖАТЬ,работа,0.714015,j,Hannuska,a_unrelated,orthographic,unrel
+ДЕРЖАТЬ,работа,0.565805,j,Johonu_L2,a_unrelated,orthographic,unrel
+ДЕРЖАТЬ,работа,0.58352,j,kotitonttu,a_unrelated,orthographic,unrel
+ДЕРЖАТЬ,работа,0.6273,j,svet_L2,a_unrelated,orthographic,unrel
+ДУМАТЬ,другой,0.681,j,belka,a_unrelated,semantic,unrel
+ДУМАТЬ,другой,0.567705,j,ellada,a_unrelated,semantic,unrel
+ДУМАТЬ,другой,0.63972,j,Hannuska,a_unrelated,semantic,unrel
+ДУМАТЬ,другой,0.61363,j,Johonu_L2,a_unrelated,semantic,unrel
+ДУМАТЬ,другой,0.767445,j,kotitonttu,a_unrelated,semantic,unrel
+ДУМАТЬ,другой,0.916535,j,miisa_L2,a_unrelated,semantic,unrel
+ДУМАТЬ,другой,0.59349,j,svet_L2,a_unrelated,semantic,unrel
+ЕХАТЬ,сильный,0.68,,april2021,a_unrelated,semantic,unrel
+ЕХАТЬ,сильный,0.66866,,Branta Leucopsis,a_unrelated,semantic,unrel
+ЕХАТЬ,сильный,0.60893,,TP,a_unrelated,semantic,unrel
+ЕХАТЬ,сильный,0.95084,,DEO_L2,a_unrelated,semantic,unrel
+ЕХАТЬ,сильный,0.719005,,huoletonL2,a_unrelated,semantic,unrel
+ЕХАТЬ,сильный,0.89489,,Konona_L2,a_unrelated,semantic,unrel
+ЕХАТЬ,сильный,1.457805,,lapaL2,a_unrelated,semantic,unrel
+ЖЕЛАТЬ,принцип,0.712,,april2021,a_unrelated,semantic,unrel
+ЖЕЛАТЬ,принцип,0.775485,,Branta Leucopsis,a_unrelated,semantic,unrel
+ЖЕЛАТЬ,принцип,0.53339,,TP,a_unrelated,semantic,unrel
+ЖЕЛАТЬ,принцип,0.70045,,DEO_L2,a_unrelated,semantic,unrel
+ЖЕЛАТЬ,принцип,0.651085,,huoletonL2,a_unrelated,semantic,unrel
+ЖЕЛАТЬ,принцип,0.772635,,Konona_L2,a_unrelated,semantic,unrel
+ЖЕЛАТЬ,принцип,1.083275,,lapaL2,a_unrelated,semantic,unrel
+ЗАЯВИТЬ,сколько,0.73,,april2021,a_unrelated,semantic,unrel
+ЗАЯВИТЬ,сколько,1.455655,,Branta Leucopsis,a_unrelated,semantic,unrel
+ЗАЯВИТЬ,сколько,0.761465,,TP,a_unrelated,semantic,unrel
+ЗАЯВИТЬ,сколько,1.08311,,DEO_L2,a_unrelated,semantic,unrel
+ЗАЯВИТЬ,сколько,0.650405,,huoletonL2,a_unrelated,semantic,unrel
+ЗАЯВИТЬ,сколько,2.71026,,Konona_L2,a_unrelated,semantic,unrel
+ЗАЯВИТЬ,сколько,0.751335,,lapaL2,a_unrelated,semantic,unrel
+ЗВОНИТЬ,большой,0.903,j,belka,a_unrelated,orthographic,unrel
+ЗВОНИТЬ,большой,0.65316,j,ellada,a_unrelated,orthographic,unrel
+ЗВОНИТЬ,большой,0.64231,j,Hannuska,a_unrelated,orthographic,unrel
+ЗВОНИТЬ,большой,0.59728,j,Johonu_L2,a_unrelated,orthographic,unrel
+ЗВОНИТЬ,большой,0.683415,j,kotitonttu,a_unrelated,orthographic,unrel
+ЗВОНИТЬ,большой,0.73596,j,miisa_L2,a_unrelated,orthographic,unrel
+ЗВОНИТЬ,большой,0.575725,j,svet_L2,a_unrelated,orthographic,unrel
+ИГРАТЬ,великий,0.695,,april2021,a_unrelated,orthographic,unrel
+ИГРАТЬ,великий,0.690875,,Branta Leucopsis,a_unrelated,orthographic,unrel
+ИГРАТЬ,великий,0.467005,,TP,a_unrelated,orthographic,unrel
+ИГРАТЬ,великий,0.600415,,DEO_L2,a_unrelated,orthographic,unrel
+ИГРАТЬ,великий,0.616695,,huoletonL2,a_unrelated,orthographic,unrel
+ИГРАТЬ,великий,0.78382,,Konona_L2,a_unrelated,orthographic,unrel
+ИГРАТЬ,великий,0.659,,lapaL2,a_unrelated,orthographic,unrel
+ИСКАТЬ,мужчина,0.662,,april2021,a_unrelated,semantic,unrel
+ИСКАТЬ,мужчина,0.67813,,Branta Leucopsis,a_unrelated,semantic,unrel
+ИСКАТЬ,мужчина,0.546405,,TP,a_unrelated,semantic,unrel
+ИСКАТЬ,мужчина,0.687305,,DEO_L2,a_unrelated,semantic,unrel
+ИСКАТЬ,мужчина,0.62992,,huoletonL2,a_unrelated,semantic,unrel
+ИСКАТЬ,мужчина,0.66998,,Konona_L2,a_unrelated,semantic,unrel
+ИСКАТЬ,мужчина,0.65385,,lapaL2,a_unrelated,semantic,unrel
+КУРИТЬ,взгляд,0.597,,april2021,a_unrelated,semantic,unrel
+КУРИТЬ,взгляд,0.72532,,Branta Leucopsis,a_unrelated,semantic,unrel
+КУРИТЬ,взгляд,0.534435,,TP,a_unrelated,semantic,unrel
+КУРИТЬ,взгляд,0.57316,,DEO_L2,a_unrelated,semantic,unrel
+КУРИТЬ,взгляд,0.619265,,huoletonL2,a_unrelated,semantic,unrel
+КУРИТЬ,взгляд,0.7018,,Konona_L2,a_unrelated,semantic,unrel
+КУРИТЬ,взгляд,0.618365,,lapaL2,a_unrelated,semantic,unrel
+ЛЕТЕТЬ,аренда,0.748,j,belka,a_unrelated,semantic,unrel
+ЛЕТЕТЬ,аренда,0.51293,j,ellada,a_unrelated,semantic,unrel
+ЛЕТЕТЬ,аренда,0.89142,j,Hannuska,a_unrelated,semantic,unrel
+ЛЕТЕТЬ,аренда,0.59151,j,Johonu_L2,a_unrelated,semantic,unrel
+ЛЕТЕТЬ,аренда,0.80073,j,kotitonttu,a_unrelated,semantic,unrel
+ЛЕТЕТЬ,аренда,0.62551,j,svet_L2,a_unrelated,semantic,unrel
+ЛЮБИТЬ,военный,0.649,,april2021,a_unrelated,semantic,unrel
+ЛЮБИТЬ,военный,0.768155,,Branta Leucopsis,a_unrelated,semantic,unrel
+ЛЮБИТЬ,военный,0.62313,,TP,a_unrelated,semantic,unrel
+ЛЮБИТЬ,военный,0.709715,,DEO_L2,a_unrelated,semantic,unrel
+ЛЮБИТЬ,военный,0.69141,,huoletonL2,a_unrelated,semantic,unrel
+ЛЮБИТЬ,военный,0.71663,,Konona_L2,a_unrelated,semantic,unrel
+ЛЮБИТЬ,военный,0.717,,lapaL2,a_unrelated,semantic,unrel
+МЕШАТЬ,дорогой,0.617,,april2021,a_unrelated,orthographic,unrel
+МЕШАТЬ,дорогой,0.90146,,Branta Leucopsis,a_unrelated,orthographic,unrel
+МЕШАТЬ,дорогой,0.64088,,TP,a_unrelated,orthographic,unrel
+МЕШАТЬ,дорогой,0.58846,,DEO_L2,a_unrelated,orthographic,unrel
+МЕШАТЬ,дорогой,0.719865,,huoletonL2,a_unrelated,orthographic,unrel
+МЕШАТЬ,дорогой,0.70427,,Konona_L2,a_unrelated,orthographic,unrel
+МЕШАТЬ,дорогой,0.91694,,lapaL2,a_unrelated,orthographic,unrel
+НАЧАТЬ,всякий,0.747,j,belka,a_unrelated,semantic,unrel
+НАЧАТЬ,всякий,0.73557,j,ellada,a_unrelated,semantic,unrel
+НАЧАТЬ,всякий,0.518925,j,Hannuska,a_unrelated,semantic,unrel
+НАЧАТЬ,всякий,0.74712,j,Johonu_L2,a_unrelated,semantic,unrel
+НАЧАТЬ,всякий,0.479155,j,kotitonttu,a_unrelated,semantic,unrel
+НАЧАТЬ,всякий,0.635195,j,miisa_L2,a_unrelated,semantic,unrel
+НАЧАТЬ,всякий,0.551255,j,svet_L2,a_unrelated,semantic,unrel
+ПИСАТЬ,черный,0.782,j,belka,a_unrelated,semantic,unrel
+ПИСАТЬ,черный,0.852305,j,ellada,a_unrelated,semantic,unrel
+ПИСАТЬ,черный,0.57308,j,Hannuska,a_unrelated,semantic,unrel
+ПИСАТЬ,черный,0.655675,j,Johonu_L2,a_unrelated,semantic,unrel
+ПИСАТЬ,черный,0.58491,j,kotitonttu,a_unrelated,semantic,unrel
+ПИСАТЬ,черный,0.70075,j,miisa_L2,a_unrelated,semantic,unrel
+ПИСАТЬ,черный,0.449705,j,svet_L2,a_unrelated,semantic,unrel
+ПИТЬ,дело,1.115,j,belka,a_unrelated,semantic,unrel
+ПИТЬ,дело,0.6192,j,ellada,a_unrelated,semantic,unrel
+ПИТЬ,дело,0.95997,j,Hannuska,a_unrelated,semantic,unrel
+ПИТЬ,дело,0.673905,j,Johonu_L2,a_unrelated,semantic,unrel
+ПИТЬ,дело,0.739875,j,kotitonttu,a_unrelated,semantic,unrel
+ПИТЬ,дело,0.81863,j,svet_L2,a_unrelated,semantic,unrel
+ПЛАКАТЬ,женщина,0.701,,april2021,a_unrelated,semantic,unrel
+ПЛАКАТЬ,женщина,0.70819,,Branta Leucopsis,a_unrelated,semantic,unrel
+ПЛАКАТЬ,женщина,0.57133,,TP,a_unrelated,semantic,unrel
+ПЛАКАТЬ,женщина,0.58664,,DEO_L2,a_unrelated,semantic,unrel
+ПЛАКАТЬ,женщина,0.650515,,huoletonL2,a_unrelated,semantic,unrel
+ПЛАКАТЬ,женщина,0.913615,,Konona_L2,a_unrelated,semantic,unrel
+ПЛАКАТЬ,женщина,0.61738,,lapaL2,a_unrelated,semantic,unrel
+ПОМНИТЬ,власть,0.663,j,belka,a_unrelated,semantic,unrel
+ПОМНИТЬ,власть,0.6525,j,ellada,a_unrelated,semantic,unrel
+ПОМНИТЬ,власть,0.764335,j,Hannuska,a_unrelated,semantic,unrel
+ПОМНИТЬ,власть,0.52631,j,Johonu_L2,a_unrelated,semantic,unrel
+ПОМНИТЬ,власть,0.544965,j,kotitonttu,a_unrelated,semantic,unrel
+ПОМНИТЬ,власть,0.618725,j,miisa_L2,a_unrelated,semantic,unrel
+ПОМНИТЬ,власть,0.4954,j,svet_L2,a_unrelated,orthographic,unrel
+ПРОСИТЬ,близкий,1.246,,april2021,a_unrelated,orthographic,unrel
+ПРОСИТЬ,близкий,0.75728,,Branta Leucopsis,a_unrelated,orthographic,unrel
+ПРОСИТЬ,близкий,0.552995,,TP,a_unrelated,orthographic,unrel
+ПРОСИТЬ,близкий,0.777535,,DEO_L2,a_unrelated,orthographic,unrel
+ПРОСИТЬ,близкий,0.61611,,huoletonL2,a_unrelated,orthographic,unrel
+ПРОСИТЬ,близкий,1.435135,,Konona_L2,a_unrelated,orthographic,unrel
+ПРОСИТЬ,близкий,0.75225,,lapaL2,a_unrelated,orthographic,unrel
+СИДЕТЬ,первый,0.637,j,belka,a_unrelated,orthographic,unrel
+СИДЕТЬ,первый,0.52052,j,ellada,a_unrelated,orthographic,unrel
+СИДЕТЬ,первый,0.592465,j,Hannuska,a_unrelated,orthographic,unrel
+СИДЕТЬ,первый,0.55756,j,Johonu_L2,a_unrelated,orthographic,unrel
+СИДЕТЬ,первый,0.533755,j,kotitonttu,a_unrelated,orthographic,unrel
+СИДЕТЬ,первый,0.71775,j,miisa_L2,a_unrelated,orthographic,unrel
+СИДЕТЬ,первый,0.546045,j,svet_L2,a_unrelated,orthographic,unrel
+СЛУШАТЬ,готовый,0.631,,april2021,a_unrelated,orthographic,unrel
+СЛУШАТЬ,готовый,0.752785,,Branta Leucopsis,a_unrelated,orthographic,unrel
+СЛУШАТЬ,готовый,0.40255,,TP,a_unrelated,orthographic,unrel
+СЛУШАТЬ,готовый,0.714995,,DEO_L2,a_unrelated,orthographic,unrel
+СЛУШАТЬ,готовый,0.6042,,huoletonL2,a_unrelated,orthographic,unrel
+СЛУШАТЬ,готовый,0.946845,,Konona_L2,a_unrelated,orthographic,unrel
+СЛУШАТЬ,готовый,0.552,,lapaL2,a_unrelated,orthographic,unrel
+СЛЫШАТЬ,история,0.717,j,belka,a_unrelated,semantic,unrel
+СЛЫШАТЬ,история,0.655425,j,ellada,a_unrelated,semantic,unrel
+СЛЫШАТЬ,история,1.069945,j,Hannuska,a_unrelated,semantic,unrel
+СЛЫШАТЬ,история,0.53914,j,Johonu_L2,a_unrelated,semantic,unrel
+СЛЫШАТЬ,история,0.662585,j,kotitonttu,a_unrelated,semantic,unrel
+СЛЫШАТЬ,история,0.63282,j,miisa_L2,a_unrelated,semantic,unrel
+СЛЫШАТЬ,история,0.574665,j,svet_L2,a_unrelated,semantic,unrel
+СМОТРЕТЬ,впрочем,0.617,,april2021,a_unrelated,semantic,unrel
+СМОТРЕТЬ,впрочем,0.652505,,Branta Leucopsis,a_unrelated,semantic,unrel
+СМОТРЕТЬ,впрочем,0.68368,,TP,a_unrelated,orthographic,unrel
+СМОТРЕТЬ,впрочем,0.74878,,DEO_L2,a_unrelated,orthographic,unrel
+СМОТРЕТЬ,впрочем,0.649685,,huoletonL2,a_unrelated,orthographic,unrel
+СМОТРЕТЬ,впрочем,0.801575,,Konona_L2,a_unrelated,orthographic,unrel
+СМОТРЕТЬ,впрочем,0.66154,,lapaL2,a_unrelated,orthographic,unrel
+СОБРАТЬ,сильный,0.713,,april2021,a_unrelated,orthographic,unrel
+СОБРАТЬ,сильный,0.810975,,Branta Leucopsis,a_unrelated,orthographic,unrel
+СОБРАТЬ,сильный,0.528655,,TP,a_unrelated,orthographic,unrel
+СОБРАТЬ,сильный,0.89059,,DEO_L2,a_unrelated,orthographic,unrel
+СОБРАТЬ,сильный,0.83353,,huoletonL2,a_unrelated,orthographic,unrel
+СОБРАТЬ,сильный,0.989005,,Konona_L2,a_unrelated,orthographic,unrel
+СОБРАТЬ,сильный,1.001165,,lapaL2,a_unrelated,orthographic,unrel
+СОЗДАТЬ,вообще,0.799,j,belka,a_unrelated,orthographic,unrel
+СОЗДАТЬ,вообще,0.6716,j,ellada,a_unrelated,orthographic,unrel
+СОЗДАТЬ,вообще,0.613995,j,Hannuska,a_unrelated,orthographic,unrel
+СОЗДАТЬ,вообще,0.529195,j,Johonu_L2,a_unrelated,orthographic,unrel
+СОЗДАТЬ,вообще,0.60305,j,kotitonttu,a_unrelated,orthographic,unrel
+СОЗДАТЬ,вообще,1.06455,j,miisa_L2,a_unrelated,orthographic,unrel
+СОЗДАТЬ,вообще,0.436545,j,svet_L2,a_unrelated,orthographic,unrel
+СОЗДАТЬ,здание,0.791,,april2021,a_unrelated,orthographic,unrel
+СОЗДАТЬ,здание,0.78577,,Branta Leucopsis,a_unrelated,orthographic,unrel
+СОЗДАТЬ,здание,0.683985,,TP,a_unrelated,orthographic,unrel
+СОЗДАТЬ,здание,0.7015,,DEO_L2,a_unrelated,orthographic,unrel
+СОЗДАТЬ,здание,0.653725,,huoletonL2,a_unrelated,orthographic,unrel
+СОЗДАТЬ,здание,1.179675,,Konona_L2,a_unrelated,orthographic,unrel
+СОЗДАТЬ,здание,1.038605,,lapaL2,a_unrelated,orthographic,unrel
+СПАТЬ,сердце,0.7,,april2021,a_unrelated,semantic,unrel
+СПАТЬ,сердце,0.702985,,Branta Leucopsis,a_unrelated,semantic,unrel
+СПАТЬ,сердце,0.51147,,TP,a_unrelated,semantic,unrel
+СПАТЬ,сердце,0.68076,,DEO_L2,a_unrelated,semantic,unrel
+СПАТЬ,сердце,0.75176,,huoletonL2,a_unrelated,semantic,unrel
+СПАТЬ,сердце,0.79138,,Konona_L2,a_unrelated,semantic,unrel
+СПАТЬ,сердце,0.58447,,lapaL2,a_unrelated,semantic,unrel
+СТАВИТЬ,очередь,0.662,,april2021,a_unrelated,orthographic,unrel
+СТАВИТЬ,очередь,0.71778,,Branta Leucopsis,a_unrelated,orthographic,unrel
+СТАВИТЬ,очередь,0.494435,,TP,a_unrelated,orthographic,unrel
+СТАВИТЬ,очередь,0.84493,,DEO_L2,a_unrelated,orthographic,unrel
+СТАВИТЬ,очередь,1.037035,,huoletonL2,a_unrelated,orthographic,unrel
+СТАВИТЬ,очередь,1.26144,,Konona_L2,a_unrelated,orthographic,unrel
+СТАВИТЬ,очередь,0.96678,,lapaL2,a_unrelated,orthographic,unrel
+СТОЯТЬ,палец,0.662,,april2021,a_unrelated,orthographic,unrel
+СТОЯТЬ,палец,0.6177,,Branta Leucopsis,a_unrelated,orthographic,unrel
+СТОЯТЬ,палец,0.60716,,TP,a_unrelated,orthographic,unrel
+СТОЯТЬ,палец,0.683975,,DEO_L2,a_unrelated,orthographic,unrel
+СТОЯТЬ,палец,0.983335,,huoletonL2,a_unrelated,orthographic,unrel
+СТОЯТЬ,палец,0.72804,,Konona_L2,a_unrelated,orthographic,unrel
+СТОЯТЬ,палец,0.683655,,lapaL2,a_unrelated,orthographic,unrel
+СТРАДАТЬ,машина,1.055,,april2021,a_unrelated,orthographic,unrel
+СТРАДАТЬ,машина,0.875855,,Branta Leucopsis,a_unrelated,orthographic,unrel
+СТРАДАТЬ,машина,0.62088,,TP,a_unrelated,orthographic,unrel
+СТРАДАТЬ,машина,0.661815,,DEO_L2,a_unrelated,orthographic,unrel
+СТРАДАТЬ,машина,0.90111,,huoletonL2,a_unrelated,orthographic,unrel
+СТРАДАТЬ,машина,0.954915,,Konona_L2,a_unrelated,orthographic,unrel
+СТРАДАТЬ,машина,0.76716,,lapaL2,a_unrelated,orthographic,unrel
+СТРОИТЬ,область,0.88,j,belka,a_unrelated,orthographic,unrel
+СТРОИТЬ,область,0.579,j,ellada,a_unrelated,orthographic,unrel
+СТРОИТЬ,область,0.83901,j,Hannuska,a_unrelated,orthographic,unrel
+СТРОИТЬ,область,0.663915,j,Johonu_L2,a_unrelated,orthographic,unrel
+СТРОИТЬ,область,0.615385,j,kotitonttu,a_unrelated,orthographic,unrel
+СТРОИТЬ,область,0.801395,j,miisa_L2,a_unrelated,orthographic,unrel
+СТРОИТЬ,область,0.52726,j,svet_L2,a_unrelated,orthographic,unrel
+СЧИТАТЬ,вторник,0.841,,april2021,a_unrelated,semantic,unrel
+СЧИТАТЬ,вторник,0.830325,,Branta Leucopsis,a_unrelated,semantic,unrel
+СЧИТАТЬ,вторник,0.60073,,TP,a_unrelated,semantic,unrel
+СЧИТАТЬ,вторник,0.88381,,DEO_L2,a_unrelated,semantic,unrel
+СЧИТАТЬ,вторник,0.86634,,huoletonL2,a_unrelated,semantic,unrel
+СЧИТАТЬ,вторник,1.069455,,Konona_L2,a_unrelated,semantic,unrel
+СЧИТАТЬ,вторник,0.86689,,lapaL2,a_unrelated,semantic,unrel
+ТЕРПЕТЬ,вступление,0.693,,april2021,a_unrelated,orthographic,unrel
+ТЕРПЕТЬ,вступление,0.68624,,Branta Leucopsis,a_unrelated,orthographic,unrel
+ТЕРПЕТЬ,вступление,0.463305,,TP,a_unrelated,orthographic,unrel
+ТЕРПЕТЬ,вступление,0.60004,,DEO_L2,a_unrelated,orthographic,unrel
+ТЕРПЕТЬ,вступление,0.80354,,huoletonL2,a_unrelated,orthographic,unrel
+ТЕРПЕТЬ,вступление,0.811635,,Konona_L2,a_unrelated,orthographic,unrel
+ТЕРПЕТЬ,вступление,0.700535,,lapaL2,a_unrelated,orthographic,unrel
+ТЕРЯТЬ,метод,0.615,,april2021,a_unrelated,orthographic,unrel
+ТЕРЯТЬ,метод,0.69169,,Branta Leucopsis,a_unrelated,orthographic,unrel
+ТЕРЯТЬ,метод,0.445985,,TP,a_unrelated,orthographic,unrel
+ТЕРЯТЬ,метод,0.668595,,DEO_L2,a_unrelated,orthographic,unrel
+ТЕРЯТЬ,метод,0.868635,,huoletonL2,a_unrelated,orthographic,unrel
+ТЕРЯТЬ,метод,1.597615,,Konona_L2,a_unrelated,orthographic,unrel
+ТЕРЯТЬ,метод,0.552545,,lapaL2,a_unrelated,orthographic,unrel
+ТРАТИТЬ,задание,0.968,,april2021,a_unrelated,orthographic,unrel
+ТРАТИТЬ,задание,0.74646,,Branta Leucopsis,a_unrelated,orthographic,unrel
+ТРАТИТЬ,задание,0.573865,,TP,a_unrelated,orthographic,unrel
+ТРАТИТЬ,задание,0.543845,,DEO_L2,a_unrelated,orthographic,unrel
+ТРАТИТЬ,задание,0.946995,,huoletonL2,a_unrelated,orthographic,unrel
+ТРАТИТЬ,задание,0.86693,,Konona_L2,a_unrelated,orthographic,unrel
+ТРАТИТЬ,задание,0.621755,,lapaL2,a_unrelated,orthographic,unrel
+УБИТЬ,часто,0.747,,april2021,a_unrelated,semantic,unrel
+УБИТЬ,часто,0.811185,,Branta Leucopsis,a_unrelated,semantic,unrel
+УБИТЬ,часто,0.69547,,TP,a_unrelated,semantic,unrel
+УБИТЬ,часто,0.57475,,DEO_L2,a_unrelated,semantic,unrel
+УБИТЬ,часто,0.866395,,huoletonL2,a_unrelated,semantic,unrel
+УБИТЬ,часто,0.73498,,Konona_L2,a_unrelated,semantic,unrel
+УБИТЬ,часто,1.35468,,lapaL2,a_unrelated,semantic,unrel
+ХВАТИТЬ,рядом,0.738,,april2021,a_unrelated,semantic,unrel
+ХВАТИТЬ,рядом,0.66985,,Branta Leucopsis,a_unrelated,semantic,unrel
+ХВАТИТЬ,рядом,0.73811,,TP,a_unrelated,semantic,unrel
+ХВАТИТЬ,рядом,0.627515,,DEO_L2,a_unrelated,semantic,unrel
+ХВАТИТЬ,рядом,0.73641,,huoletonL2,a_unrelated,semantic,unrel
+ХВАТИТЬ,рядом,1.34951,,Konona_L2,a_unrelated,semantic,unrel
+ХВАТИТЬ,рядом,0.535615,,lapaL2,a_unrelated,semantic,unrel
+ЧИТАТЬ,только,0.697,j,belka,a_unrelated,orthographic,unrel
+ЧИТАТЬ,только,0.51888,j,ellada,a_unrelated,orthographic,unrel
+ЧИТАТЬ,только,0.58944,j,Hannuska,a_unrelated,orthographic,unrel
+ЧИТАТЬ,только,0.55042,j,Johonu_L2,a_unrelated,orthographic,unrel
+ЧИТАТЬ,только,0.58521,j,kotitonttu,a_unrelated,orthographic,unrel
+ЧИТАТЬ,только,0.550755,j,miisa_L2,a_unrelated,orthographic,unrel
+ЧИТАТЬ,только,0.55406,j,svet_L2,a_unrelated,orthographic,unrel
+ЛЕТЕТЬ,лететь,0.565,j,adk_L2,identity,semantic,id
+ЕХАТЬ,ехать,0.68,j,adk_L2,identity,semantic,id
+ЖЕЛАТЬ,желать,0.448,j,adk_L2,identity,semantic,id
+ИСКАТЬ,искать,0.539,j,adk_L2,identity,semantic,id
+УБИТЬ,убить,0.481,j,adk_L2,identity,semantic,id
+КУРИТЬ,курить,0.544,j,adk_L2,identity,semantic,id
+ЛЮБИТЬ,любить,0.518,j,adk_L2,identity,semantic,id
+НАЧАТЬ,начать,0.607,j,adk_L2,identity,semantic,id
+ПИТЬ,пить,0.591,j,adk_L2,identity,semantic,id
+СЧИТАТЬ,считать,0.475,j,adk_L2,identity,semantic,id
+ПОМНИТЬ,помнить,0.529,j,adk_L2,identity,semantic,id
+ПЛАКАТЬ,плакать,0.504,j,adk_L2,identity,semantic,id
+ДУМАТЬ,думать,0.438,j,adk_L2,identity,semantic,id
+СЛЫШАТЬ,слышать,0.4,j,adk_L2,identity,semantic,id
+ВЕРНУТЬ,вернуть,0.501,j,adk_L2,identity,semantic,id
+ПИСАТЬ,писать,0.45,j,adk_L2,identity,semantic,id
+ГОВОРИТЬ,говорить,0.519,j,adk_L2,identity,semantic,id
+СТРАДАТЬ,страдать,0.531,j,adk_L2,identity,semantic,id
+СМОТРЕТЬ,смотреть,0.479,j,adk_L2,identity,orthographic,id
+СТОЯТЬ,стоять,0.575,j,adk_L2,identity,orthographic,id
+ИГРАТЬ,играть,0.555,j,adk_L2,identity,orthographic,id
+СТАВИТЬ,ставить,0.408,j,adk_L2,identity,orthographic,id
+СЛУШАТЬ,слушать,0.43,j,adk_L2,identity,orthographic,id
+ПРОСИТЬ,просить,0.515,j,adk_L2,identity,orthographic,id
+ТЕРПЕТЬ,терпеть,0.516,j,adk_L2,identity,orthographic,id
+СИДЕТЬ,сидеть,0.442,j,adk_L2,identity,orthographic,id
+ЧИТАТЬ,читать,0.484,j,adk_L2,identity,orthographic,id
+ДЕРЖАТЬ,держать,0.484,j,adk_L2,identity,orthographic,id
+ВЕРИТЬ,верить,0.401,j,adk_L2,identity,orthographic,id
+ЗВОНИТЬ,звонить,0.59,j,adk_L2,identity,orthographic,id
+СОЗДАТЬ,создать,0.468,j,adk_L2,identity,orthographic,id
+СТРОИТЬ,строить,0.551,j,adk_L2,identity,orthographic,id
+СОБРАТЬ,собрать,0.413,j,adk_L2,identity,orthographic,id
+ВЫБРАТЬ,выбрать,0.505,j,adk_L2,identity,orthographic,id
+ЛЕТЕТЬ,лететь,0.5007,j,amannerm,identity,semantic,id
+ЕХАТЬ,ехать,0.5556,j,amannerm,identity,semantic,id
+СПАТЬ,спать,0.4731,j,amannerm,identity,semantic,id
+ЖЕЛАТЬ,желать,0.5204,j,amannerm,identity,semantic,id
+ИСКАТЬ,искать,0.5195,j,amannerm,identity,semantic,id
+УБИТЬ,убить,0.5189,j,amannerm,identity,semantic,id
+КУРИТЬ,курить,0.525,j,amannerm,identity,semantic,id
+ЛЮБИТЬ,любить,0.6366,j,amannerm,identity,semantic,id
+НАЧАТЬ,начать,0.4743,j,amannerm,identity,semantic,id
+ПИТЬ,пить,0.7518,j,amannerm,identity,semantic,id
+СЧИТАТЬ,считать,0.5626,j,amannerm,identity,semantic,id
+ПОМНИТЬ,помнить,0.5295,j,amannerm,identity,semantic,id
+ПЛАКАТЬ,плакать,0.7291,j,amannerm,identity,semantic,id
+ХВАТИТЬ,хватить,0.5211,j,amannerm,identity,semantic,id
+ДУМАТЬ,думать,0.5028,j,amannerm,identity,semantic,id
+СЛЫШАТЬ,слышать,0.5034,j,amannerm,identity,semantic,id
+ВЕРНУТЬ,вернуть,0.4821,j,amannerm,identity,semantic,id
+ПИСАТЬ,писать,0.4526,j,amannerm,identity,semantic,id
+ГОВОРИТЬ,говорить,0.5292,j,amannerm,identity,semantic,id
+ЗАЯВИТЬ,заявить,0.7008,j,amannerm,identity,semantic,id
+СТРАДАТЬ,страдать,0.8011,j,amannerm,identity,orthographic,id
+СМОТРЕТЬ,смотреть,0.4891,j,amannerm,identity,orthographic,id
+СТОЯТЬ,стоять,0.5539,j,amannerm,identity,orthographic,id
+ИГРАТЬ,играть,0.486,j,amannerm,identity,orthographic,id
+СТАВИТЬ,ставить,0.5016,j,amannerm,identity,orthographic,id
+СЛУШАТЬ,слушать,0.5198,j,amannerm,identity,orthographic,id
+ПРОСИТЬ,просить,0.6025,j,amannerm,identity,orthographic,id
+МЕШАТЬ,мешать,0.5881,j,amannerm,identity,orthographic,id
+ТЕРПЕТЬ,терпеть,0.4859,j,amannerm,identity,orthographic,id
+ТЕРЯТЬ,терять,0.5238,j,amannerm,identity,orthographic,id
+СИДЕТЬ,сидеть,0.6109,j,amannerm,identity,orthographic,id
+ЧИТАТЬ,читать,0.5558,j,amannerm,identity,orthographic,id
+ДЕРЖАТЬ,держать,0.5156,j,amannerm,identity,orthographic,id
+ВЕРИТЬ,верить,0.5627,j,amannerm,identity,orthographic,id
+ЗВОНИТЬ,звонить,0.6059,j,amannerm,identity,orthographic,id
+СОЗДАТЬ,создать,0.6189,j,amannerm,identity,orthographic,id
+СТРОИТЬ,строить,0.4758,j,amannerm,identity,orthographic,id
+СОБРАТЬ,собрать,0.472,j,amannerm,identity,orthographic,id
+ВЫБРАТЬ,выбрать,0.5315,j,amannerm,identity,orthographic,id
+ТРАТИТЬ,тратить,0.6277,j,amannerm,identity,orthographic,id
+ЛЕТЕТЬ,лететь,0.721,j,jenniraj L2,identity,semantic,id
+ЕХАТЬ,ехать,0.589,j,jenniraj L2,identity,semantic,id
+СПАТЬ,спать,0.561,j,jenniraj L2,identity,semantic,id
+ЖЕЛАТЬ,желать,0.588,j,jenniraj L2,identity,semantic,id
+ИСКАТЬ,искать,0.56,j,jenniraj L2,identity,semantic,id
+УБИТЬ,убить,0.828,j,jenniraj L2,identity,semantic,id
+КУРИТЬ,курить,0.638,j,jenniraj L2,identity,semantic,id
+ЛЮБИТЬ,любить,0.571,j,jenniraj L2,identity,semantic,id
+НАЧАТЬ,начать,0.575,j,jenniraj L2,identity,semantic,id
+ПИТЬ,пить,0.576,j,jenniraj L2,identity,semantic,id
+ПОМНИТЬ,помнить,0.788,j,jenniraj L2,identity,semantic,id
+ПЛАКАТЬ,плакать,0.689,j,jenniraj L2,identity,semantic,id
+ХВАТИТЬ,хватить,0.488,j,jenniraj L2,identity,semantic,id
+ДУМАТЬ,думать,0.905,j,jenniraj L2,identity,semantic,id
+СЛЫШАТЬ,слышать,0.804,j,jenniraj L2,identity,semantic,id
+ВЕРНУТЬ,вернуть,0.691,j,jenniraj L2,identity,semantic,id
+ПИСАТЬ,писать,0.608,j,jenniraj L2,identity,semantic,id
+ГОВОРИТЬ,говорить,0.491,j,jenniraj L2,identity,semantic,id
+ЗАЯВИТЬ,заявить,1.044,j,jenniraj L2,identity,semantic,id
+СТРАДАТЬ,страдать,0.941,j,jenniraj L2,identity,orthographic,id
+СМОТРЕТЬ,смотреть,0.704,j,jenniraj L2,identity,orthographic,id
+СТОЯТЬ,стоять,0.69,j,jenniraj L2,identity,orthographic,id
+ИГРАТЬ,играть,0.64,j,jenniraj L2,identity,orthographic,id
+СТАВИТЬ,ставить,0.806,j,jenniraj L2,identity,orthographic,id
+СЛУШАТЬ,слушать,0.575,j,jenniraj L2,identity,orthographic,id
+ПРОСИТЬ,просить,0.775,j,jenniraj L2,identity,orthographic,id
+МЕШАТЬ,мешать,0.61,j,jenniraj L2,identity,orthographic,id
+ТЕРПЕТЬ,терпеть,0.607,j,jenniraj L2,identity,orthographic,id
+ТЕРЯТЬ,терять,0.837,j,jenniraj L2,identity,orthographic,id
+СИДЕТЬ,сидеть,0.523,j,jenniraj L2,identity,orthographic,id
+ЧИТАТЬ,читать,0.607,j,jenniraj L2,identity,orthographic,id
+ДЕРЖАТЬ,держать,0.637,j,jenniraj L2,identity,orthographic,id
+ВЕРИТЬ,верить,0.606,j,jenniraj L2,identity,orthographic,id
+ЗВОНИТЬ,звонить,0.572,j,jenniraj L2,identity,orthographic,id
+СОЗДАТЬ,создать,0.589,j,jenniraj L2,identity,orthographic,id
+СТРОИТЬ,строить,0.591,j,jenniraj L2,identity,orthographic,id
+СОБРАТЬ,собрать,0.621,j,jenniraj L2,identity,orthographic,id
+ВЫБРАТЬ,выбрать,0.508,j,jenniraj L2,identity,orthographic,id
+ТРАТИТЬ,тратить,0.56,j,jenniraj L2,identity,orthographic,id
+ЛЕТЕТЬ,лететь,0.565,j,KM,identity,semantic,id
+ЕХАТЬ,ехать,0.54,j,KM,identity,semantic,id
+СПАТЬ,спать,0.653,j,KM,identity,semantic,id
+ЖЕЛАТЬ,желать,0.668,j,KM,identity,semantic,id
+ИСКАТЬ,искать,0.666,j,KM,identity,semantic,id
+УБИТЬ,убить,0.616,j,KM,identity,semantic,id
+КУРИТЬ,курить,0.548,j,KM,identity,semantic,id
+ЛЮБИТЬ,любить,0.698,j,KM,identity,semantic,id
+НАЧАТЬ,начать,0.541,j,KM,identity,semantic,id
+ПИТЬ,пить,0.616,j,KM,identity,semantic,id
+СЧИТАТЬ,считать,1.222,j,KM,identity,semantic,id
+ПОМНИТЬ,помнить,0.957,j,KM,identity,semantic,id
+ПЛАКАТЬ,плакать,0.654,j,KM,identity,semantic,id
+ХВАТИТЬ,хватить,0.648,j,KM,identity,semantic,id
+ДУМАТЬ,думать,0.89,j,KM,identity,semantic,id
+СЛЫШАТЬ,слышать,0.598,j,KM,identity,semantic,id
+ВЕРНУТЬ,вернуть,0.624,j,KM,identity,semantic,id
+ПИСАТЬ,писать,0.735,j,KM,identity,semantic,id
+ГОВОРИТЬ,говорить,0.532,j,KM,identity,semantic,id
+СТРАДАТЬ,страдать,0.681,j,KM,identity,orthographic,id
+СМОТРЕТЬ,смотреть,0.582,j,KM,identity,orthographic,id
+СТОЯТЬ,стоять,0.631,j,KM,identity,orthographic,id
+ИГРАТЬ,играть,0.75,j,KM,identity,orthographic,id
+СТАВИТЬ,ставить,0.635,j,KM,identity,orthographic,id
+СЛУШАТЬ,слушать,0.631,j,KM,identity,orthographic,id
+ПРОСИТЬ,просить,0.648,j,KM,identity,orthographic,id
+МЕШАТЬ,мешать,0.598,j,KM,identity,orthographic,id
+ТЕРПЕТЬ,терпеть,0.936,j,KM,identity,orthographic,id
+ТЕРЯТЬ,терять,0.899,j,KM,identity,orthographic,id
+СИДЕТЬ,сидеть,0.684,j,KM,identity,orthographic,id
+ЧИТАТЬ,читать,0.576,j,KM,identity,orthographic,id
+ДЕРЖАТЬ,держать,0.615,j,KM,identity,orthographic,id
+ВЕРИТЬ,верить,0.62,j,KM,identity,orthographic,id
+ЗВОНИТЬ,звонить,0.681,j,KM,identity,orthographic,id
+СОЗДАТЬ,создать,0.902,j,KM,identity,orthographic,id
+СТРОИТЬ,строить,0.765,j,KM,identity,orthographic,id
+СОБРАТЬ,собрать,1.223,j,KM,identity,orthographic,id
+ВЫБРАТЬ,выбрать,1.031,j,KM,identity,orthographic,id
+ТРАТИТЬ,тратить,0.715,j,KM,identity,orthographic,id
+ЛЕТЕТЬ,лететь,0.7057,j,Юраssic Park,identity,semantic,id
+ЕХАТЬ,ехать,0.7378,j,Юраssic Park,identity,semantic,id
+СПАТЬ,спать,0.8487,j,Юраssic Park,identity,semantic,id
+ЖЕЛАТЬ,желать,0.5905,j,Юраssic Park,identity,semantic,id
+ИСКАТЬ,искать,0.796,j,Юраssic Park,identity,semantic,id
+УБИТЬ,убить,0.7031,j,Юраssic Park,identity,semantic,id
+КУРИТЬ,курить,0.7454,j,Юраssic Park,identity,semantic,id
+ЛЮБИТЬ,любить,0.662,j,Юраssic Park,identity,semantic,id
+НАЧАТЬ,начать,0.7704,j,Юраssic Park,identity,semantic,id
+ПИТЬ,пить,0.9385,j,Юраssic Park,identity,semantic,id
+СЧИТАТЬ,считать,1.7272,j,Юраssic Park,identity,semantic,id
+ПОМНИТЬ,помнить,0.9407,j,Юраssic Park,identity,semantic,id
+ПЛАКАТЬ,плакать,0.6505,j,Юраssic Park,identity,semantic,id
+ХВАТИТЬ,хватить,0.795,j,Юраssic Park,identity,semantic,id
+ДУМАТЬ,думать,0.8329,j,Юраssic Park,identity,semantic,id
+СЛЫШАТЬ,слышать,0.6711,j,Юраssic Park,identity,semantic,id
+ВЕРНУТЬ,вернуть,0.6081,j,Юраssic Park,identity,semantic,id
+ПИСАТЬ,писать,0.6937,j,Юраssic Park,identity,semantic,id
+ГОВОРИТЬ,говорить,0.9706,j,Юраssic Park,identity,semantic,id
+ЗАЯВИТЬ,заявить,0.9855,j,Юраssic Park,identity,semantic,id
+СТРАДАТЬ,страдать,0.7909,j,Юраssic Park,identity,orthographic,id
+СМОТРЕТЬ,смотреть,0.497,j,Юраssic Park,identity,orthographic,id
+СТОЯТЬ,стоять,0.628,j,Юраssic Park,identity,orthographic,id
+ИГРАТЬ,играть,0.6654,j,Юраssic Park,identity,orthographic,id
+СТАВИТЬ,ставить,0.8771,j,Юраssic Park,identity,orthographic,id
+СЛУШАТЬ,слушать,0.6323,j,Юраssic Park,identity,orthographic,id
+ПРОСИТЬ,просить,0.758,j,Юраssic Park,identity,orthographic,id
+МЕШАТЬ,мешать,0.5965,j,Юраssic Park,identity,orthographic,id
+ТЕРПЕТЬ,терпеть,0.6684,j,Юраssic Park,identity,orthographic,id
+ТЕРЯТЬ,терять,0.7216,j,Юраssic Park,identity,orthographic,id
+СИДЕТЬ,сидеть,0.7412,j,Юраssic Park,identity,orthographic,id
+ЧИТАТЬ,читать,0.8538,j,Юраssic Park,identity,orthographic,id
+ДЕРЖАТЬ,держать,0.7442,j,Юраssic Park,identity,orthographic,id
+ВЕРИТЬ,верить,0.9355,j,Юраssic Park,identity,orthographic,id
+ЗВОНИТЬ,звонить,0.6053,j,Юраssic Park,identity,orthographic,id
+СОЗДАТЬ,создать,0.7841,j,Юраssic Park,identity,orthographic,id
+СТРОИТЬ,строить,0.6207,j,Юраssic Park,identity,orthographic,id
+СОБРАТЬ,собрать,0.7153,j,Юраssic Park,identity,orthographic,id
+ВЫБРАТЬ,выбрать,1.403,j,Юраssic Park,identity,orthographic,id
+ТРАТИТЬ,тратить,0.6687,j,Юраssic Park,identity,orthographic,id
+ЛЕТЕТЬ,лететь,0.571225,j,Keem_L2,identity,semantic,id
+ЕХАТЬ,ехать,0.691015,j,Keem_L2,identity,semantic,id
+СПАТЬ,спать,0.611725,j,Keem_L2,identity,semantic,id
+ЖЕЛАТЬ,желать,0.60245,j,Keem_L2,identity,semantic,id
+ИСКАТЬ,искать,0.520255,j,Keem_L2,identity,semantic,id
+КУРИТЬ,курить,0.51614,j,Keem_L2,identity,semantic,id
+ЛЮБИТЬ,любить,0.6891,j,Keem_L2,identity,semantic,id
+НАЧАТЬ,начать,0.58909,j,Keem_L2,identity,semantic,id
+ПИТЬ,пить,0.667745,j,Keem_L2,identity,semantic,id
+СЧИТАТЬ,считать,0.869695,j,Keem_L2,identity,semantic,id
+ПОМНИТЬ,помнить,0.742725,j,Keem_L2,identity,semantic,id
+ПЛАКАТЬ,плакать,0.619865,j,Keem_L2,identity,semantic,id
+ХВАТИТЬ,хватить,0.716365,j,Keem_L2,identity,semantic,id
+ДУМАТЬ,думать,0.52695,j,Keem_L2,identity,semantic,id
+СЛЫШАТЬ,слышать,0.622805,j,Keem_L2,identity,semantic,id
+ВЕРНУТЬ,вернуть,0.59964,j,Keem_L2,identity,semantic,id
+ПИСАТЬ,писать,0.807775,j,Keem_L2,identity,semantic,id
+ГОВОРИТЬ,говорить,0.577055,j,Keem_L2,identity,semantic,id
+СТРАДАТЬ,страдать,0.700925,j,Keem_L2,identity,semantic,id
+СМОТРЕТЬ,смотреть,0.635095,j,Keem_L2,identity,orthographic,id
+СТОЯТЬ,стоять,0.582445,j,Keem_L2,identity,orthographic,id
+ИГРАТЬ,играть,0.650445,j,Keem_L2,identity,orthographic,id
+СТАВИТЬ,ставить,0.56782,j,Keem_L2,identity,orthographic,id
+СЛУШАТЬ,слушать,0.636005,j,Keem_L2,identity,orthographic,id
+ПРОСИТЬ,просить,0.8722,j,Keem_L2,identity,orthographic,id
+МЕШАТЬ,мешать,0.61922,j,Keem_L2,identity,orthographic,id
+ТЕРПЕТЬ,терпеть,0.583965,j,Keem_L2,identity,orthographic,id
+ТЕРЯТЬ,терять,0.536105,j,Keem_L2,identity,orthographic,id
+СИДЕТЬ,сидеть,0.62238,j,Keem_L2,identity,orthographic,id
+ЧИТАТЬ,читать,0.57512,j,Keem_L2,identity,orthographic,id
+ДЕРЖАТЬ,держать,0.551605,j,Keem_L2,identity,orthographic,id
+ВЕРИТЬ,верить,0.54208,j,Keem_L2,identity,orthographic,id
+ЗВОНИТЬ,звонить,0.591795,j,Keem_L2,identity,orthographic,id
+СОЗДАТЬ,создать,0.641755,j,Keem_L2,identity,orthographic,id
+СТРОИТЬ,строить,0.606235,j,Keem_L2,identity,orthographic,id
+СОБРАТЬ,собрать,0.577445,j,Keem_L2,identity,orthographic,id
+ВЫБРАТЬ,выбрать,0.60583,j,Keem_L2,identity,orthographic,id
+ТРАТИТЬ,тратить,0.59373,j,Keem_L2,identity,orthographic,id
+ЛЕТЕТЬ,лететь,0.565,j,KM,identity,semantic,id
+ЕХАТЬ,ехать,0.54,j,KM,identity,semantic,id
+СПАТЬ,спать,0.653,j,KM,identity,semantic,id
+ЖЕЛАТЬ,желать,0.668,j,KM,identity,semantic,id
+ИСКАТЬ,искать,0.666,j,KM,identity,semantic,id
+УБИТЬ,убить,0.616,j,KM,identity,semantic,id
+КУРИТЬ,курить,0.548,j,KM,identity,semantic,id
+ЛЮБИТЬ,любить,0.698,j,KM,identity,semantic,id
+НАЧАТЬ,начать,0.541,j,KM,identity,semantic,id
+ПИТЬ,пить,0.616,j,KM,identity,semantic,id
+СЧИТАТЬ,считать,1.222,j,KM,identity,semantic,id
+ПОМНИТЬ,помнить,0.957,j,KM,identity,semantic,id
+ПЛАКАТЬ,плакать,0.654,j,KM,identity,semantic,id
+ХВАТИТЬ,хватить,0.648,j,KM,identity,semantic,id
+ДУМАТЬ,думать,0.89,j,KM,identity,semantic,id
+СЛЫШАТЬ,слышать,0.598,j,KM,identity,semantic,id
+ВЕРНУТЬ,вернуть,0.624,j,KM,identity,semantic,id
+ПИСАТЬ,писать,0.735,j,KM,identity,semantic,id
+ГОВОРИТЬ,говорить,0.532,j,KM,identity,semantic,id
+СТРАДАТЬ,страдать,0.681,j,KM,identity,orthographic,id
+СМОТРЕТЬ,смотреть,0.582,j,KM,identity,orthographic,id
+СТОЯТЬ,стоять,0.631,j,KM,identity,orthographic,id
+ИГРАТЬ,играть,0.75,j,KM,identity,orthographic,id
+СТАВИТЬ,ставить,0.635,j,KM,identity,orthographic,id
+СЛУШАТЬ,слушать,0.631,j,KM,identity,orthographic,id
+ПРОСИТЬ,просить,0.648,j,KM,identity,orthographic,id
+МЕШАТЬ,мешать,0.598,j,KM,identity,orthographic,id
+ТЕРПЕТЬ,терпеть,0.936,j,KM,identity,orthographic,id
+ТЕРЯТЬ,терять,0.899,j,KM,identity,orthographic,id
+СИДЕТЬ,сидеть,0.684,j,KM,identity,orthographic,id
+ЧИТАТЬ,читать,0.576,j,KM,identity,orthographic,id
+ДЕРЖАТЬ,держать,0.615,j,KM,identity,orthographic,id
+ВЕРИТЬ,верить,0.62,j,KM,identity,orthographic,id
+ЗВОНИТЬ,звонить,0.681,j,KM,identity,orthographic,id
+СОЗДАТЬ,создать,0.902,j,KM,identity,orthographic,id
+СТРОИТЬ,строить,0.765,j,KM,identity,orthographic,id
+СОБРАТЬ,собрать,1.223,j,KM,identity,orthographic,id
+ВЫБРАТЬ,выбрать,1.031,j,KM,identity,orthographic,id
+ТРАТИТЬ,тратить,0.715,j,KM,identity,orthographic,id

@@ -1,0 +1,1131 @@
+target,prime,rt,key,participant,prof,primetype,relationtype,rtprime,months,immersion,years,age
+СТРАДАТЬ,страдать,0.531,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+СМОТРЕТЬ,смотреть,0.479,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+СТОЯТЬ,стоять,0.575,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ИГРАТЬ,играть,0.555,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+СТАВИТЬ,ставить,0.408,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+СЛУШАТЬ,слушать,0.43,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ПРОСИТЬ,просить,0.515,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+КУРИТЬ,курить,0.544,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+СЧИТАТЬ,считать,0.475,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ЖЕЛАТЬ,желать,0.448,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ИСКАТЬ,искать,0.539,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+СИДЕТЬ,сидеть,0.442,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ДУМАТЬ,думать,0.438,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ГОВОРИТЬ,говорить,0.519,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ЛЕЖАТЬ,лежать,0.496,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ДЕРЖАТЬ,держать,0.484,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ВЕРИТЬ,верить,0.401,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+СТРОИТЬ,строить,0.551,j,adk_L2,aine,identity,derivation,id,0,no,3,20
+ПЛАКАТЬ,плакать,0.504,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+ВЫБРАТЬ,выбрать,0.505,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+ВСТРЕЧАТЬ,встречать,0.404,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+КРИЧАТЬ,кричать,0.535,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+СООБЩИТЬ,сообщить,0.417,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+УБИТЬ,убить,0.481,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+БЕЖАТЬ,бежать,0.596,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+БРОСИТЬ,бросить,0.868,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+ПОНЯТЬ,понять,0.738,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+НАЧАТЬ,начать,0.607,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+ПИСАТЬ,писать,0.45,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+РЕШИТЬ,решить,0.534,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+СЛЫШАТЬ,слышать,0.4,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+ПОМНИТЬ,помнить,0.529,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+УЗНАТЬ,узнать,0.539,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+ОЖИДАТЬ,ожидать,0.548,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+СНИМАТЬ,снимать,0.418,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+СОБРАТЬ,собрать,0.413,j,adk_L2,aine,identity,inflection,id,0,no,3,20
+СТРАДАТЬ,страдать,0.8011,j,amannerm,perus,identity,derivation,id,0,no,16,50
+СМОТРЕТЬ,смотреть,0.4891,j,amannerm,perus,identity,derivation,id,0,no,16,50
+СТОЯТЬ,стоять,0.5539,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ИГРАТЬ,играть,0.486,j,amannerm,perus,identity,derivation,id,0,no,16,50
+СТАВИТЬ,ставить,0.5016,j,amannerm,perus,identity,derivation,id,0,no,16,50
+СЛУШАТЬ,слушать,0.5198,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ПРОСИТЬ,просить,0.6025,j,amannerm,perus,identity,derivation,id,0,no,16,50
+КУРИТЬ,курить,0.525,j,amannerm,perus,identity,derivation,id,0,no,16,50
+СЧИТАТЬ,считать,0.5626,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ЖЕЛАТЬ,желать,0.5204,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ИСКАТЬ,искать,0.5195,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ТЕРЯТЬ,терять,0.5238,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ТРАТИТЬ,тратить,0.6277,j,amannerm,perus,identity,derivation,id,0,no,16,50
+СИДЕТЬ,сидеть,0.6109,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ДУМАТЬ,думать,0.5028,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ГОВОРИТЬ,говорить,0.5292,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ЛЕЖАТЬ,лежать,0.616,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ДЕРЖАТЬ,держать,0.5156,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ВЕРИТЬ,верить,0.5627,j,amannerm,perus,identity,derivation,id,0,no,16,50
+СТРОИТЬ,строить,0.4758,j,amannerm,perus,identity,derivation,id,0,no,16,50
+ПЛАКАТЬ,плакать,0.7291,j,amannerm,perus,identity,inflection,id,0,no,16,50
+ВЫБРАТЬ,выбрать,0.5315,j,amannerm,perus,identity,inflection,id,0,no,16,50
+ВСТРЕЧАТЬ,встречать,0.4865,j,amannerm,perus,identity,inflection,id,0,no,16,50
+КРИЧАТЬ,кричать,0.6668,j,amannerm,perus,identity,inflection,id,0,no,16,50
+СООБЩИТЬ,сообщить,0.5017,j,amannerm,perus,identity,inflection,id,0,no,16,50
+УБИТЬ,убить,0.5189,j,amannerm,perus,identity,inflection,id,0,no,16,50
+БЕЖАТЬ,бежать,0.5413,j,amannerm,perus,identity,inflection,id,0,no,16,50
+БРОСИТЬ,бросить,0.4667,j,amannerm,perus,identity,inflection,id,0,no,16,50
+УМЕТЬ,уметь,0.536,j,amannerm,perus,identity,inflection,id,0,no,16,50
+ПОНЯТЬ,понять,0.521,j,amannerm,perus,identity,inflection,id,0,no,16,50
+НАЧАТЬ,начать,0.4743,j,amannerm,perus,identity,inflection,id,0,no,16,50
+ПИСАТЬ,писать,0.4526,j,amannerm,perus,identity,inflection,id,0,no,16,50
+РЕШИТЬ,решить,0.498,j,amannerm,perus,identity,inflection,id,0,no,16,50
+СЛЫШАТЬ,слышать,0.5034,j,amannerm,perus,identity,inflection,id,0,no,16,50
+ПОМНИТЬ,помнить,0.5295,j,amannerm,perus,identity,inflection,id,0,no,16,50
+УЗНАТЬ,узнать,0.5699,j,amannerm,perus,identity,inflection,id,0,no,16,50
+ОЖИДАТЬ,ожидать,0.6047,j,amannerm,perus,identity,inflection,id,0,no,16,50
+СНИМАТЬ,снимать,0.5451,j,amannerm,perus,identity,inflection,id,0,no,16,50
+ЗАБЫТЬ,забыть,0.4809,j,amannerm,perus,identity,inflection,id,0,no,16,50
+СОБРАТЬ,собрать,0.472,j,amannerm,perus,identity,inflection,id,0,no,16,50
+СИДЕТЬ,посидеть,0.596,j,april2021,syv,related,derivation,der,3,yes,10,28
+ГОВОРИТЬ,поговорить,0.622,j,april2021,syv,related,derivation,der,3,yes,10,28
+ДЕРЖАТЬ,подержать,0.678,j,april2021,syv,related,derivation,der,3,yes,10,28
+ВЕРИТЬ,поверить,0.681,j,april2021,syv,related,derivation,der,3,yes,10,28
+БРОСИТЬ,бросил,0.631,j,april2021,syv,related,inflection,inf,3,yes,10,28
+ПОНЯТЬ,понял,0.518,j,april2021,syv,related,inflection,inf,3,yes,10,28
+НАЧАТЬ,начал,0.549,j,april2021,syv,related,inflection,inf,3,yes,10,28
+ПИСАТЬ,писал,0.531,j,april2021,syv,related,inflection,inf,3,yes,10,28
+РЕШИТЬ,решил,0.55,j,april2021,syv,related,inflection,inf,3,yes,10,28
+СЛЫШАТЬ,слышал,0.623,j,april2021,syv,related,inflection,inf,3,yes,10,28
+ПОМНИТЬ,помнил,0.677,j,april2021,syv,related,inflection,inf,3,yes,10,28
+УЗНАТЬ,узнал,0.534,j,april2021,syv,related,inflection,inf,3,yes,10,28
+СНИМАТЬ,снимал,0.576,j,april2021,syv,related,inflection,inf,3,yes,10,28
+СТРАДАТЬ,машина,1.055,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+СМОТРЕТЬ,впрочем,0.617,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+СТОЯТЬ,палец,0.662,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+ИГРАТЬ,великий,0.695,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+СТАВИТЬ,очередь,0.662,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+СЛУШАТЬ,готовый,0.631,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+ПРОСИТЬ,близкий,1.246,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+КУРИТЬ,взгляд,0.597,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+СЧИТАТЬ,вторник,0.841,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+ЖЕЛАТЬ,принцип,0.712,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+ИСКАТЬ,мужчина,0.662,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+ТЕРЯТЬ,метод,0.615,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+ТРАТИТЬ,задание,0.968,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+ДУМАТЬ,мысль,0.599,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+ЛЕЖАТЬ,простой,0.844,j,april2021,syv,a_unrelated,derivation,unrel,3,yes,10,28
+ПЛАКАТЬ,женщина,0.701,j,april2021,syv,a_unrelated,inflection,unrel,3,yes,10,28
+ВЫБРАТЬ,назад,0.913,j,april2021,syv,a_unrelated,inflection,unrel,3,yes,10,28
+ВСТРЕЧАТЬ,крупный,0.773,j,april2021,syv,a_unrelated,inflection,unrel,3,yes,10,28
+КРИЧАТЬ,простой,0.664,j,april2021,syv,a_unrelated,inflection,unrel,3,yes,10,28
+СООБЩИТЬ,важный,0.777,j,april2021,syv,a_unrelated,inflection,unrel,3,yes,10,28
+БЕЖАТЬ,мальчик,0.733,j,april2021,syv,a_unrelated,inflection,unrel,3,yes,10,28
+УМЕТЬ,характер,0.848,j,april2021,syv,a_unrelated,inflection,unrel,3,yes,10,28
+ЗАБЫТЬ,структура,0.964,j,april2021,syv,a_unrelated,inflection,unrel,3,yes,10,28
+СТРАДАТЬ,пострадать,0.88,j,belka,syv,related,derivation,der,4,yes,9,52
+СМОТРЕТЬ,посмотреть,0.669,j,belka,syv,related,derivation,der,4,yes,9,52
+СТОЯТЬ,постоять,0.997,j,belka,syv,related,derivation,der,4,yes,9,52
+ИГРАТЬ,поиграть,0.83,j,belka,syv,related,derivation,der,4,yes,9,52
+СТАВИТЬ,поставить,0.732,j,belka,syv,related,derivation,der,4,yes,9,52
+СЛУШАТЬ,послушать,0.654,j,belka,syv,related,derivation,der,4,yes,9,52
+ПРОСИТЬ,попросить,0.664,j,belka,syv,related,derivation,der,4,yes,9,52
+КУРИТЬ,покурить,0.698,j,belka,syv,related,derivation,der,4,yes,9,52
+СЧИТАТЬ,посчитать,0.631,j,belka,syv,related,derivation,der,4,yes,9,52
+ЖЕЛАТЬ,пожелать,0.73,j,belka,syv,related,derivation,der,4,yes,9,52
+ИСКАТЬ,поискать,0.667,j,belka,syv,related,derivation,der,4,yes,9,52
+ТЕРЯТЬ,потерять,0.816,j,belka,syv,related,derivation,der,4,yes,9,52
+ТРАТИТЬ,потратить,0.629,j,belka,syv,related,derivation,der,4,yes,9,52
+ЛЕЖАТЬ,полежать,0.815,j,belka,syv,related,derivation,der,4,yes,9,52
+ПЛАКАТЬ,плакал,0.68,j,belka,syv,related,inflection,inf,4,yes,9,52
+ВЫБРАТЬ,выбрал,0.814,j,belka,syv,related,inflection,inf,4,yes,9,52
+ВСТРЕЧАТЬ,встречал,0.597,j,belka,syv,related,inflection,inf,4,yes,9,52
+КРИЧАТЬ,кричал,0.73,j,belka,syv,related,inflection,inf,4,yes,9,52
+СООБЩИТЬ,сообщил,0.614,j,belka,syv,related,inflection,inf,4,yes,9,52
+УБИТЬ,убил,0.684,j,belka,syv,related,inflection,inf,4,yes,9,52
+БЕЖАТЬ,бежал,0.764,j,belka,syv,related,inflection,inf,4,yes,9,52
+УМЕТЬ,умел,0.698,j,belka,syv,related,inflection,inf,4,yes,9,52
+ЗАБЫТЬ,забыл,0.846,j,belka,syv,related,inflection,inf,4,yes,9,52
+СОБРАТЬ,собрал,0.747,j,belka,syv,related,inflection,inf,4,yes,9,52
+СИДЕТЬ,первый,0.637,j,belka,syv,a_unrelated,derivation,unrel,4,yes,9,52
+ДУМАТЬ,другой,0.681,j,belka,syv,a_unrelated,derivation,unrel,4,yes,9,52
+ГОВОРИТЬ,все-таки,0.635,j,belka,syv,a_unrelated,derivation,unrel,4,yes,9,52
+ДЕРЖАТЬ,работа,0.733,j,belka,syv,a_unrelated,derivation,unrel,4,yes,9,52
+ВЕРИТЬ,самый,0.635,j,belka,syv,a_unrelated,derivation,unrel,4,yes,9,52
+СТРОИТЬ,область,0.88,j,belka,syv,a_unrelated,derivation,unrel,4,yes,9,52
+БРОСИТЬ,никакой,0.795,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+ПОНЯТЬ,хорошо,1.098,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+НАЧАТЬ,всякий,0.747,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+ПИСАТЬ,черный,0.782,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+РЕШИТЬ,далекий,0.683,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+СЛЫШАТЬ,история,0.717,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+ПОМНИТЬ,власть,0.663,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+УЗНАТЬ,тысяча,0.714,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+ОЖИДАТЬ,внимание,0.713,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+СНИМАТЬ,развитие,0.682,j,belka,syv,a_unrelated,inflection,unrel,4,yes,9,52
+СИДЕТЬ,посидеть,0.727615,j,Branta Leucopsis,syv,related,derivation,der,24,yes,10,49
+ГОВОРИТЬ,поговорить,0.885765,j,Branta Leucopsis,syv,related,derivation,der,24,yes,10,49
+ДЕРЖАТЬ,подержать,0.717535,j,Branta Leucopsis,syv,related,derivation,der,24,yes,10,49
+ВЕРИТЬ,поверить,0.878165,j,Branta Leucopsis,syv,related,derivation,der,24,yes,10,49
+СТРОИТЬ,построить,0.94592,j,Branta Leucopsis,syv,related,derivation,der,24,yes,10,49
+БРОСИТЬ,бросил,0.79663,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+ПОНЯТЬ,понял,0.703645,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+НАЧАТЬ,начал,0.65497,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+ПИСАТЬ,писал,0.63775,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+РЕШИТЬ,решил,0.689265,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+СЛЫШАТЬ,слышал,0.669255,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+ПОМНИТЬ,помнил,0.84566,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+УЗНАТЬ,узнал,0.727045,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+ОЖИДАТЬ,ожидал,0.890565,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+СНИМАТЬ,снимал,0.67449,j,Branta Leucopsis,syv,related,inflection,inf,24,yes,10,49
+СТРАДАТЬ,машина,0.875855,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+СМОТРЕТЬ,впрочем,0.652505,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+СТОЯТЬ,палец,0.6177,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+ИГРАТЬ,великий,0.690875,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+СТАВИТЬ,очередь,0.71778,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+СЛУШАТЬ,готовый,0.752785,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+ПРОСИТЬ,близкий,0.75728,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+КУРИТЬ,взгляд,0.72532,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+ЖЕЛАТЬ,принцип,0.775485,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+ИСКАТЬ,мужчина,0.67813,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+ТЕРЯТЬ,метод,0.69169,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+ТРАТИТЬ,задание,0.74646,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+ДУМАТЬ,мысль,0.65785,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+ЛЕЖАТЬ,простой,0.738025,j,Branta Leucopsis,syv,a_unrelated,derivation,unrel,24,yes,10,49
+ПЛАКАТЬ,женщина,0.70819,j,Branta Leucopsis,syv,a_unrelated,inflection,unrel,24,yes,10,49
+ВЫБРАТЬ,назад,0.691825,j,Branta Leucopsis,syv,a_unrelated,inflection,unrel,24,yes,10,49
+ВСТРЕЧАТЬ,крупный,0.802515,j,Branta Leucopsis,syv,a_unrelated,inflection,unrel,24,yes,10,49
+КРИЧАТЬ,простой,0.70756,j,Branta Leucopsis,syv,a_unrelated,inflection,unrel,24,yes,10,49
+СООБЩИТЬ,важный,1.34153,j,Branta Leucopsis,syv,a_unrelated,inflection,unrel,24,yes,10,49
+УБИТЬ,часто,0.811185,j,Branta Leucopsis,syv,a_unrelated,inflection,unrel,24,yes,10,49
+БЕЖАТЬ,мальчик,1.03661,j,Branta Leucopsis,syv,a_unrelated,inflection,unrel,24,yes,10,49
+УМЕТЬ,характер,0.80456,j,Branta Leucopsis,syv,a_unrelated,inflection,unrel,24,yes,10,49
+ЗАБЫТЬ,структура,0.969725,j,Branta Leucopsis,syv,a_unrelated,inflection,unrel,24,yes,10,49
+СИДЕТЬ,посидеть,0.659545,j,DEO_L2,syv,related,derivation,der,4,yes,8,39
+ГОВОРИТЬ,поговорить,0.6513,j,DEO_L2,syv,related,derivation,der,4,yes,8,39
+ДЕРЖАТЬ,подержать,0.635115,j,DEO_L2,syv,related,derivation,der,4,yes,8,39
+ВЕРИТЬ,поверить,0.67568,j,DEO_L2,syv,related,derivation,der,4,yes,8,39
+СТРОИТЬ,построить,0.729155,j,DEO_L2,syv,related,derivation,der,4,yes,8,39
+БРОСИТЬ,бросил,0.5847,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+ПОНЯТЬ,понял,0.701765,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+НАЧАТЬ,начал,0.532785,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+ПИСАТЬ,писал,0.52867,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+РЕШИТЬ,решил,0.650835,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+СЛЫШАТЬ,слышал,0.681045,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+ПОМНИТЬ,помнил,1.00019,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+УЗНАТЬ,узнал,0.64009,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+ОЖИДАТЬ,ожидал,0.748065,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+СНИМАТЬ,снимал,0.730955,j,DEO_L2,syv,related,inflection,inf,4,yes,8,39
+СТРАДАТЬ,машина,0.661815,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+СМОТРЕТЬ,впрочем,0.74878,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+СТОЯТЬ,палец,0.683975,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+ИГРАТЬ,великий,0.600415,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+СТАВИТЬ,очередь,0.84493,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+СЛУШАТЬ,готовый,0.714995,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+ПРОСИТЬ,близкий,0.777535,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+КУРИТЬ,взгляд,0.57316,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+СЧИТАТЬ,вторник,0.88381,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+ЖЕЛАТЬ,принцип,0.70045,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+ИСКАТЬ,мужчина,0.687305,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+ТЕРЯТЬ,метод,0.668595,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+ТРАТИТЬ,задание,0.543845,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+ДУМАТЬ,мысль,0.80058,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+ЛЕЖАТЬ,простой,0.608995,j,DEO_L2,syv,a_unrelated,derivation,unrel,4,yes,8,39
+ПЛАКАТЬ,женщина,0.58664,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+ВЫБРАТЬ,назад,0.677185,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+ВСТРЕЧАТЬ,крупный,0.65857,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+КРИЧАТЬ,простой,0.662675,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+СООБЩИТЬ,важный,0.88434,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+УБИТЬ,часто,0.57475,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+БЕЖАТЬ,мальчик,0.60898,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+УМЕТЬ,характер,0.620285,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+ЗАБЫТЬ,структура,0.79149,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+СОБРАТЬ,сильный,0.89059,j,DEO_L2,syv,a_unrelated,inflection,unrel,4,yes,8,39
+СТРАДАТЬ,пострадать,0.54169,j,ellada,perus,related,derivation,der,0,no,19,26
+СМОТРЕТЬ,посмотреть,0.574525,j,ellada,perus,related,derivation,der,0,no,19,26
+СТОЯТЬ,постоять,0.643145,j,ellada,perus,related,derivation,der,0,no,19,26
+ИГРАТЬ,поиграть,0.53785,j,ellada,perus,related,derivation,der,0,no,19,26
+СТАВИТЬ,поставить,0.569215,j,ellada,perus,related,derivation,der,0,no,19,26
+СЛУШАТЬ,послушать,0.607515,j,ellada,perus,related,derivation,der,0,no,19,26
+ПРОСИТЬ,попросить,1.161435,j,ellada,perus,related,derivation,der,0,no,19,26
+КУРИТЬ,покурить,0.57155,j,ellada,perus,related,derivation,der,0,no,19,26
+СЧИТАТЬ,посчитать,0.635145,j,ellada,perus,related,derivation,der,0,no,19,26
+ЖЕЛАТЬ,пожелать,0.552695,j,ellada,perus,related,derivation,der,0,no,19,26
+ИСКАТЬ,поискать,0.55222,j,ellada,perus,related,derivation,der,0,no,19,26
+ТРАТИТЬ,потратить,0.72336,j,ellada,perus,related,derivation,der,0,no,19,26
+ЛЕЖАТЬ,полежать,0.553505,j,ellada,perus,related,derivation,der,0,no,19,26
+ПЛАКАТЬ,плакал,0.51925,j,ellada,perus,related,inflection,inf,0,no,19,26
+ВЫБРАТЬ,выбрал,0.63443,j,ellada,perus,related,inflection,inf,0,no,19,26
+ВСТРЕЧАТЬ,встречал,0.54731,j,ellada,perus,related,inflection,inf,0,no,19,26
+КРИЧАТЬ,кричал,0.63893,j,ellada,perus,related,inflection,inf,0,no,19,26
+СООБЩИТЬ,сообщил,0.56959,j,ellada,perus,related,inflection,inf,0,no,19,26
+УБИТЬ,убил,0.568825,j,ellada,perus,related,inflection,inf,0,no,19,26
+БЕЖАТЬ,бежал,0.64454,j,ellada,perus,related,inflection,inf,0,no,19,26
+УМЕТЬ,умел,0.502375,j,ellada,perus,related,inflection,inf,0,no,19,26
+ЗАБЫТЬ,забыл,0.51939,j,ellada,perus,related,inflection,inf,0,no,19,26
+СОБРАТЬ,собрал,0.56956,j,ellada,perus,related,inflection,inf,0,no,19,26
+СИДЕТЬ,первый,0.52052,j,ellada,perus,a_unrelated,derivation,unrel,0,no,19,26
+ДУМАТЬ,другой,0.567705,j,ellada,perus,a_unrelated,derivation,unrel,0,no,19,26
+ГОВОРИТЬ,все-таки,0.588665,j,ellada,perus,a_unrelated,derivation,unrel,0,no,19,26
+ДЕРЖАТЬ,работа,0.542505,j,ellada,perus,a_unrelated,derivation,unrel,0,no,19,26
+ВЕРИТЬ,самый,0.605775,j,ellada,perus,a_unrelated,derivation,unrel,0,no,19,26
+СТРОИТЬ,область,0.579,j,ellada,perus,a_unrelated,derivation,unrel,0,no,19,26
+БРОСИТЬ,никакой,0.802,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+ПОНЯТЬ,хорошо,1.30184,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+НАЧАТЬ,всякий,0.73557,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+ПИСАТЬ,черный,0.852305,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+РЕШИТЬ,далекий,0.74458,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+СЛЫШАТЬ,история,0.655425,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+ПОМНИТЬ,власть,0.6525,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+УЗНАТЬ,тысяча,0.64255,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+ОЖИДАТЬ,внимание,0.818585,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+СНИМАТЬ,развитие,0.87557,j,ellada,perus,a_unrelated,inflection,unrel,0,no,19,26
+СТРАДАТЬ,пострадать,0.741205,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+СМОТРЕТЬ,посмотреть,0.663645,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+СТОЯТЬ,постоять,0.716005,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+ИГРАТЬ,поиграть,0.76824,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+СТАВИТЬ,поставить,0.6918,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+СЛУШАТЬ,послушать,0.67852,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+ПРОСИТЬ,попросить,0.505945,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+КУРИТЬ,покурить,0.569465,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+СЧИТАТЬ,посчитать,0.514845,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+ЖЕЛАТЬ,пожелать,0.691385,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+ИСКАТЬ,поискать,0.559005,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+ТЕРЯТЬ,потерять,0.62198,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+ТРАТИТЬ,потратить,0.822205,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+ЗВОНИТЬ,большой,0.64231,j,Hannuska,syv,related,derivation,der,3,yes,9,47
+ПЛАКАТЬ,плакал,0.520625,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+ВЫБРАТЬ,выбрал,0.554135,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+ВСТРЕЧАТЬ,встречал,0.635995,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+КРИЧАТЬ,кричал,0.565565,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+СООБЩИТЬ,сообщил,0.69662,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+УБИТЬ,убил,0.5418,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+БЕЖАТЬ,бежал,0.6398,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+УМЕТЬ,умел,0.64131,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+ЗАБЫТЬ,забыл,0.56653,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+СОБРАТЬ,собрал,0.638995,j,Hannuska,syv,related,inflection,inf,3,yes,9,47
+СИДЕТЬ,первый,0.592465,j,Hannuska,syv,a_unrelated,derivation,unrel,3,yes,9,47
+ДУМАТЬ,другой,0.63972,j,Hannuska,syv,a_unrelated,derivation,unrel,3,yes,9,47
+ГОВОРИТЬ,все-таки,0.821905,j,Hannuska,syv,a_unrelated,derivation,unrel,3,yes,9,47
+ДЕРЖАТЬ,работа,0.714015,j,Hannuska,syv,a_unrelated,derivation,unrel,3,yes,9,47
+ВЕРИТЬ,самый,0.630535,j,Hannuska,syv,a_unrelated,derivation,unrel,3,yes,9,47
+СТРОИТЬ,область,0.83901,j,Hannuska,syv,a_unrelated,derivation,unrel,3,yes,9,47
+БРОСИТЬ,никакой,0.57908,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+ПОНЯТЬ,хорошо,0.600095,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+НАЧАТЬ,всякий,0.518925,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+ПИСАТЬ,черный,0.57308,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+РЕШИТЬ,далекий,0.580685,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+СЛЫШАТЬ,история,1.069945,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+ПОМНИТЬ,власть,0.764335,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+УЗНАТЬ,тысяча,0.77531,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+ОЖИДАТЬ,внимание,0.98288,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+СНИМАТЬ,развитие,0.63343,j,Hannuska,syv,a_unrelated,inflection,unrel,3,yes,9,47
+ГОВОРИТЬ,поговорить,0.636115,j,huoletonL2,perus,related,derivation,der,0,no,3,40
+ВЕРИТЬ,поверить,1.03429,j,huoletonL2,perus,related,derivation,der,0,no,3,40
+СТРОИТЬ,построить,0.78447,j,huoletonL2,perus,related,derivation,der,0,no,3,40
+БРОСИТЬ,бросил,0.689145,j,huoletonL2,perus,related,inflection,inf,0,no,3,40
+ПОНЯТЬ,понял,0.767205,j,huoletonL2,perus,related,inflection,inf,0,no,3,40
+НАЧАТЬ,начал,0.83241,j,huoletonL2,perus,related,inflection,inf,0,no,3,40
+ПИСАТЬ,писал,0.60425,j,huoletonL2,perus,related,inflection,inf,0,no,3,40
+РЕШИТЬ,решил,0.67072,j,huoletonL2,perus,related,inflection,inf,0,no,3,40
+СЛЫШАТЬ,слышал,0.684075,j,huoletonL2,perus,related,inflection,inf,0,no,3,40
+ПОМНИТЬ,помнил,0.618395,j,huoletonL2,perus,related,inflection,inf,0,no,3,40
+УЗНАТЬ,узнал,0.65707,j,huoletonL2,perus,related,inflection,inf,0,no,3,40
+СНИМАТЬ,снимал,0.737085,j,huoletonL2,perus,related,inflection,inf,0,no,3,40
+СТРАДАТЬ,машина,0.90111,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+СМОТРЕТЬ,впрочем,0.649685,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+СТОЯТЬ,палец,0.983335,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+ИГРАТЬ,великий,0.616695,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+СЛУШАТЬ,готовый,0.6042,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+ПРОСИТЬ,близкий,0.61611,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+КУРИТЬ,взгляд,0.619265,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+СЧИТАТЬ,вторник,0.86634,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+ЖЕЛАТЬ,принцип,0.651085,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+ИСКАТЬ,мужчина,0.62992,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+ТРАТИТЬ,задание,0.946995,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+ДУМАТЬ,мысль,0.71691,j,huoletonL2,perus,a_unrelated,derivation,unrel,0,no,3,40
+ПЛАКАТЬ,женщина,0.650515,j,huoletonL2,perus,a_unrelated,inflection,unrel,0,no,3,40
+ВЫБРАТЬ,назад,0.6849,j,huoletonL2,perus,a_unrelated,inflection,unrel,0,no,3,40
+СООБЩИТЬ,важный,0.73592,j,huoletonL2,perus,a_unrelated,inflection,unrel,0,no,3,40
+УМЕТЬ,характер,0.66858,j,huoletonL2,perus,a_unrelated,inflection,unrel,0,no,3,40
+СОБРАТЬ,сильный,0.83353,j,huoletonL2,perus,a_unrelated,inflection,unrel,0,no,3,40
+СТРАДАТЬ,страдать,0.941,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+СМОТРЕТЬ,смотреть,0.704,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+СТОЯТЬ,стоять,0.69,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ИГРАТЬ,играть,0.64,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+СТАВИТЬ,ставить,0.806,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+СЛУШАТЬ,слушать,0.575,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ПРОСИТЬ,просить,0.775,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+КУРИТЬ,курить,0.638,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ЖЕЛАТЬ,желать,0.588,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ИСКАТЬ,искать,0.56,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ТЕРЯТЬ,терять,0.837,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ТРАТИТЬ,тратить,0.56,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+СИДЕТЬ,сидеть,0.523,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ДУМАТЬ,думать,0.905,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ГОВОРИТЬ,говорить,0.491,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ЛЕЖАТЬ,лежать,0.655,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ДЕРЖАТЬ,держать,0.637,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ВЕРИТЬ,верить,0.606,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+СТРОИТЬ,строить,0.591,j,jenniraj L2,syv,identity,derivation,id,3,yes,7,23
+ПЛАКАТЬ,плакать,0.689,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+ВЫБРАТЬ,выбрать,0.508,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+ВСТРЕЧАТЬ,встречать,0.573,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+СООБЩИТЬ,сообщить,0.588,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+УБИТЬ,убить,0.828,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+БЕЖАТЬ,бежать,0.707,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+БРОСИТЬ,бросить,0.772,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+УМЕТЬ,уметь,0.479,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+ПОНЯТЬ,понять,0.609,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+НАЧАТЬ,начать,0.575,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+ПИСАТЬ,писать,0.608,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+РЕШИТЬ,решить,0.538,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+СЛЫШАТЬ,слышать,0.804,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+ПОМНИТЬ,помнить,0.788,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+УЗНАТЬ,узнать,0.74,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+ОЖИДАТЬ,ожидать,0.724,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+СНИМАТЬ,снимать,0.69,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+ЗАБЫТЬ,забыть,0.739,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+СОБРАТЬ,собрать,0.621,j,jenniraj L2,syv,identity,inflection,id,3,yes,7,23
+СТРАДАТЬ,страдать,0.616155,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+СМОТРЕТЬ,смотреть,0.55619,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+СТОЯТЬ,стоять,0.599335,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ИГРАТЬ,играть,0.70557,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+СТАВИТЬ,ставить,0.615355,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+СЛУШАТЬ,слушать,0.56688,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ПРОСИТЬ,просить,0.686375,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+КУРИТЬ,курить,0.61394,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+СЧИТАТЬ,считать,0.58494,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ЖЕЛАТЬ,желать,0.550635,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ИСКАТЬ,искать,0.60145,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ТЕРЯТЬ,терять,0.55697,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ТРАТИТЬ,тратить,0.57258,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+СИДЕТЬ,сидеть,0.53152,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ДУМАТЬ,думать,0.57641,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ГОВОРИТЬ,говорить,0.48104,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ЛЕЖАТЬ,лежать,0.61683,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ДЕРЖАТЬ,держать,0.844805,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ВЕРИТЬ,верить,0.57197,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+СТРОИТЬ,строить,0.54649,j,jm_L2,aine,identity,derivation,id,1,no,10,22
+ПЛАКАТЬ,плакать,0.53311,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+ВЫБРАТЬ,выбрать,0.60553,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+ВСТРЕЧАТЬ,встречать,0.52273,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+КРИЧАТЬ,кричать,0.8298,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+СООБЩИТЬ,сообщить,0.650765,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+УБИТЬ,убить,0.666095,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+БЕЖАТЬ,бежать,0.590385,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+БРОСИТЬ,бросить,0.58012,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+УМЕТЬ,уметь,0.58256,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+ПОНЯТЬ,понять,0.83898,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+НАЧАТЬ,начать,0.57986,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+ПИСАТЬ,писать,0.637805,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+РЕШИТЬ,решить,0.65012,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+СЛЫШАТЬ,слышать,0.49698,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+ПОМНИТЬ,помнить,0.629605,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+УЗНАТЬ,узнать,0.66955,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+ОЖИДАТЬ,ожидать,0.58976,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+СНИМАТЬ,снимать,0.56669,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+ЗАБЫТЬ,забыть,0.63317,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+СОБРАТЬ,собрать,0.76279,j,jm_L2,aine,identity,inflection,id,1,no,10,22
+СТРАДАТЬ,пострадать,0.556355,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+СМОТРЕТЬ,посмотреть,0.5368,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+СТОЯТЬ,постоять,0.55817,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+ИГРАТЬ,поиграть,0.53501,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+СТАВИТЬ,поставить,0.468515,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+СЛУШАТЬ,послушать,0.47491,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+ПРОСИТЬ,попросить,0.55828,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+КУРИТЬ,покурить,0.57476,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+СЧИТАТЬ,посчитать,0.713095,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+ЖЕЛАТЬ,пожелать,0.52227,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+ИСКАТЬ,поискать,0.49203,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+ТЕРЯТЬ,потерять,0.54036,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+ТРАТИТЬ,потратить,0.61796,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+ЛЕЖАТЬ,полежать,0.500455,j,Johonu_L2,syv,related,derivation,der,1,no,12,25
+ПЛАКАТЬ,плакал,0.541025,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+ВЫБРАТЬ,выбрал,0.511095,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+ВСТРЕЧАТЬ,встречал,0.50731,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+КРИЧАТЬ,кричал,0.614815,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+СООБЩИТЬ,сообщил,0.5054,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+УБИТЬ,убил,0.49007,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+БЕЖАТЬ,бежал,0.47732,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+УМЕТЬ,умел,0.509205,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+ЗАБЫТЬ,забыл,0.478825,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+СОБРАТЬ,собрал,0.50866,j,Johonu_L2,syv,related,inflection,inf,1,no,12,25
+СИДЕТЬ,первый,0.55756,j,Johonu_L2,syv,a_unrelated,derivation,unrel,1,no,12,25
+ДУМАТЬ,другой,0.61363,j,Johonu_L2,syv,a_unrelated,derivation,unrel,1,no,12,25
+ГОВОРИТЬ,все-таки,0.56545,j,Johonu_L2,syv,a_unrelated,derivation,unrel,1,no,12,25
+ДЕРЖАТЬ,работа,0.565805,j,Johonu_L2,syv,a_unrelated,derivation,unrel,1,no,12,25
+ВЕРИТЬ,самый,0.590355,j,Johonu_L2,syv,a_unrelated,derivation,unrel,1,no,12,25
+СТРОИТЬ,область,0.663915,j,Johonu_L2,syv,a_unrelated,derivation,unrel,1,no,12,25
+БРОСИТЬ,никакой,0.542755,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+ПОНЯТЬ,хорошо,0.54227,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+НАЧАТЬ,всякий,0.74712,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+ПИСАТЬ,черный,0.655675,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+РЕШИТЬ,далекий,0.54328,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+СЛЫШАТЬ,история,0.53914,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+ПОМНИТЬ,власть,0.52631,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+УЗНАТЬ,тысяча,0.58023,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+ОЖИДАТЬ,внимание,0.588665,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+СНИМАТЬ,развитие,0.515195,j,Johonu_L2,syv,a_unrelated,inflection,unrel,1,no,12,25
+СТРАДАТЬ,страдать,0.700925,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+СМОТРЕТЬ,смотреть,0.635095,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+СТОЯТЬ,стоять,0.582445,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ИГРАТЬ,играть,0.650445,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+СТАВИТЬ,ставить,0.56782,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+СЛУШАТЬ,слушать,0.636005,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ПРОСИТЬ,просить,0.8722,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+КУРИТЬ,курить,0.51614,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+СЧИТАТЬ,считать,0.869695,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ЖЕЛАТЬ,желать,0.60245,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ИСКАТЬ,искать,0.520255,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ТЕРЯТЬ,терять,0.536105,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ТРАТИТЬ,тратить,0.59373,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+СИДЕТЬ,сидеть,0.62238,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ДУМАТЬ,думать,0.52695,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ГОВОРИТЬ,говорить,0.577055,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ЛЕЖАТЬ,лежать,0.6277,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ДЕРЖАТЬ,держать,0.551605,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ВЕРИТЬ,верить,0.54208,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+СТРОИТЬ,строить,0.606235,j,Keem_L2,syv,identity,derivation,id,24,yes,10,48
+ПЛАКАТЬ,плакать,0.619865,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+ВЫБРАТЬ,выбрать,0.60583,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+ВСТРЕЧАТЬ,встречать,0.705915,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+КРИЧАТЬ,кричать,0.68515,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+СООБЩИТЬ,сообщить,0.732885,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+БЕЖАТЬ,бежать,0.682515,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+БРОСИТЬ,бросить,0.63291,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+УМЕТЬ,уметь,0.57076,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+ПОНЯТЬ,понять,0.65908,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+НАЧАТЬ,начать,0.58909,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+ПИСАТЬ,писать,0.807775,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+РЕШИТЬ,решить,0.60232,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+СЛЫШАТЬ,слышать,0.622805,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+ПОМНИТЬ,помнить,0.742725,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+УЗНАТЬ,узнать,0.64324,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+ОЖИДАТЬ,ожидать,0.944805,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+СНИМАТЬ,снимать,0.55552,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+ЗАБЫТЬ,забыть,0.877505,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+СОБРАТЬ,собрать,0.577445,j,Keem_L2,syv,identity,inflection,id,24,yes,10,48
+СТРАДАТЬ,страдать,0.681,j,KM,aine,identity,derivation,id,18,yes,6,36
+СМОТРЕТЬ,смотреть,0.582,j,KM,aine,identity,derivation,id,18,yes,6,36
+СТОЯТЬ,стоять,0.631,j,KM,aine,identity,derivation,id,18,yes,6,36
+ИГРАТЬ,играть,0.75,j,KM,aine,identity,derivation,id,18,yes,6,36
+СТАВИТЬ,ставить,0.635,j,KM,aine,identity,derivation,id,18,yes,6,36
+СЛУШАТЬ,слушать,0.631,j,KM,aine,identity,derivation,id,18,yes,6,36
+ПРОСИТЬ,просить,0.648,j,KM,aine,identity,derivation,id,18,yes,6,36
+КУРИТЬ,курить,0.548,j,KM,aine,identity,derivation,id,18,yes,6,36
+СЧИТАТЬ,считать,1.222,j,KM,aine,identity,derivation,id,18,yes,6,36
+ЖЕЛАТЬ,желать,0.668,j,KM,aine,identity,derivation,id,18,yes,6,36
+ИСКАТЬ,искать,0.666,j,KM,aine,identity,derivation,id,18,yes,6,36
+ТЕРЯТЬ,терять,0.899,j,KM,aine,identity,derivation,id,18,yes,6,36
+ТРАТИТЬ,тратить,0.715,j,KM,aine,identity,derivation,id,18,yes,6,36
+СИДЕТЬ,сидеть,0.684,j,KM,aine,identity,derivation,id,18,yes,6,36
+ДУМАТЬ,думать,0.89,j,KM,aine,identity,derivation,id,18,yes,6,36
+ГОВОРИТЬ,говорить,0.532,j,KM,aine,identity,derivation,id,18,yes,6,36
+ЛЕЖАТЬ,лежать,0.732,j,KM,aine,identity,derivation,id,18,yes,6,36
+ДЕРЖАТЬ,держать,0.615,j,KM,aine,identity,derivation,id,18,yes,6,36
+ВЕРИТЬ,верить,0.62,j,KM,aine,identity,derivation,id,18,yes,6,36
+СТРОИТЬ,строить,0.765,j,KM,aine,identity,derivation,id,18,yes,6,36
+ПЛАКАТЬ,плакать,0.654,j,KM,aine,identity,inflection,id,18,yes,6,36
+ВЫБРАТЬ,выбрать,1.031,j,KM,aine,identity,inflection,id,18,yes,6,36
+ВСТРЕЧАТЬ,встречать,0.731,j,KM,aine,identity,inflection,id,18,yes,6,36
+КРИЧАТЬ,кричать,0.767,j,KM,aine,identity,inflection,id,18,yes,6,36
+СООБЩИТЬ,сообщить,0.717,j,KM,aine,identity,inflection,id,18,yes,6,36
+УБИТЬ,убить,0.616,j,KM,aine,identity,inflection,id,18,yes,6,36
+БЕЖАТЬ,бежать,0.865,j,KM,aine,identity,inflection,id,18,yes,6,36
+БРОСИТЬ,бросить,0.636,j,KM,aine,identity,inflection,id,18,yes,6,36
+УМЕТЬ,уметь,0.536,j,KM,aine,identity,inflection,id,18,yes,6,36
+ПОНЯТЬ,понять,0.724,j,KM,aine,identity,inflection,id,18,yes,6,36
+НАЧАТЬ,начать,0.541,j,KM,aine,identity,inflection,id,18,yes,6,36
+ПИСАТЬ,писать,0.735,j,KM,aine,identity,inflection,id,18,yes,6,36
+РЕШИТЬ,решить,0.75,j,KM,aine,identity,inflection,id,18,yes,6,36
+СЛЫШАТЬ,слышать,0.598,j,KM,aine,identity,inflection,id,18,yes,6,36
+ПОМНИТЬ,помнить,0.957,j,KM,aine,identity,inflection,id,18,yes,6,36
+УЗНАТЬ,узнать,0.731,j,KM,aine,identity,inflection,id,18,yes,6,36
+ОЖИДАТЬ,ожидать,0.72,j,KM,aine,identity,inflection,id,18,yes,6,36
+СНИМАТЬ,снимать,0.851,j,KM,aine,identity,inflection,id,18,yes,6,36
+ЗАБЫТЬ,забыть,0.636,j,KM,aine,identity,inflection,id,18,yes,6,36
+СОБРАТЬ,собрать,1.223,j,KM,aine,identity,inflection,id,18,yes,6,36
+СИДЕТЬ,посидеть,0.68968,j,Konona_L2,aine,related,derivation,der,0,no,12,21
+ГОВОРИТЬ,поговорить,0.717355,j,Konona_L2,aine,related,derivation,der,0,no,12,21
+ДЕРЖАТЬ,подержать,0.668235,j,Konona_L2,aine,related,derivation,der,0,no,12,21
+ВЕРИТЬ,поверить,1.07484,j,Konona_L2,aine,related,derivation,der,0,no,12,21
+СТРОИТЬ,построить,0.84498,j,Konona_L2,aine,related,derivation,der,0,no,12,21
+БРОСИТЬ,бросил,0.67226,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+ПОНЯТЬ,понял,0.79425,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+НАЧАТЬ,начал,1.216255,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+ПИСАТЬ,писал,0.64135,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+РЕШИТЬ,решил,0.645875,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+СЛЫШАТЬ,слышал,1.017,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+ПОМНИТЬ,помнил,1.57678,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+УЗНАТЬ,узнал,0.7278,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+ОЖИДАТЬ,ожидал,0.959245,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+СНИМАТЬ,снимал,1.55024,j,Konona_L2,aine,related,inflection,inf,0,no,12,21
+СТРАДАТЬ,машина,0.954915,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+СМОТРЕТЬ,впрочем,0.801575,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+СТОЯТЬ,палец,0.72804,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+ИГРАТЬ,великий,0.78382,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+СТАВИТЬ,очередь,1.26144,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+СЛУШАТЬ,готовый,0.946845,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+ПРОСИТЬ,близкий,1.435135,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+КУРИТЬ,взгляд,0.7018,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+СЧИТАТЬ,вторник,1.069455,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+ЖЕЛАТЬ,принцип,0.772635,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+ИСКАТЬ,мужчина,0.66998,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+ТЕРЯТЬ,метод,1.597615,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+ТРАТИТЬ,задание,0.86693,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+ДУМАТЬ,мысль,0.818425,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+ЛЕЖАТЬ,простой,0.89648,j,Konona_L2,aine,a_unrelated,derivation,unrel,0,no,12,21
+ПЛАКАТЬ,женщина,0.913615,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+ВЫБРАТЬ,назад,1.443345,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+ВСТРЕЧАТЬ,крупный,1.033745,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+КРИЧАТЬ,простой,0.781,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+СООБЩИТЬ,важный,1.60896,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+УБИТЬ,часто,0.73498,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+БЕЖАТЬ,мальчик,0.622915,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+УМЕТЬ,характер,0.67942,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+ЗАБЫТЬ,структура,0.8454,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+СОБРАТЬ,сильный,0.989005,j,Konona_L2,aine,a_unrelated,inflection,unrel,0,no,12,21
+СТРАДАТЬ,пострадать,0.584505,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+СМОТРЕТЬ,посмотреть,0.538875,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+СТОЯТЬ,постоять,0.649545,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+ИГРАТЬ,поиграть,0.56225,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+СТАВИТЬ,поставить,0.626555,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+СЛУШАТЬ,послушать,0.58476,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+ПРОСИТЬ,попросить,0.608415,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+КУРИТЬ,покурить,0.55857,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+СЧИТАТЬ,посчитать,0.62567,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+ЖЕЛАТЬ,пожелать,0.549165,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+ИСКАТЬ,поискать,0.58328,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+ТЕРЯТЬ,потерять,0.662885,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+ТРАТИТЬ,потратить,0.6964,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+ЛЕЖАТЬ,полежать,0.542075,j,kotitonttu,aine,related,derivation,der,0,no,6,22
+ПЛАКАТЬ,плакал,0.499,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+ВЫБРАТЬ,выбрал,0.535575,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+ВСТРЕЧАТЬ,встречал,0.468715,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+КРИЧАТЬ,кричал,0.62224,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+СООБЩИТЬ,сообщил,0.519855,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+УБИТЬ,убил,0.47121,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+БЕЖАТЬ,бежал,0.554445,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+УМЕТЬ,умел,0.618895,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+ЗАБЫТЬ,забыл,0.51691,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+СОБРАТЬ,собрал,0.615745,j,kotitonttu,aine,related,inflection,inf,0,no,6,22
+СИДЕТЬ,первый,0.533755,j,kotitonttu,aine,a_unrelated,derivation,unrel,0,no,6,22
+ДУМАТЬ,другой,0.767445,j,kotitonttu,aine,a_unrelated,derivation,unrel,0,no,6,22
+ГОВОРИТЬ,все-таки,0.6225,j,kotitonttu,aine,a_unrelated,derivation,unrel,0,no,6,22
+ДЕРЖАТЬ,работа,0.58352,j,kotitonttu,aine,a_unrelated,derivation,unrel,0,no,6,22
+ВЕРИТЬ,самый,0.55005,j,kotitonttu,aine,a_unrelated,derivation,unrel,0,no,6,22
+СТРОИТЬ,область,0.615385,j,kotitonttu,aine,a_unrelated,derivation,unrel,0,no,6,22
+БРОСИТЬ,никакой,0.6018,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+ПОНЯТЬ,хорошо,0.51167,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+НАЧАТЬ,всякий,0.479155,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+ПИСАТЬ,черный,0.58491,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+РЕШИТЬ,далекий,0.56168,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+СЛЫШАТЬ,история,0.662585,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+ПОМНИТЬ,власть,0.544965,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+УЗНАТЬ,тысяча,0.666215,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+ОЖИДАТЬ,внимание,0.73877,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+СНИМАТЬ,развитие,0.546475,j,kotitonttu,aine,a_unrelated,inflection,unrel,0,no,6,22
+СИДЕТЬ,посидеть,0.519865,j,lapaL2,aine,related,derivation,der,0,no,6,21
+ГОВОРИТЬ,поговорить,0.561905,j,lapaL2,aine,related,derivation,der,0,no,6,21
+ДЕРЖАТЬ,подержать,0.568835,j,lapaL2,aine,related,derivation,der,0,no,6,21
+ВЕРИТЬ,поверить,0.676485,j,lapaL2,aine,related,derivation,der,0,no,6,21
+СТРОИТЬ,построить,0.55944,j,lapaL2,aine,related,derivation,der,0,no,6,21
+БРОСИТЬ,бросил,0.633755,j,lapaL2,aine,related,inflection,inf,0,no,6,21
+ПОНЯТЬ,понял,0.750235,j,lapaL2,aine,related,inflection,inf,0,no,6,21
+НАЧАТЬ,начал,0.637195,j,lapaL2,aine,related,inflection,inf,0,no,6,21
+ПИСАТЬ,писал,0.567085,j,lapaL2,aine,related,inflection,inf,0,no,6,21
+РЕШИТЬ,решил,0.609905,j,lapaL2,aine,related,inflection,inf,0,no,6,21
+СЛЫШАТЬ,слышал,0.63778,j,lapaL2,aine,related,inflection,inf,0,no,6,21
+ПОМНИТЬ,помнил,0.525655,j,lapaL2,aine,related,inflection,inf,0,no,6,21
+УЗНАТЬ,узнал,0.544925,j,lapaL2,aine,related,inflection,inf,0,no,6,21
+СНИМАТЬ,снимал,0.858425,j,lapaL2,aine,related,inflection,inf,0,no,6,21
+СТРАДАТЬ,машина,0.76716,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+СМОТРЕТЬ,впрочем,0.66154,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+СТОЯТЬ,палец,0.683655,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+ИГРАТЬ,великий,0.659,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+СЛУШАТЬ,готовый,0.552,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+ПРОСИТЬ,близкий,0.75225,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+КУРИТЬ,взгляд,0.618365,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+СЧИТАТЬ,вторник,0.86689,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+ЖЕЛАТЬ,принцип,1.083275,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+ИСКАТЬ,мужчина,0.65385,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+ТЕРЯТЬ,метод,0.552545,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+ТРАТИТЬ,задание,0.621755,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+ДУМАТЬ,мысль,0.66803,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+ЛЕЖАТЬ,простой,0.727155,j,lapaL2,aine,a_unrelated,derivation,unrel,0,no,6,21
+ПЛАКАТЬ,женщина,0.61738,j,lapaL2,aine,a_unrelated,inflection,unrel,0,no,6,21
+ВЫБРАТЬ,назад,1.300025,j,lapaL2,aine,a_unrelated,inflection,unrel,0,no,6,21
+ВСТРЕЧАТЬ,крупный,0.618685,j,lapaL2,aine,a_unrelated,inflection,unrel,0,no,6,21
+КРИЧАТЬ,простой,0.685505,j,lapaL2,aine,a_unrelated,inflection,unrel,0,no,6,21
+СООБЩИТЬ,важный,1.24378,j,lapaL2,aine,a_unrelated,inflection,unrel,0,no,6,21
+УБИТЬ,часто,1.35468,j,lapaL2,aine,a_unrelated,inflection,unrel,0,no,6,21
+БЕЖАТЬ,мальчик,0.84104,j,lapaL2,aine,a_unrelated,inflection,unrel,0,no,6,21
+УМЕТЬ,характер,0.783655,j,lapaL2,aine,a_unrelated,inflection,unrel,0,no,6,21
+СОБРАТЬ,сильный,1.001165,j,lapaL2,aine,a_unrelated,inflection,unrel,0,no,6,21
+СИДЕТЬ,посидеть,0.718,j,Laura L2,syv,related,derivation,der,3,yes,10,27
+ГОВОРИТЬ,поговорить,0.877,j,Laura L2,syv,related,derivation,der,3,yes,10,27
+ДЕРЖАТЬ,подержать,0.781,j,Laura L2,syv,related,derivation,der,3,yes,10,27
+ВЕРИТЬ,поверить,0.627,j,Laura L2,syv,related,derivation,der,3,yes,10,27
+СТРОИТЬ,построить,0.935,j,Laura L2,syv,related,derivation,der,3,yes,10,27
+БРОСИТЬ,бросил,0.698,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+ПОНЯТЬ,понял,0.745,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+НАЧАТЬ,начал,0.612,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+ПИСАТЬ,писал,1.674,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+РЕШИТЬ,решил,0.528,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+СЛЫШАТЬ,слышал,0.756,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+ПОМНИТЬ,помнил,2.102,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+УЗНАТЬ,узнал,0.787,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+ОЖИДАТЬ,ожидал,1.498,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+СНИМАТЬ,снимал,0.862,j,Laura L2,syv,related,inflection,inf,3,yes,10,27
+СТРАДАТЬ,машина,1.018,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+СМОТРЕТЬ,впрочем,0.679,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+СТОЯТЬ,палец,0.804,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+ИГРАТЬ,великий,0.736,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+СТАВИТЬ,очередь,1.049,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+СЛУШАТЬ,готовый,0.936,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+ПРОСИТЬ,близкий,1.279,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+КУРИТЬ,взгляд,1.019,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+СЧИТАТЬ,вторник,0.813,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+ЖЕЛАТЬ,принцип,0.871,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+ИСКАТЬ,мужчина,0.794,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+ТЕРЯТЬ,метод,0.987,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+ТРАТИТЬ,задание,0.995,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+ДУМАТЬ,мысль,0.621,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+ЛЕЖАТЬ,простой,0.818,j,Laura L2,syv,a_unrelated,derivation,unrel,3,yes,10,27
+ПЛАКАТЬ,женщина,0.779,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+ВЫБРАТЬ,назад,0.897,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+ВСТРЕЧАТЬ,крупный,1.429,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+КРИЧАТЬ,простой,0.946,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+СООБЩИТЬ,важный,1.117,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+УБИТЬ,часто,0.923,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+БЕЖАТЬ,мальчик,1.321,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+УМЕТЬ,характер,0.685,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+ЗАБЫТЬ,структура,1.538,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+СОБРАТЬ,сильный,0.998,j,Laura L2,syv,a_unrelated,inflection,unrel,3,yes,10,27
+СТРАДАТЬ,страдать,0.583,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+СМОТРЕТЬ,смотреть,0.514,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+СТОЯТЬ,стоять,0.615,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ИГРАТЬ,играть,0.533,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+СТАВИТЬ,ставить,0.598,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ПРОСИТЬ,просить,0.605,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+КУРИТЬ,курить,0.516,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ЖЕЛАТЬ,желать,0.514,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ИСКАТЬ,искать,0.515,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ТЕРЯТЬ,терять,0.682,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ТРАТИТЬ,тратить,0.52,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+СИДЕТЬ,сидеть,0.64,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ДУМАТЬ,думать,0.518,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ГОВОРИТЬ,говорить,0.781,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ЛЕЖАТЬ,лежать,0.55,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ДЕРЖАТЬ,держать,0.732,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ВЕРИТЬ,верить,0.668,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+СТРОИТЬ,строить,0.55,j,Maahanna,syv,identity,derivation,id,18,yes,20,36
+ПЛАКАТЬ,плакать,0.617,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+ВЫБРАТЬ,выбрать,0.666,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+ВСТРЕЧАТЬ,встречать,0.621,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+КРИЧАТЬ,кричать,0.77,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+СООБЩИТЬ,сообщить,0.647,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+УБИТЬ,убить,0.603,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+БЕЖАТЬ,бежать,0.601,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+БРОСИТЬ,бросить,0.586,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+УМЕТЬ,уметь,0.615,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+ПОНЯТЬ,понять,0.618,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+НАЧАТЬ,начать,0.603,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+ПИСАТЬ,писать,0.533,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+РЕШИТЬ,решить,0.663,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+СЛЫШАТЬ,слышать,0.563,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+ПОМНИТЬ,помнить,0.61,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+УЗНАТЬ,узнать,0.515,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+ОЖИДАТЬ,ожидать,0.945,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+СНИМАТЬ,снимать,0.651,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+ЗАБЫТЬ,забыть,0.715,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+СОБРАТЬ,собрать,0.614,j,Maahanna,syv,identity,inflection,id,18,yes,20,36
+СИДЕТЬ,посидеть,0.577,j,Maatuska_L2,perus,related,derivation,der,0,no,9,20
+ГОВОРИТЬ,поговорить,0.649,j,Maatuska_L2,perus,related,derivation,der,0,no,9,20
+ДЕРЖАТЬ,подержать,0.674,j,Maatuska_L2,perus,related,derivation,der,0,no,9,20
+ВЕРИТЬ,поверить,0.898,j,Maatuska_L2,perus,related,derivation,der,0,no,9,20
+СТРОИТЬ,построить,0.581,j,Maatuska_L2,perus,related,derivation,der,0,no,9,20
+БРОСИТЬ,бросил,0.605,j,Maatuska_L2,perus,related,inflection,inf,0,no,9,20
+ПОНЯТЬ,понял,0.605,j,Maatuska_L2,perus,related,inflection,inf,0,no,9,20
+НАЧАТЬ,начал,0.534,j,Maatuska_L2,perus,related,inflection,inf,0,no,9,20
+ПИСАТЬ,писал,0.592,j,Maatuska_L2,perus,related,inflection,inf,0,no,9,20
+РЕШИТЬ,решил,0.573,j,Maatuska_L2,perus,related,inflection,inf,0,no,9,20
+СЛЫШАТЬ,слышал,0.625,j,Maatuska_L2,perus,related,inflection,inf,0,no,9,20
+ПОМНИТЬ,помнил,0.448,j,Maatuska_L2,perus,related,inflection,inf,0,no,9,20
+УЗНАТЬ,узнал,0.827,j,Maatuska_L2,perus,related,inflection,inf,0,no,9,20
+СНИМАТЬ,снимал,0.745,j,Maatuska_L2,perus,related,inflection,inf,0,no,9,20
+СТРАДАТЬ,машина,0.548,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+СМОТРЕТЬ,впрочем,0.573,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+СТОЯТЬ,палец,0.608,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+ИГРАТЬ,великий,0.58,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+СТАВИТЬ,очередь,0.727,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+КУРИТЬ,взгляд,0.767,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+СЧИТАТЬ,вторник,0.672,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+ЖЕЛАТЬ,принцип,0.773,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+ИСКАТЬ,мужчина,0.692,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+ТЕРЯТЬ,метод,0.647,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+ТРАТИТЬ,задание,0.994,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+ДУМАТЬ,мысль,0.681,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+ЛЕЖАТЬ,простой,0.523,j,Maatuska_L2,perus,a_unrelated,derivation,unrel,0,no,9,20
+ПЛАКАТЬ,женщина,0.707,j,Maatuska_L2,perus,a_unrelated,inflection,unrel,0,no,9,20
+ВЫБРАТЬ,назад,0.757,j,Maatuska_L2,perus,a_unrelated,inflection,unrel,0,no,9,20
+ВСТРЕЧАТЬ,крупный,0.598,j,Maatuska_L2,perus,a_unrelated,inflection,unrel,0,no,9,20
+КРИЧАТЬ,простой,0.719,j,Maatuska_L2,perus,a_unrelated,inflection,unrel,0,no,9,20
+СООБЩИТЬ,важный,0.903,j,Maatuska_L2,perus,a_unrelated,inflection,unrel,0,no,9,20
+УБИТЬ,часто,0.72,j,Maatuska_L2,perus,a_unrelated,inflection,unrel,0,no,9,20
+БЕЖАТЬ,мальчик,0.69,j,Maatuska_L2,perus,a_unrelated,inflection,unrel,0,no,9,20
+УМЕТЬ,характер,0.783,j,Maatuska_L2,perus,a_unrelated,inflection,unrel,0,no,9,20
+СОБРАТЬ,сильный,0.776,j,Maatuska_L2,perus,a_unrelated,inflection,unrel,0,no,9,20
+СТРАДАТЬ,пострадать,0.72331,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+СМОТРЕТЬ,посмотреть,0.61903,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+СТОЯТЬ,постоять,0.683595,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+ИГРАТЬ,поиграть,1.104425,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+СЛУШАТЬ,послушать,0.634935,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+ПРОСИТЬ,попросить,0.73597,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+КУРИТЬ,покурить,0.667515,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+СЧИТАТЬ,посчитать,0.784915,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+ЖЕЛАТЬ,пожелать,0.83235,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+ИСКАТЬ,поискать,0.651095,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+ЛЕЖАТЬ,полежать,0.61953,j,miisa_L2,aine,related,derivation,der,0,no,3,41
+ПЛАКАТЬ,плакал,0.82191,j,miisa_L2,aine,related,inflection,inf,0,no,3,41
+ВЫБРАТЬ,выбрал,0.688395,j,miisa_L2,aine,related,inflection,inf,0,no,3,41
+ВСТРЕЧАТЬ,встречал,0.75061,j,miisa_L2,aine,related,inflection,inf,0,no,3,41
+СООБЩИТЬ,сообщил,1.107385,j,miisa_L2,aine,related,inflection,inf,0,no,3,41
+УБИТЬ,убил,0.72674,j,miisa_L2,aine,related,inflection,inf,0,no,3,41
+БЕЖАТЬ,бежал,0.934205,j,miisa_L2,aine,related,inflection,inf,0,no,3,41
+УМЕТЬ,умел,0.655305,j,miisa_L2,aine,related,inflection,inf,0,no,3,41
+СОБРАТЬ,собрал,0.66856,j,miisa_L2,aine,related,inflection,inf,0,no,3,41
+СИДЕТЬ,первый,0.71775,j,miisa_L2,aine,a_unrelated,derivation,unrel,0,no,3,41
+ДУМАТЬ,другой,0.916535,j,miisa_L2,aine,a_unrelated,derivation,unrel,0,no,3,41
+ГОВОРИТЬ,все-таки,0.685015,j,miisa_L2,aine,a_unrelated,derivation,unrel,0,no,3,41
+ВЕРИТЬ,самый,0.81565,j,miisa_L2,aine,a_unrelated,derivation,unrel,0,no,3,41
+СТРОИТЬ,область,0.801395,j,miisa_L2,aine,a_unrelated,derivation,unrel,0,no,3,41
+БРОСИТЬ,никакой,0.83386,j,miisa_L2,aine,a_unrelated,inflection,unrel,0,no,3,41
+ПОНЯТЬ,хорошо,0.69897,j,miisa_L2,aine,a_unrelated,inflection,unrel,0,no,3,41
+НАЧАТЬ,всякий,0.635195,j,miisa_L2,aine,a_unrelated,inflection,unrel,0,no,3,41
+ПИСАТЬ,черный,0.70075,j,miisa_L2,aine,a_unrelated,inflection,unrel,0,no,3,41
+РЕШИТЬ,далекий,0.637665,j,miisa_L2,aine,a_unrelated,inflection,unrel,0,no,3,41
+СЛЫШАТЬ,история,0.63282,j,miisa_L2,aine,a_unrelated,inflection,unrel,0,no,3,41
+ПОМНИТЬ,власть,0.618725,j,miisa_L2,aine,a_unrelated,inflection,unrel,0,no,3,41
+УЗНАТЬ,тысяча,0.69487,j,miisa_L2,aine,a_unrelated,inflection,unrel,0,no,3,41
+СНИМАТЬ,развитие,0.668925,j,miisa_L2,aine,a_unrelated,inflection,unrel,0,no,3,41
+СТРАДАТЬ,страдать,0.71365,j,mS,perus,identity,derivation,id,0,no,3,40
+СМОТРЕТЬ,смотреть,0.669035,j,mS,perus,identity,derivation,id,0,no,3,40
+СТОЯТЬ,стоять,0.6991,j,mS,perus,identity,derivation,id,0,no,3,40
+ИГРАТЬ,играть,0.62138,j,mS,perus,identity,derivation,id,0,no,3,40
+СТАВИТЬ,ставить,0.722475,j,mS,perus,identity,derivation,id,0,no,3,40
+СЛУШАТЬ,слушать,0.73242,j,mS,perus,identity,derivation,id,0,no,3,40
+ПРОСИТЬ,просить,0.706245,j,mS,perus,identity,derivation,id,0,no,3,40
+КУРИТЬ,курить,0.54902,j,mS,perus,identity,derivation,id,0,no,3,40
+СЧИТАТЬ,считать,0.79885,j,mS,perus,identity,derivation,id,0,no,3,40
+ЖЕЛАТЬ,желать,0.79951,j,mS,perus,identity,derivation,id,0,no,3,40
+ИСКАТЬ,искать,0.627195,j,mS,perus,identity,derivation,id,0,no,3,40
+ТЕРЯТЬ,терять,0.731025,j,mS,perus,identity,derivation,id,0,no,3,40
+СИДЕТЬ,сидеть,0.849495,j,mS,perus,identity,derivation,id,0,no,3,40
+ДУМАТЬ,думать,0.82489,j,mS,perus,identity,derivation,id,0,no,3,40
+ГОВОРИТЬ,говорить,0.545885,j,mS,perus,identity,derivation,id,0,no,3,40
+ЛЕЖАТЬ,лежать,0.631625,j,mS,perus,identity,derivation,id,0,no,3,40
+ДЕРЖАТЬ,держать,0.69952,j,mS,perus,identity,derivation,id,0,no,3,40
+ВЕРИТЬ,верить,0.81535,j,mS,perus,identity,derivation,id,0,no,3,40
+СТРОИТЬ,строить,0.69766,j,mS,perus,identity,derivation,id,0,no,3,40
+ПЛАКАТЬ,плакать,0.69845,j,mS,perus,identity,inflection,id,0,no,3,40
+ВЫБРАТЬ,выбрать,0.684265,j,mS,perus,identity,inflection,id,0,no,3,40
+ВСТРЕЧАТЬ,встречать,0.71522,j,mS,perus,identity,inflection,id,0,no,3,40
+БРОСИТЬ,бросить,0.64801,j,mS,perus,identity,inflection,id,0,no,3,40
+УМЕТЬ,уметь,0.56803,j,mS,perus,identity,inflection,id,0,no,3,40
+ПОНЯТЬ,понять,0.63258,j,mS,perus,identity,inflection,id,0,no,3,40
+НАЧАТЬ,начать,0.566925,j,mS,perus,identity,inflection,id,0,no,3,40
+ПИСАТЬ,писать,0.667145,j,mS,perus,identity,inflection,id,0,no,3,40
+РЕШИТЬ,решить,0.68615,j,mS,perus,identity,inflection,id,0,no,3,40
+СЛЫШАТЬ,слышать,1.009375,j,mS,perus,identity,inflection,id,0,no,3,40
+ПОМНИТЬ,помнить,0.61547,j,mS,perus,identity,inflection,id,0,no,3,40
+ОЖИДАТЬ,ожидать,0.68131,j,mS,perus,identity,inflection,id,0,no,3,40
+СНИМАТЬ,снимать,0.574105,j,mS,perus,identity,inflection,id,0,no,3,40
+СОБРАТЬ,собрать,0.780995,j,mS,perus,identity,inflection,id,0,no,3,40
+СТРАДАТЬ,страдать,0.736,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+СМОТРЕТЬ,смотреть,0.619,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+СТОЯТЬ,стоять,0.655,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ИГРАТЬ,играть,0.753,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+СТАВИТЬ,ставить,0.669,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+СЛУШАТЬ,слушать,0.721,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ПРОСИТЬ,просить,0.869,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+КУРИТЬ,курить,0.67,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+СЧИТАТЬ,считать,1.053,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ЖЕЛАТЬ,желать,0.604,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ИСКАТЬ,искать,0.756,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ТЕРЯТЬ,терять,0.601,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ТРАТИТЬ,тратить,0.702,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+СИДЕТЬ,сидеть,0.656,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ДУМАТЬ,думать,0.638,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ГОВОРИТЬ,говорить,0.619,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ЛЕЖАТЬ,лежать,0.686,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ДЕРЖАТЬ,держать,0.652,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ВЕРИТЬ,верить,0.952,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+СТРОИТЬ,строить,0.667,j,NanaL2,aine,identity,derivation,id,36,yes,8,39
+ПЛАКАТЬ,плакать,0.837,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+ВЫБРАТЬ,выбрать,0.638,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+ВСТРЕЧАТЬ,встречать,0.653,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+КРИЧАТЬ,кричать,0.639,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+СООБЩИТЬ,сообщить,0.788,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+УБИТЬ,убить,0.79,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+БЕЖАТЬ,бежать,0.803,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+БРОСИТЬ,бросить,0.706,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+УМЕТЬ,уметь,0.771,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+ПОНЯТЬ,понять,1.018,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+НАЧАТЬ,начать,0.72,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+ПИСАТЬ,писать,0.721,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+РЕШИТЬ,решить,0.753,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+СЛЫШАТЬ,слышать,0.685,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+ПОМНИТЬ,помнить,1.069,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+УЗНАТЬ,узнать,0.606,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+ОЖИДАТЬ,ожидать,0.735,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+СНИМАТЬ,снимать,0.719,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+ЗАБЫТЬ,забыть,0.902,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+СОБРАТЬ,собрать,1.155,j,NanaL2,aine,identity,inflection,id,36,yes,8,39
+СИДЕТЬ,посидеть,0.5007,j,Nimijamerkki_L2,aine,related,derivation,der,5,yes,10,36
+ГОВОРИТЬ,поговорить,0.61697,j,Nimijamerkki_L2,aine,related,derivation,der,5,yes,10,36
+ДЕРЖАТЬ,подержать,0.64046,j,Nimijamerkki_L2,aine,related,derivation,der,5,yes,10,36
+ВЕРИТЬ,поверить,0.6074,j,Nimijamerkki_L2,aine,related,derivation,der,5,yes,10,36
+СТРОИТЬ,построить,0.888985,j,Nimijamerkki_L2,aine,related,derivation,der,5,yes,10,36
+БРОСИТЬ,бросил,0.634165,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+ПОНЯТЬ,понял,0.63391,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+НАЧАТЬ,начал,0.51697,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+ПИСАТЬ,писал,0.621105,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+РЕШИТЬ,решил,0.55877,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+СЛЫШАТЬ,слышал,0.605695,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+ПОМНИТЬ,помнил,0.53712,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+УЗНАТЬ,узнал,0.62055,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+ОЖИДАТЬ,ожидал,0.775765,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+СНИМАТЬ,снимал,0.683115,j,Nimijamerkki_L2,aine,related,inflection,inf,5,yes,10,36
+СТРАДАТЬ,машина,0.813325,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+СМОТРЕТЬ,впрочем,0.61738,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+СТОЯТЬ,палец,0.640625,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+ИГРАТЬ,великий,0.62632,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+СТАВИТЬ,очередь,0.6132,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+СЛУШАТЬ,готовый,0.628165,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+ПРОСИТЬ,близкий,0.791485,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+КУРИТЬ,взгляд,0.8792,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+СЧИТАТЬ,вторник,1.029325,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+ЖЕЛАТЬ,принцип,0.61704,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+ИСКАТЬ,мужчина,0.56163,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+ТРАТИТЬ,задание,0.779135,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+ДУМАТЬ,мысль,0.70686,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+ЛЕЖАТЬ,простой,0.737525,j,Nimijamerkki_L2,aine,a_unrelated,derivation,unrel,5,yes,10,36
+ПЛАКАТЬ,женщина,0.90694,j,Nimijamerkki_L2,aine,a_unrelated,inflection,unrel,5,yes,10,36
+ВСТРЕЧАТЬ,крупный,0.80106,j,Nimijamerkki_L2,aine,a_unrelated,inflection,unrel,5,yes,10,36
+КРИЧАТЬ,простой,0.691,j,Nimijamerkki_L2,aine,a_unrelated,inflection,unrel,5,yes,10,36
+СООБЩИТЬ,важный,0.861305,j,Nimijamerkki_L2,aine,a_unrelated,inflection,unrel,5,yes,10,36
+УБИТЬ,часто,0.718135,j,Nimijamerkki_L2,aine,a_unrelated,inflection,unrel,5,yes,10,36
+БЕЖАТЬ,мальчик,0.69955,j,Nimijamerkki_L2,aine,a_unrelated,inflection,unrel,5,yes,10,36
+УМЕТЬ,характер,0.67314,j,Nimijamerkki_L2,aine,a_unrelated,inflection,unrel,5,yes,10,36
+ЗАБЫТЬ,структура,0.875915,j,Nimijamerkki_L2,aine,a_unrelated,inflection,unrel,5,yes,10,36
+СТРАДАТЬ,пострадать,0.48576,j,svet_L2,syv,related,derivation,der,1,no,8,23
+СМОТРЕТЬ,посмотреть,0.518965,j,svet_L2,syv,related,derivation,der,1,no,8,23
+СТОЯТЬ,постоять,0.66044,j,svet_L2,syv,related,derivation,der,1,no,8,23
+ИГРАТЬ,поиграть,0.507825,j,svet_L2,syv,related,derivation,der,1,no,8,23
+СТАВИТЬ,поставить,0.4366,j,svet_L2,syv,related,derivation,der,1,no,8,23
+СЛУШАТЬ,послушать,0.459565,j,svet_L2,syv,related,derivation,der,1,no,8,23
+ПРОСИТЬ,попросить,0.698615,j,svet_L2,syv,related,derivation,der,1,no,8,23
+КУРИТЬ,покурить,0.632965,j,svet_L2,syv,related,derivation,der,1,no,8,23
+СЧИТАТЬ,посчитать,0.66584,j,svet_L2,syv,related,derivation,der,1,no,8,23
+ЖЕЛАТЬ,пожелать,0.49478,j,svet_L2,syv,related,derivation,der,1,no,8,23
+ИСКАТЬ,поискать,0.557015,j,svet_L2,syv,related,derivation,der,1,no,8,23
+ТЕРЯТЬ,потерять,0.54367,j,svet_L2,syv,related,derivation,der,1,no,8,23
+ТРАТИТЬ,потратить,0.450535,j,svet_L2,syv,related,derivation,der,1,no,8,23
+ЛЕЖАТЬ,полежать,0.59792,j,svet_L2,syv,related,derivation,der,1,no,8,23
+ПЛАКАТЬ,плакал,0.57076,j,svet_L2,syv,related,inflection,inf,1,no,8,23
+ВЫБРАТЬ,выбрал,0.39224,j,svet_L2,syv,related,inflection,inf,1,no,8,23
+ВСТРЕЧАТЬ,встречал,0.42524,j,svet_L2,syv,related,inflection,inf,1,no,8,23
+КРИЧАТЬ,кричал,0.41581,j,svet_L2,syv,related,inflection,inf,1,no,8,23
+СООБЩИТЬ,сообщил,0.435245,j,svet_L2,syv,related,inflection,inf,1,no,8,23
+УБИТЬ,убил,0.423705,j,svet_L2,syv,related,inflection,inf,1,no,8,23
+БЕЖАТЬ,бежал,0.52228,j,svet_L2,syv,related,inflection,inf,1,no,8,23
+УМЕТЬ,умел,0.448745,j,svet_L2,syv,related,inflection,inf,1,no,8,23
+СОБРАТЬ,собрал,0.59141,j,svet_L2,syv,related,inflection,inf,1,no,8,23
+СИДЕТЬ,первый,0.546045,j,svet_L2,syv,a_unrelated,derivation,unrel,1,no,8,23
+ДУМАТЬ,другой,0.59349,j,svet_L2,syv,a_unrelated,derivation,unrel,1,no,8,23
+ГОВОРИТЬ,все-таки,0.649805,j,svet_L2,syv,a_unrelated,derivation,unrel,1,no,8,23
+ДЕРЖАТЬ,работа,0.6273,j,svet_L2,syv,a_unrelated,derivation,unrel,1,no,8,23
+ВЕРИТЬ,самый,0.50394,j,svet_L2,syv,a_unrelated,derivation,unrel,1,no,8,23
+СТРОИТЬ,область,0.52726,j,svet_L2,syv,a_unrelated,derivation,unrel,1,no,8,23
+БРОСИТЬ,никакой,0.502215,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+ПОНЯТЬ,хорошо,0.492975,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+НАЧАТЬ,всякий,0.551255,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+ПИСАТЬ,черный,0.449705,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+РЕШИТЬ,далекий,0.48199,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+СЛЫШАТЬ,история,0.574665,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+ПОМНИТЬ,власть,0.4954,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+УЗНАТЬ,тысяча,0.77424,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+ОЖИДАТЬ,внимание,0.798755,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+СНИМАТЬ,развитие,0.433825,j,svet_L2,syv,a_unrelated,inflection,unrel,1,no,8,23
+СИДЕТЬ,посидеть,0.484095,j,TP,aine,related,derivation,der,1,no,6,23
+ГОВОРИТЬ,поговорить,0.505515,j,TP,aine,related,derivation,der,1,no,6,23
+ДЕРЖАТЬ,подержать,0.48481,j,TP,aine,related,derivation,der,1,no,6,23
+ВЕРИТЬ,поверить,0.83043,j,TP,aine,related,derivation,der,1,no,6,23
+СТРОИТЬ,построить,0.500665,j,TP,aine,related,derivation,der,1,no,6,23
+БРОСИТЬ,бросил,0.50717,j,TP,aine,related,inflection,der,1,no,6,23
+ПОНЯТЬ,понял,0.623795,j,TP,aine,related,inflection,der,1,no,6,23
+НАЧАТЬ,начал,0.784735,j,TP,aine,related,inflection,der,1,no,6,23
+ПИСАТЬ,писал,0.58495,j,TP,aine,related,inflection,der,1,no,6,23
+РЕШИТЬ,решил,0.4831,j,TP,aine,related,inflection,der,1,no,6,23
+СЛЫШАТЬ,слышал,0.51986,j,TP,aine,related,inflection,der,1,no,6,23
+ПОМНИТЬ,помнил,0.584505,j,TP,aine,related,inflection,der,1,no,6,23
+УЗНАТЬ,узнал,0.47855,j,TP,aine,related,inflection,der,1,no,6,23
+СНИМАТЬ,снимал,0.52444,j,TP,aine,related,inflection,der,1,no,6,23
+СТРАДАТЬ,машина,0.62088,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+СМОТРЕТЬ,впрочем,0.68368,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+ИГРАТЬ,великий,0.467005,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+СТАВИТЬ,очередь,0.494435,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+СЛУШАТЬ,готовый,0.40255,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+ПРОСИТЬ,близкий,0.552995,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+КУРИТЬ,взгляд,0.534435,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+ЖЕЛАТЬ,принцип,0.53339,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+ИСКАТЬ,мужчина,0.546405,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+ТЕРЯТЬ,метод,0.445985,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+ТРАТИТЬ,задание,0.573865,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+ДУМАТЬ,мысль,0.457605,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+ЛЕЖАТЬ,простой,0.479855,j,TP,aine,a_unrelated,derivation,unrel,1,no,6,23
+ВСТРЕЧАТЬ,крупный,0.6185,j,TP,aine,a_unrelated,inflection,unrel,1,no,6,23
+КРИЧАТЬ,простой,0.63718,j,TP,aine,a_unrelated,inflection,unrel,1,no,6,23
+СООБЩИТЬ,важный,0.541765,j,TP,aine,a_unrelated,inflection,unrel,1,no,6,23
+УБИТЬ,часто,0.69547,j,TP,aine,a_unrelated,inflection,unrel,1,no,6,23
+БЕЖАТЬ,мальчик,0.57692,j,TP,aine,a_unrelated,inflection,unrel,1,no,6,23
+УМЕТЬ,характер,0.80081,j,TP,aine,a_unrelated,inflection,unrel,1,no,6,23
+ЗАБЫТЬ,структура,0.599955,j,TP,aine,a_unrelated,inflection,unrel,1,no,6,23
+СОБРАТЬ,сильный,0.528655,j,TP,aine,a_unrelated,inflection,unrel,1,no,6,23
+СТРАДАТЬ,пострадать,0.932,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+СМОТРЕТЬ,посмотреть,0.682,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+СТОЯТЬ,постоять,0.615,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+ИГРАТЬ,поиграть,0.601,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+СТАВИТЬ,поставить,0.598,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+СЛУШАТЬ,послушать,0.615,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+ПРОСИТЬ,попросить,0.62,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+КУРИТЬ,покурить,0.651,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+СЧИТАТЬ,посчитать,0.804,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+ЖЕЛАТЬ,пожелать,0.75,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+ИСКАТЬ,поискать,0.567,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+ТЕРЯТЬ,потерять,0.723,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+ТРАТИТЬ,потратить,0.783,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+ЛЕЖАТЬ,полежать,0.633,j,vastaaja_L2,syv,related,derivation,der,3,yes,11,31
+ПЛАКАТЬ,плакал,0.584,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+ВЫБРАТЬ,выбрал,0.621,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+ВСТРЕЧАТЬ,встречал,0.783,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+КРИЧАТЬ,кричал,0.637,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+СООБЩИТЬ,сообщил,0.648,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+УБИТЬ,убил,0.72,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+БЕЖАТЬ,бежал,0.652,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+УМЕТЬ,умел,0.581,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+ЗАБЫТЬ,забыл,1.116,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+СОБРАТЬ,собрал,0.568,j,vastaaja_L2,syv,related,inflection,inf,3,yes,11,31
+СИДЕТЬ,первый,0.6,j,vastaaja_L2,syv,a_unrelated,derivation,unrel,3,yes,11,31
+ДУМАТЬ,другой,0.681,j,vastaaja_L2,syv,a_unrelated,derivation,unrel,3,yes,11,31
+ГОВОРИТЬ,все-таки,0.599,j,vastaaja_L2,syv,a_unrelated,derivation,unrel,3,yes,11,31
+ДЕРЖАТЬ,работа,0.683,j,vastaaja_L2,syv,a_unrelated,derivation,unrel,3,yes,11,31
+ВЕРИТЬ,самый,0.649,j,vastaaja_L2,syv,a_unrelated,derivation,unrel,3,yes,11,31
+СТРОИТЬ,область,0.647,j,vastaaja_L2,syv,a_unrelated,derivation,unrel,3,yes,11,31
+БРОСИТЬ,никакой,0.738,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+ПОНЯТЬ,хорошо,0.652,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+НАЧАТЬ,всякий,0.782,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+ПИСАТЬ,черный,0.998,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+РЕШИТЬ,далекий,0.649,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+СЛЫШАТЬ,история,0.798,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+ПОМНИТЬ,власть,0.569,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+УЗНАТЬ,тысяча,0.666,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+ОЖИДАТЬ,внимание,0.935,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+СНИМАТЬ,развитие,0.853,j,vastaaja_L2,syv,a_unrelated,inflection,unrel,3,yes,11,31
+СТРАДАТЬ,пострадать,0.754,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+СМОТРЕТЬ,посмотреть,0.421,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+СТОЯТЬ,постоять,0.572,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+ИГРАТЬ,поиграть,0.583,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+СТАВИТЬ,поставить,0.505,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+СЛУШАТЬ,послушать,0.571,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+ПРОСИТЬ,попросить,0.571,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+КУРИТЬ,покурить,0.623,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+СЧИТАТЬ,посчитать,0.84,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+ЖЕЛАТЬ,пожелать,0.506,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+ИСКАТЬ,поискать,0.44,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+ЛЕЖАТЬ,полежать,0.592,j,vieraana_L2,aine,related,derivation,der,0,no,5,22
+ПЛАКАТЬ,плакал,0.89,j,vieraana_L2,aine,related,inflection,inf,0,no,5,22
+ВЫБРАТЬ,выбрал,2.382,j,vieraana_L2,aine,related,inflection,inf,0,no,5,22
+ВСТРЕЧАТЬ,встречал,0.658,j,vieraana_L2,aine,related,inflection,inf,0,no,5,22
+КРИЧАТЬ,кричал,0.666,j,vieraana_L2,aine,related,inflection,inf,0,no,5,22
+СООБЩИТЬ,сообщил,0.988,j,vieraana_L2,aine,related,inflection,inf,0,no,5,22
+УБИТЬ,убил,0.692,j,vieraana_L2,aine,related,inflection,inf,0,no,5,22
+УМЕТЬ,умел,0.704,j,vieraana_L2,aine,related,inflection,inf,0,no,5,22
+СОБРАТЬ,собрал,0.621,j,vieraana_L2,aine,related,inflection,inf,0,no,5,22
+СИДЕТЬ,первый,0.689,j,vieraana_L2,syv,a_unrelated,derivation,unrel,0,no,5,22
+ДУМАТЬ,другой,0.706,j,vieraana_L2,syv,a_unrelated,derivation,unrel,0,no,5,22
+ГОВОРИТЬ,все-таки,0.717,j,vieraana_L2,syv,a_unrelated,derivation,unrel,0,no,5,22
+ДЕРЖАТЬ,работа,0.752,j,vieraana_L2,syv,a_unrelated,derivation,unrel,0,no,5,22
+ВЕРИТЬ,самый,0.804,j,vieraana_L2,syv,a_unrelated,derivation,unrel,0,no,5,22
+СТРОИТЬ,область,0.557,j,vieraana_L2,syv,a_unrelated,derivation,unrel,0,no,5,22
+БРОСИТЬ,никакой,0.895,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+ПОНЯТЬ,хорошо,0.843,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+НАЧАТЬ,всякий,0.725,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+ПИСАТЬ,черный,0.514,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+РЕШИТЬ,далекий,0.802,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+СЛЫШАТЬ,история,0.679,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+ПОМНИТЬ,власть,0.694,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+УЗНАТЬ,тысяча,0.303,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+ОЖИДАТЬ,внимание,0.554,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+СНИМАТЬ,развитие,0.488,j,vieraana_L2,syv,a_unrelated,inflection,unrel,0,no,5,22
+СТРАДАТЬ,пострадать,1.315315,j,xyz L2,perus,related,derivation,der,0,no,6,28
+СМОТРЕТЬ,посмотреть,0.53179,j,xyz L2,perus,related,derivation,der,0,no,6,28
+СТОЯТЬ,постоять,0.64868,j,xyz L2,perus,related,derivation,der,0,no,6,28
+ИГРАТЬ,поиграть,0.6945,j,xyz L2,perus,related,derivation,der,0,no,6,28
+СТАВИТЬ,поставить,1.069505,j,xyz L2,perus,related,derivation,der,0,no,6,28
+СЛУШАТЬ,послушать,0.567325,j,xyz L2,perus,related,derivation,der,0,no,6,28
+ПРОСИТЬ,попросить,1.08377,j,xyz L2,perus,related,derivation,der,0,no,6,28
+КУРИТЬ,покурить,0.615935,j,xyz L2,perus,related,derivation,der,0,no,6,28
+СЧИТАТЬ,посчитать,0.586205,j,xyz L2,perus,related,derivation,der,0,no,6,28
+ИСКАТЬ,поискать,0.6516,j,xyz L2,perus,related,derivation,der,0,no,6,28
+ТРАТИТЬ,потратить,1.239855,j,xyz L2,perus,related,derivation,der,0,no,6,28
+ЛЕЖАТЬ,полежать,0.5155,j,xyz L2,perus,related,derivation,der,0,no,6,28
+ПЛАКАТЬ,плакал,0.722515,j,xyz L2,perus,related,inflection,inf,0,no,6,28
+ВЫБРАТЬ,выбрал,0.982015,j,xyz L2,perus,related,inflection,inf,0,no,6,28
+ВСТРЕЧАТЬ,встречал,1.436465,j,xyz L2,perus,related,inflection,inf,0,no,6,28
+СООБЩИТЬ,сообщил,1.10326,j,xyz L2,perus,related,inflection,inf,0,no,6,28
+УБИТЬ,убил,0.84055,j,xyz L2,perus,related,inflection,inf,0,no,6,28
+БЕЖАТЬ,бежал,0.791895,j,xyz L2,perus,related,inflection,inf,0,no,6,28
+УМЕТЬ,умел,0.637705,j,xyz L2,perus,related,inflection,inf,0,no,6,28
+СОБРАТЬ,собрал,1.53372,j,xyz L2,perus,related,inflection,inf,0,no,6,28
+СИДЕТЬ,первый,0.6683,j,xyz L2,perus,a_unrelated,derivation,unrel,0,no,6,28
+ДУМАТЬ,другой,0.634085,j,xyz L2,perus,a_unrelated,derivation,unrel,0,no,6,28
+ГОВОРИТЬ,все-таки,0.59461,j,xyz L2,perus,a_unrelated,derivation,unrel,0,no,6,28
+ДЕРЖАТЬ,работа,1.10434,j,xyz L2,perus,a_unrelated,derivation,unrel,0,no,6,28
+ВЕРИТЬ,самый,1.56002,j,xyz L2,perus,a_unrelated,derivation,unrel,0,no,6,28
+ПОНЯТЬ,хорошо,0.812365,j,xyz L2,perus,a_unrelated,inflection,unrel,0,no,6,28
+НАЧАТЬ,всякий,0.59883,j,xyz L2,perus,a_unrelated,inflection,unrel,0,no,6,28
+ПИСАТЬ,черный,0.952075,j,xyz L2,perus,a_unrelated,inflection,unrel,0,no,6,28
+РЕШИТЬ,далекий,0.59998,j,xyz L2,perus,a_unrelated,inflection,unrel,0,no,6,28
+СЛЫШАТЬ,история,0.740655,j,xyz L2,perus,a_unrelated,inflection,unrel,0,no,6,28
+ПОМНИТЬ,власть,0.61954,j,xyz L2,perus,a_unrelated,inflection,unrel,0,no,6,28
+УЗНАТЬ,тысяча,0.610035,j,xyz L2,perus,a_unrelated,inflection,unrel,0,no,6,28
+СНИМАТЬ,развитие,0.691505,j,xyz L2,perus,a_unrelated,inflection,unrel,0,no,6,28
+СТРАДАТЬ,страдать,0.7909,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+СМОТРЕТЬ,смотреть,0.497,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+СТОЯТЬ,стоять,0.628,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ИГРАТЬ,играть,0.6654,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+СТАВИТЬ,ставить,0.8771,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+СЛУШАТЬ,слушать,0.6323,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ПРОСИТЬ,просить,0.758,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+КУРИТЬ,курить,0.7454,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+СЧИТАТЬ,считать,1.7272,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ЖЕЛАТЬ,желать,0.5905,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ИСКАТЬ,искать,0.796,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ТЕРЯТЬ,терять,0.7216,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ТРАТИТЬ,тратить,0.6687,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+СИДЕТЬ,сидеть,0.7412,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ДУМАТЬ,думать,0.8329,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ГОВОРИТЬ,говорить,0.9706,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ЛЕЖАТЬ,лежать,0.757,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ДЕРЖАТЬ,держать,0.7442,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ВЕРИТЬ,верить,0.9355,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+СТРОИТЬ,строить,0.6207,j,Юраssic Park,aine,identity,derivation,id,2,yes,10,22
+ПЛАКАТЬ,плакать,0.6505,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+ВЫБРАТЬ,выбрать,1.403,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+ВСТРЕЧАТЬ,встречать,0.82,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+КРИЧАТЬ,кричать,1.1864,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+СООБЩИТЬ,сообщить,0.7807,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+УБИТЬ,убить,0.7031,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+БЕЖАТЬ,бежать,0.6978,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+БРОСИТЬ,бросить,0.6366,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+ПОНЯТЬ,понять,0.9073,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+НАЧАТЬ,начать,0.7704,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+ПИСАТЬ,писать,0.6937,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+СЛЫШАТЬ,слышать,0.6711,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+ПОМНИТЬ,помнить,0.9407,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+УЗНАТЬ,узнать,0.9995,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+ОЖИДАТЬ,ожидать,1.0993,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+СНИМАТЬ,снимать,1.0602,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+ЗАБЫТЬ,забыть,0.763,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22
+СОБРАТЬ,собрать,0.7153,j,Юраssic Park,aine,identity,inflection,id,2,yes,10,22

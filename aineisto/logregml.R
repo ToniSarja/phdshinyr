@@ -1,0 +1,41 @@
+x <- read.csv('aspfl.csv')
+x$asp <- as.factor(x$asp)
+x$stem <- as.numeric(x$stem)
+x$marker <- as.factor(x$marker)
+x$lang <- as.factor(x$lang)
+x$prof <- as.factor(x$prof)
+
+y <- read.csv('asphl.csv')
+y$asp <- as.factor(y$asp)
+y$stem <- as.factor(y$stem)
+y$marker <- as.factor(y$marker)
+y$lang <- as.factor(y$lang)
+y$prof <- as.factor(y$prof)
+
+
+set.seed(123)
+split = sample.split(x$asp, SplitRatio = 0.75)
+training_set = subset(x, split == TRUE)
+test_set = subset(x, split == FALSE)
+classifier = glm(formula = asp ~ stem + marker,data = training_set, family = 'binomial')
+prob_pred = predict(classifier, type = 'response', newdata = test_set[-3])
+y_pred = ifelse(prob_pred > 0.5, 1, 0)
+acc <- table(test_set[,3],y_pred)
+sum((acc))/colSums(acc)
+sum((acc))/rowSums(acc)
+
+set.seed(123)
+split = sample.split(y$asp, SplitRatio = 0.75)
+training_set = subset(y, split == TRUE)
+test_set = subset(y, split == FALSE)
+classifier = glm(formula = asp ~ stem + marker,data = training_set, family = 'binomial')
+prob_pred = predict(classifier, type = 'response', newdata = test_set[-3])
+y_pred = ifelse(prob_pred > 0.5, 1, 0)
+acc <- table(test_set[,3],y_pred)
+sum(diag(acc))/sum(acc)*100
+
+accuracy = sum(diag(acc))/sum(acc)*100
+precision = diag(acc)/colSums(acc)
+recall = diag(acc)/rowSums(acc)
+f1 = 2 * precision * recall / (precision + recall)
+data.frame(accuracy,precision,recall,f1)

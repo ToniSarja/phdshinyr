@@ -1,0 +1,707 @@
+target,rt,participant,prime,primetype,relationtype
+СТРАДАТЬ,0.603695,AAA_L1,der,related,derivation
+СМОТРЕТЬ,0.600835,AAA_L1,der,related,derivation
+СТОЯТЬ,0.59029,AAA_L1,der,related,derivation
+ИГРАТЬ,0.62158,AAA_L1,der,related,derivation
+СТАВИТЬ,0.69744,AAA_L1,der,related,derivation
+СЛУШАТЬ,0.60059,AAA_L1,der,related,derivation
+ПРОСИТЬ,0.534625,AAA_L1,der,related,derivation
+КУРИТЬ,0.61692,AAA_L1,der,related,derivation
+СЧИТАТЬ,0.532825,AAA_L1,der,related,derivation
+ЖЕЛАТЬ,0.60095,AAA_L1,der,related,derivation
+ИСКАТЬ,0.68672,AAA_L1,der,related,derivation
+ТЕРЯТЬ,0.56475,AAA_L1,der,related,derivation
+ТРАТИТЬ,0.550095,AAA_L1,der,related,derivation
+СИДЕТЬ,0.55046,AAA_L1,unrel,a_unrelated,derivation
+ДУМАТЬ,0.720355,AAA_L1,unrel,a_unrelated,derivation
+ГОВОРИТЬ,0.60108,AAA_L1,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.53337,AAA_L1,unrel,a_unrelated,derivation
+ДЕРЖАТЬ,0.55397,AAA_L1,unrel,a_unrelated,derivation
+ВЕРИТЬ,0.600175,AAA_L1,unrel,a_unrelated,derivation
+СТРОИТЬ,0.591845,AAA_L1,unrel,a_unrelated,derivation
+ПЛАКАТЬ,0.484155,AAA_L1,inf,related,inflection
+ВЫБРАТЬ,0.568555,AAA_L1,inf,related,inflection
+ВСТРЕЧАТЬ,0.552475,AAA_L1,inf,related,inflection
+КРИЧАТЬ,0.450625,AAA_L1,inf,related,inflection
+СООБЩИТЬ,0.57078,AAA_L1,inf,related,inflection
+УБИТЬ,0.523015,AAA_L1,inf,related,inflection
+БЕЖАТЬ,0.5354,AAA_L1,inf,related,inflection
+БРОСИТЬ,0.55088,AAA_L1,unrel,a_unrelated,inflection
+УМЕТЬ,0.562235,AAA_L1,inf,related,inflection
+ПОНЯТЬ,0.50397,AAA_L1,unrel,a_unrelated,inflection
+НАЧАТЬ,0.53399,AAA_L1,unrel,a_unrelated,inflection
+ПИСАТЬ,0.664765,AAA_L1,unrel,a_unrelated,inflection
+РЕШИТЬ,0.534075,AAA_L1,unrel,a_unrelated,inflection
+СЛЫШАТЬ,0.548935,AAA_L1,unrel,a_unrelated,inflection
+ПОМНИТЬ,0.664795,AAA_L1,unrel,a_unrelated,inflection
+УЗНАТЬ,0.50804,AAA_L1,unrel,a_unrelated,inflection
+ОЖИДАТЬ,0.78348,AAA_L1,unrel,a_unrelated,inflection
+СНИМАТЬ,0.550155,AAA_L1,unrel,a_unrelated,inflection
+ЗАБЫТЬ,0.81826,AAA_L1,inf,related,inflection
+СОБРАТЬ,0.469695,AAA_L1,inf,related,inflection
+СТРАДАТЬ,0.517845,daria25,der,related,derivation
+СМОТРЕТЬ,0.473765,daria25,der,related,derivation
+СТОЯТЬ,0.58414,daria25,der,related,derivation
+ИГРАТЬ,0.68884,daria25,der,related,derivation
+СТАВИТЬ,0.85915,daria25,der,related,derivation
+СЛУШАТЬ,0.817035,daria25,der,related,derivation
+ПРОСИТЬ,0.55791,daria25,der,related,derivation
+КУРИТЬ,1.38365,daria25,der,related,derivation
+СЧИТАТЬ,0.65686,daria25,der,related,derivation
+ЖЕЛАТЬ,0.58568,daria25,der,related,derivation
+ИСКАТЬ,0.605495,daria25,der,related,derivation
+ТЕРЯТЬ,0.571775,daria25,der,related,derivation
+ТРАТИТЬ,0.539055,daria25,der,related,derivation
+ДУМАТЬ,0.56621,daria25,unrel,a_unrelated,derivation
+ГОВОРИТЬ,0.700595,daria25,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.511085,daria25,unrel,a_unrelated,derivation
+ДЕРЖАТЬ,0.566375,daria25,unrel,a_unrelated,derivation
+ВЕРИТЬ,0.544445,daria25,unrel,a_unrelated,derivation
+СТРОИТЬ,,daria25,unrel,a_unrelated,derivation
+ПЛАКАТЬ,0.692295,daria25,inf,related,inflection
+ВЫБРАТЬ,0.538265,daria25,inf,related,inflection
+ВСТРЕЧАТЬ,0.515085,daria25,inf,related,inflection
+КРИЧАТЬ,1.274595,daria25,inf,related,inflection
+СООБЩИТЬ,0.665105,daria25,inf,related,inflection
+УБИТЬ,0.953395,daria25,inf,related,inflection
+БЕЖАТЬ,0.637905,daria25,inf,related,inflection
+БРОСИТЬ,0.835605,daria25,unrel,a_unrelated,inflection
+УМЕТЬ,0.809385,daria25,inf,related,inflection
+НАЧАТЬ,0.682795,daria25,unrel,a_unrelated,inflection
+ПИСАТЬ,0.641515,daria25,unrel,a_unrelated,inflection
+РЕШИТЬ,0.705825,daria25,unrel,a_unrelated,inflection
+СЛЫШАТЬ,0.85019,daria25,unrel,a_unrelated,inflection
+ПОМНИТЬ,0.51419,daria25,unrel,a_unrelated,inflection
+УЗНАТЬ,0.73385,daria25,unrel,a_unrelated,inflection
+ОЖИДАТЬ,0.749345,daria25,unrel,a_unrelated,inflection
+СНИМАТЬ,0.81584,daria25,unrel,a_unrelated,inflection
+ЗАБЫТЬ,0.793295,daria25,inf,related,inflection
+СОБРАТЬ,,daria25,inf,related,inflection
+СТРАДАТЬ,0.686695,jishasha_L1,der,related,derivation
+ИГРАТЬ,0.603485,jishasha_L1,der,related,derivation
+СТАВИТЬ,0.588675,jishasha_L1,der,related,derivation
+СЛУШАТЬ,0.51826,jishasha_L1,der,related,derivation
+ПРОСИТЬ,0.55057,jishasha_L1,der,related,derivation
+СЧИТАТЬ,0.555635,jishasha_L1,der,related,derivation
+ИСКАТЬ,0.582385,jishasha_L1,der,related,derivation
+ТЕРЯТЬ,0.38975,jishasha_L1,der,related,derivation
+ТРАТИТЬ,0.72163,jishasha_L1,der,related,derivation
+СИДЕТЬ,0.66665,jishasha_L1,unrel,a_unrelated,derivation
+ДУМАТЬ,0.535235,jishasha_L1,unrel,a_unrelated,derivation
+ГОВОРИТЬ,0.48842,jishasha_L1,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.803835,jishasha_L1,unrel,a_unrelated,derivation
+ДЕРЖАТЬ,0.528195,jishasha_L1,unrel,a_unrelated,derivation
+ВЕРИТЬ,0.535725,jishasha_L1,unrel,a_unrelated,derivation
+СТРОИТЬ,0.71691,jishasha_L1,unrel,a_unrelated,derivation
+ПЛАКАТЬ,0.54967,jishasha_L1,inf,related,inflection
+ВЫБРАТЬ,1.773345,jishasha_L1,inf,related,inflection
+КРИЧАТЬ,0.502235,jishasha_L1,inf,related,inflection
+СООБЩИТЬ,0.52409,jishasha_L1,inf,related,inflection
+УБИТЬ,0.5266,jishasha_L1,inf,related,inflection
+БЕЖАТЬ,0.522525,jishasha_L1,inf,related,inflection
+БРОСИТЬ,0.53625,jishasha_L1,unrel,a_unrelated,inflection
+УМЕТЬ,0.489375,jishasha_L1,inf,related,inflection
+ПОНЯТЬ,0.571405,jishasha_L1,unrel,a_unrelated,inflection
+НАЧАТЬ,0.53436,jishasha_L1,unrel,a_unrelated,inflection
+ПИСАТЬ,0.41851,jishasha_L1,unrel,a_unrelated,inflection
+РЕШИТЬ,0.539255,jishasha_L1,unrel,a_unrelated,inflection
+СЛЫШАТЬ,0.5598,jishasha_L1,unrel,a_unrelated,inflection
+ПОМНИТЬ,0.541955,jishasha_L1,unrel,a_unrelated,inflection
+УЗНАТЬ,0.60528,jishasha_L1,unrel,a_unrelated,inflection
+ОЖИДАТЬ,0.55305,jishasha_L1,unrel,a_unrelated,inflection
+СНИМАТЬ,0.63307,jishasha_L1,unrel,a_unrelated,inflection
+ЗАБЫТЬ,0.47268,jishasha_L1,inf,related,inflection
+СОБРАТЬ,0.58602,jishasha_L1,inf,related,inflection
+СТРАДАТЬ,0.679895,Jelenie Rainer L1,der,related,derivation
+СМОТРЕТЬ,0.68592,Jelenie Rainer L1,der,related,derivation
+СТОЯТЬ,0.771955,Jelenie Rainer L1,der,related,derivation
+ИГРАТЬ,0.71664,Jelenie Rainer L1,der,related,derivation
+СТАВИТЬ,0.66627,Jelenie Rainer L1,der,related,derivation
+СЛУШАТЬ,0.68366,Jelenie Rainer L1,der,related,derivation
+ПРОСИТЬ,0.699705,Jelenie Rainer L1,der,related,derivation
+КУРИТЬ,0.583895,Jelenie Rainer L1,der,related,derivation
+СЧИТАТЬ,1.298655,Jelenie Rainer L1,der,related,derivation
+ЖЕЛАТЬ,0.616345,Jelenie Rainer L1,der,related,derivation
+ИСКАТЬ,0.766745,Jelenie Rainer L1,der,related,derivation
+ТЕРЯТЬ,0.5666,Jelenie Rainer L1,der,related,derivation
+ТРАТИТЬ,0.666775,Jelenie Rainer L1,der,related,derivation
+СИДЕТЬ,0.683455,Jelenie Rainer L1,unrel,a_unrelated,derivation
+ДУМАТЬ,0.63308,Jelenie Rainer L1,unrel,a_unrelated,derivation
+ГОВОРИТЬ,0.566525,Jelenie Rainer L1,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.59967,Jelenie Rainer L1,unrel,a_unrelated,derivation
+ДЕРЖАТЬ,0.600285,Jelenie Rainer L1,unrel,a_unrelated,derivation
+ВЕРИТЬ,0.599655,Jelenie Rainer L1,unrel,a_unrelated,derivation
+СТРОИТЬ,0.59952,Jelenie Rainer L1,unrel,a_unrelated,derivation
+ПЛАКАТЬ,0.58294,Jelenie Rainer L1,inf,related,inflection
+ВЫБРАТЬ,0.583455,Jelenie Rainer L1,inf,related,inflection
+ВСТРЕЧАТЬ,0.53349,Jelenie Rainer L1,inf,related,inflection
+КРИЧАТЬ,0.567485,Jelenie Rainer L1,inf,related,inflection
+СООБЩИТЬ,0.583125,Jelenie Rainer L1,inf,related,inflection
+УБИТЬ,0.58344,Jelenie Rainer L1,inf,related,inflection
+БЕЖАТЬ,0.533565,Jelenie Rainer L1,inf,related,inflection
+БРОСИТЬ,0.86703,Jelenie Rainer L1,unrel,a_unrelated,inflection
+УМЕТЬ,0.58357,Jelenie Rainer L1,inf,related,inflection
+ПОНЯТЬ,0.51318,Jelenie Rainer L1,unrel,a_unrelated,inflection
+НАЧАТЬ,0.628715,Jelenie Rainer L1,unrel,a_unrelated,inflection
+ПИСАТЬ,0.511775,Jelenie Rainer L1,unrel,a_unrelated,inflection
+РЕШИТЬ,0.932355,Jelenie Rainer L1,unrel,a_unrelated,inflection
+СЛЫШАТЬ,0.61827,Jelenie Rainer L1,unrel,a_unrelated,inflection
+ПОМНИТЬ,0.588555,Jelenie Rainer L1,unrel,a_unrelated,inflection
+УЗНАТЬ,0.658035,Jelenie Rainer L1,unrel,a_unrelated,inflection
+ОЖИДАТЬ,1.4713,Jelenie Rainer L1,unrel,a_unrelated,inflection
+СНИМАТЬ,0.631595,Jelenie Rainer L1,unrel,a_unrelated,inflection
+ЗАБЫТЬ,0.58255,Jelenie Rainer L1,inf,related,inflection
+СОБРАТЬ,0.56664,Jelenie Rainer L1,inf,related,inflection
+СТРАДАТЬ,0.602,Ren_L1,der,related,derivation
+СМОТРЕТЬ,0.632,Ren_L1,der,related,derivation
+СТОЯТЬ,0.483,Ren_L1,der,related,derivation
+ИГРАТЬ,0.536,Ren_L1,der,related,derivation
+СТАВИТЬ,0.52,Ren_L1,der,related,derivation
+СЛУШАТЬ,0.532,Ren_L1,der,related,derivation
+ПРОСИТЬ,0.466,Ren_L1,der,related,derivation
+КУРИТЬ,0.602,Ren_L1,der,related,derivation
+СЧИТАТЬ,0.549,Ren_L1,der,related,derivation
+ЖЕЛАТЬ,0.549,Ren_L1,der,related,derivation
+ИСКАТЬ,0.367,Ren_L1,der,related,derivation
+ТЕРЯТЬ,0.567,Ren_L1,der,related,derivation
+ТРАТИТЬ,0.449,Ren_L1,der,related,derivation
+СИДЕТЬ,0.431,Ren_L1,unrel,a_unrelated,derivation
+ДУМАТЬ,0.574,Ren_L1,unrel,a_unrelated,derivation
+ГОВОРИТЬ,0.547,Ren_L1,unrel,a_unrelated,derivation
+ДЕРЖАТЬ,0.566,Ren_L1,unrel,a_unrelated,derivation
+ВЕРИТЬ,0.533,Ren_L1,unrel,a_unrelated,derivation
+СТРОИТЬ,0.683,Ren_L1,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.521,Ren_L1,unrel,a_unrelated,derivation
+ПЛАКАТЬ,0.585,Ren_L1,inf,related,inflection
+ВЫБРАТЬ,0.672,Ren_L1,inf,related,inflection
+ВСТРЕЧАТЬ,0.546,Ren_L1,inf,related,inflection
+КРИЧАТЬ,0.465,Ren_L1,inf,related,inflection
+СООБЩИТЬ,0.7,Ren_L1,inf,related,inflection
+УБИТЬ,0.505,Ren_L1,inf,related,inflection
+БРОСИТЬ,0.583,Ren_L1,unrel,a_unrelated,inflection
+УМЕТЬ,0.398,Ren_L1,inf,related,inflection
+ПОНЯТЬ,0.6,Ren_L1,unrel,a_unrelated,inflection
+НАЧАТЬ,0.565,Ren_L1,unrel,a_unrelated,inflection
+ПИСАТЬ,0.619,Ren_L1,unrel,a_unrelated,inflection
+РЕШИТЬ,0.638,Ren_L1,unrel,a_unrelated,inflection
+СЛЫШАТЬ,0.565,Ren_L1,unrel,a_unrelated,inflection
+ПОМНИТЬ,0.634,Ren_L1,unrel,a_unrelated,inflection
+УЗНАТЬ,0.683,Ren_L1,unrel,a_unrelated,inflection
+ОЖИДАТЬ,0.663,Ren_L1,unrel,a_unrelated,inflection
+СНИМАТЬ,0.649,Ren_L1,unrel,a_unrelated,inflection
+ЗАБЫТЬ,0.499,Ren_L1,inf,related,inflection
+СОБРАТЬ,0.517,Ren_L1,inf,related,inflection
+СТРАДАТЬ,0.65655,Svetlo,der,related,derivation
+СМОТРЕТЬ,0.49425,Svetlo,der,related,derivation
+СТОЯТЬ,0.583415,Svetlo,der,related,derivation
+ИГРАТЬ,0.575485,Svetlo,der,related,derivation
+СТАВИТЬ,0.60263,Svetlo,der,related,derivation
+СЛУШАТЬ,0.642605,Svetlo,der,related,derivation
+ПРОСИТЬ,0.614195,Svetlo,der,related,derivation
+КУРИТЬ,0.555095,Svetlo,der,related,derivation
+СЧИТАТЬ,0.609475,Svetlo,der,related,derivation
+ЖЕЛАТЬ,0.603155,Svetlo,der,related,derivation
+ИСКАТЬ,0.628665,Svetlo,der,related,derivation
+ТЕРЯТЬ,0.504195,Svetlo,der,related,derivation
+ТРАТИТЬ,0.55827,Svetlo,der,related,derivation
+СИДЕТЬ,0.54148,Svetlo,unrel,a_unrelated,derivation
+ДУМАТЬ,0.56577,Svetlo,unrel,a_unrelated,derivation
+ГОВОРИТЬ,0.52071,Svetlo,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.565315,Svetlo,unrel,a_unrelated,derivation
+ДЕРЖАТЬ,0.579625,Svetlo,unrel,a_unrelated,derivation
+ВЕРИТЬ,0.591865,Svetlo,unrel,a_unrelated,derivation
+СТРОИТЬ,0.599635,Svetlo,unrel,a_unrelated,derivation
+ПЛАКАТЬ,0.60193,Svetlo,inf,related,inflection
+ВЫБРАТЬ,0.57529,Svetlo,inf,related,inflection
+ВСТРЕЧАТЬ,0.546905,Svetlo,inf,related,inflection
+КРИЧАТЬ,0.52988,Svetlo,inf,related,inflection
+СООБЩИТЬ,0.578345,Svetlo,inf,related,inflection
+УБИТЬ,0.626425,Svetlo,inf,related,inflection
+БЕЖАТЬ,0.679545,Svetlo,inf,related,inflection
+БРОСИТЬ,0.58037,Svetlo,unrel,a_unrelated,inflection
+УМЕТЬ,0.582755,Svetlo,inf,related,inflection
+НАЧАТЬ,0.50886,Svetlo,unrel,a_unrelated,inflection
+ПИСАТЬ,0.58576,Svetlo,unrel,a_unrelated,inflection
+РЕШИТЬ,0.603775,Svetlo,unrel,a_unrelated,inflection
+СЛЫШАТЬ,0.55028,Svetlo,unrel,a_unrelated,inflection
+ПОМНИТЬ,0.57263,Svetlo,unrel,a_unrelated,inflection
+УЗНАТЬ,0.68847,Svetlo,unrel,a_unrelated,inflection
+ОЖИДАТЬ,0.677255,Svetlo,unrel,a_unrelated,inflection
+СНИМАТЬ,0.629095,Svetlo,unrel,a_unrelated,inflection
+ЗАБЫТЬ,0.57411,Svetlo,inf,related,inflection
+СОБРАТЬ,0.61944,Svetlo,inf,related,inflection
+СТРАДАТЬ,0.8112,Aleks,unrel,a_unrelated,derivation
+СМОТРЕТЬ,0.4638,Aleks,unrel,a_unrelated,derivation
+СТОЯТЬ,0.7036,Aleks,unrel,a_unrelated,derivation
+ИГРАТЬ,0.6014,Aleks,unrel,a_unrelated,derivation
+СТАВИТЬ,0.8415,Aleks,unrel,a_unrelated,derivation
+СЛУШАТЬ,0.5027,Aleks,unrel,a_unrelated,derivation
+ПРОСИТЬ,0.5841,Aleks,unrel,a_unrelated,derivation
+КУРИТЬ,0.8024,Aleks,unrel,a_unrelated,derivation
+СЧИТАТЬ,0.6149,Aleks,unrel,a_unrelated,derivation
+ЖЕЛАТЬ,0.6723,Aleks,unrel,a_unrelated,derivation
+ИСКАТЬ,0.6824,Aleks,unrel,a_unrelated,derivation
+ТЕРЯТЬ,1.4142,Aleks,unrel,a_unrelated,derivation
+ТРАТИТЬ,0.572,Aleks,unrel,a_unrelated,derivation
+СИДЕТЬ,0.8016,Aleks,unrel,a_unrelated,derivation
+ДУМАТЬ,0.594,Aleks,der,related,derivation
+ГОВОРИТЬ,0.5182,Aleks,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.5134,Aleks,der,related,derivation
+ДЕРЖАТЬ,0.8514,Aleks,der,related,derivation
+СТРОИТЬ,1.4024,Aleks,der,related,derivation
+ПЛАКАТЬ,0.7331,Aleks,unrel,a_unrelated,inflection
+ВЫБРАТЬ,0.7611,Aleks,unrel,a_unrelated,inflection
+ВСТРЕЧАТЬ,0.5435,Aleks,unrel,a_unrelated,inflection
+КРИЧАТЬ,0.4491,Aleks,unrel,a_unrelated,inflection
+СООБЩИТЬ,0.4791,Aleks,unrel,a_unrelated,inflection
+УБИТЬ,0.6034,Aleks,unrel,a_unrelated,inflection
+БЕЖАТЬ,0.5762,Aleks,unrel,a_unrelated,inflection
+БРОСИТЬ,0.4414,Aleks,inf,related,inflection
+УМЕТЬ,0.5904,Aleks,unrel,a_unrelated,inflection
+ПОНЯТЬ,0.5085,Aleks,inf,related,inflection
+НАЧАТЬ,0.5032,Aleks,inf,related,inflection
+ПИСАТЬ,0.4676,Aleks,inf,related,inflection
+РЕШИТЬ,0.5465,Aleks,inf,related,inflection
+СЛЫШАТЬ,0.4166,Aleks,inf,related,inflection
+ПОМНИТЬ,0.7049,Aleks,inf,related,inflection
+УЗНАТЬ,0.5643,Aleks,inf,related,inflection
+ОЖИДАТЬ,0.6052,Aleks,inf,related,inflection
+СНИМАТЬ,0.5233,Aleks,inf,related,inflection
+ЗАБЫТЬ,0.6061,Aleks,unrel,a_unrelated,inflection
+СОБРАТЬ,0.588,Aleks,unrel,a_unrelated,inflection
+СТРАДАТЬ,1.11282,dimaloginoff_L1,unrel,a_unrelated,derivation
+СМОТРЕТЬ,0.597315,dimaloginoff_L1,unrel,a_unrelated,derivation
+СТОЯТЬ,0.81121,dimaloginoff_L1,unrel,a_unrelated,derivation
+ИГРАТЬ,1.22345,dimaloginoff_L1,unrel,a_unrelated,derivation
+СТАВИТЬ,0.899745,dimaloginoff_L1,unrel,a_unrelated,derivation
+СЛУШАТЬ,0.67886,dimaloginoff_L1,unrel,a_unrelated,derivation
+ПРОСИТЬ,2.038135,dimaloginoff_L1,unrel,a_unrelated,derivation
+КУРИТЬ,0.802915,dimaloginoff_L1,unrel,a_unrelated,derivation
+СЧИТАТЬ,0.91483,dimaloginoff_L1,unrel,a_unrelated,derivation
+ЖЕЛАТЬ,0.63023,dimaloginoff_L1,unrel,a_unrelated,derivation
+ИСКАТЬ,0.80932,dimaloginoff_L1,unrel,a_unrelated,derivation
+ТЕРЯТЬ,0.75193,dimaloginoff_L1,unrel,a_unrelated,derivation
+ТРАТИТЬ,1.006165,dimaloginoff_L1,unrel,a_unrelated,derivation
+СИДЕТЬ,0.70927,dimaloginoff_L1,unrel,a_unrelated,derivation
+ДУМАТЬ,0.73012,dimaloginoff_L1,der,related,derivation
+ГОВОРИТЬ,0.575935,dimaloginoff_L1,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.89138,dimaloginoff_L1,der,related,derivation
+ДЕРЖАТЬ,0.647815,dimaloginoff_L1,der,related,derivation
+ВЕРИТЬ,0.5439,dimaloginoff_L1,der,related,derivation
+СТРОИТЬ,0.58872,dimaloginoff_L1,der,related,derivation
+ПЛАКАТЬ,0.600825,dimaloginoff_L1,unrel,a_unrelated,inflection
+ВЫБРАТЬ,1.19309,dimaloginoff_L1,unrel,a_unrelated,inflection
+ВСТРЕЧАТЬ,0.702125,dimaloginoff_L1,unrel,a_unrelated,inflection
+КРИЧАТЬ,0.72283,dimaloginoff_L1,unrel,a_unrelated,inflection
+СООБЩИТЬ,0.555665,dimaloginoff_L1,unrel,a_unrelated,inflection
+УБИТЬ,0.770405,dimaloginoff_L1,unrel,a_unrelated,inflection
+БЕЖАТЬ,0.609985,dimaloginoff_L1,unrel,a_unrelated,inflection
+БРОСИТЬ,0.92977,dimaloginoff_L1,inf,related,inflection
+УМЕТЬ,0.858485,dimaloginoff_L1,unrel,a_unrelated,inflection
+ПОНЯТЬ,0.692385,dimaloginoff_L1,inf,related,inflection
+НАЧАТЬ,0.6851,dimaloginoff_L1,inf,related,inflection
+ПИСАТЬ,0.52276,dimaloginoff_L1,inf,related,inflection
+РЕШИТЬ,0.76133,dimaloginoff_L1,inf,related,inflection
+СЛЫШАТЬ,0.64564,dimaloginoff_L1,inf,related,inflection
+ПОМНИТЬ,0.657805,dimaloginoff_L1,inf,related,inflection
+УЗНАТЬ,0.740135,dimaloginoff_L1,inf,related,inflection
+ОЖИДАТЬ,1.159825,dimaloginoff_L1,inf,related,inflection
+СНИМАТЬ,0.5815,dimaloginoff_L1,inf,related,inflection
+ЗАБЫТЬ,0.787595,dimaloginoff_L1,unrel,a_unrelated,inflection
+СОБРАТЬ,0.668715,dimaloginoff_L1,unrel,a_unrelated,inflection
+СТРАДАТЬ,0.505585,eve_L1,unrel,a_unrelated,derivation
+СМОТРЕТЬ,0.49228,eve_L1,unrel,a_unrelated,derivation
+СТОЯТЬ,0.43059,eve_L1,unrel,a_unrelated,derivation
+ИГРАТЬ,0.48173,eve_L1,unrel,a_unrelated,derivation
+СТАВИТЬ,0.55609,eve_L1,unrel,a_unrelated,derivation
+СЛУШАТЬ,0.541505,eve_L1,unrel,a_unrelated,derivation
+ПРОСИТЬ,0.51446,eve_L1,unrel,a_unrelated,derivation
+КУРИТЬ,0.751415,eve_L1,unrel,a_unrelated,derivation
+СЧИТАТЬ,0.4761,eve_L1,unrel,a_unrelated,derivation
+ЖЕЛАТЬ,0.46912,eve_L1,unrel,a_unrelated,derivation
+ИСКАТЬ,0.47143,eve_L1,unrel,a_unrelated,derivation
+ТЕРЯТЬ,1.38654,eve_L1,unrel,a_unrelated,derivation
+ТРАТИТЬ,0.425625,eve_L1,unrel,a_unrelated,derivation
+СИДЕТЬ,0.450625,eve_L1,unrel,a_unrelated,derivation
+ДУМАТЬ,0.54296,eve_L1,der,related,derivation
+ГОВОРИТЬ,0.519735,eve_L1,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.572615,eve_L1,der,related,derivation
+ДЕРЖАТЬ,0.437145,eve_L1,der,related,derivation
+ВЕРИТЬ,0.454445,eve_L1,der,related,derivation
+СТРОИТЬ,0.48456,eve_L1,der,related,derivation
+ПЛАКАТЬ,0.375015,eve_L1,unrel,a_unrelated,inflection
+ВЫБРАТЬ,0.38822,eve_L1,unrel,a_unrelated,inflection
+ВСТРЕЧАТЬ,0.425615,eve_L1,unrel,a_unrelated,inflection
+КРИЧАТЬ,0.448435,eve_L1,unrel,a_unrelated,inflection
+СООБЩИТЬ,0.51018,eve_L1,unrel,a_unrelated,inflection
+УБИТЬ,0.439545,eve_L1,unrel,a_unrelated,inflection
+БЕЖАТЬ,0.41731,eve_L1,unrel,a_unrelated,inflection
+БРОСИТЬ,0.400645,eve_L1,inf,related,inflection
+УМЕТЬ,0.425735,eve_L1,unrel,a_unrelated,inflection
+ПОНЯТЬ,0.513095,eve_L1,inf,related,inflection
+НАЧАТЬ,0.434175,eve_L1,inf,related,inflection
+ПИСАТЬ,0.406305,eve_L1,inf,related,inflection
+РЕШИТЬ,0.60926,eve_L1,inf,related,inflection
+СЛЫШАТЬ,0.48403,eve_L1,inf,related,inflection
+ПОМНИТЬ,0.31376,eve_L1,inf,related,inflection
+УЗНАТЬ,0.41064,eve_L1,inf,related,inflection
+ОЖИДАТЬ,0.705985,eve_L1,inf,related,inflection
+СНИМАТЬ,0.41322,eve_L1,inf,related,inflection
+ЗАБЫТЬ,0.456555,eve_L1,unrel,a_unrelated,inflection
+СОБРАТЬ,0.463465,eve_L1,unrel,a_unrelated,inflection
+СТРАДАТЬ,0.71707,hk5678,unrel,a_unrelated,derivation
+СМОТРЕТЬ,0.681905,hk5678,unrel,a_unrelated,derivation
+СТОЯТЬ,0.64726,hk5678,unrel,a_unrelated,derivation
+ИГРАТЬ,0.583825,hk5678,unrel,a_unrelated,derivation
+СТАВИТЬ,0.545585,hk5678,unrel,a_unrelated,derivation
+СЛУШАТЬ,0.63,hk5678,unrel,a_unrelated,derivation
+КУРИТЬ,0.711265,hk5678,unrel,a_unrelated,derivation
+СЧИТАТЬ,0.76737,hk5678,unrel,a_unrelated,derivation
+ЖЕЛАТЬ,0.680185,hk5678,unrel,a_unrelated,derivation
+ИСКАТЬ,0.611715,hk5678,unrel,a_unrelated,derivation
+ТЕРЯТЬ,0.68064,hk5678,unrel,a_unrelated,derivation
+ТРАТИТЬ,0.65221,hk5678,unrel,a_unrelated,derivation
+СИДЕТЬ,0.670575,hk5678,unrel,a_unrelated,derivation
+ДУМАТЬ,0.69618,hk5678,der,related,derivation
+ГОВОРИТЬ,0.617865,hk5678,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.70377,hk5678,der,related,derivation
+ДЕРЖАТЬ,0.603525,hk5678,der,related,derivation
+ВЕРИТЬ,0.635375,hk5678,der,related,derivation
+СТРОИТЬ,0.671055,hk5678,der,related,derivation
+ПЛАКАТЬ,0.617265,hk5678,unrel,a_unrelated,inflection
+ВЫБРАТЬ,0.636295,hk5678,unrel,a_unrelated,inflection
+ВСТРЕЧАТЬ,0.619855,hk5678,unrel,a_unrelated,inflection
+КРИЧАТЬ,0.59937,hk5678,unrel,a_unrelated,inflection
+СООБЩИТЬ,0.599865,hk5678,unrel,a_unrelated,inflection
+УБИТЬ,0.71676,hk5678,unrel,a_unrelated,inflection
+БЕЖАТЬ,0.71654,hk5678,unrel,a_unrelated,inflection
+БРОСИТЬ,0.633575,hk5678,inf,related,inflection
+УМЕТЬ,0.71864,hk5678,unrel,a_unrelated,inflection
+ПОНЯТЬ,0.58075,hk5678,inf,related,inflection
+НАЧАТЬ,0.552065,hk5678,inf,related,inflection
+ПИСАТЬ,0.704205,hk5678,inf,related,inflection
+РЕШИТЬ,0.799925,hk5678,inf,related,inflection
+СЛЫШАТЬ,0.55395,hk5678,inf,related,inflection
+ПОМНИТЬ,0.68818,hk5678,inf,related,inflection
+УЗНАТЬ,0.696765,hk5678,inf,related,inflection
+ОЖИДАТЬ,0.73768,hk5678,inf,related,inflection
+СНИМАТЬ,0.55281,hk5678,inf,related,inflection
+ЗАБЫТЬ,0.71704,hk5678,unrel,a_unrelated,inflection
+СОБРАТЬ,0.733055,hk5678,unrel,a_unrelated,inflection
+СТРАДАТЬ,0.500195,JANAHA,unrel,a_unrelated,derivation
+СМОТРЕТЬ,0.600615,JANAHA,unrel,a_unrelated,derivation
+СТОЯТЬ,0.53385,JANAHA,unrel,a_unrelated,derivation
+ИГРАТЬ,0.6505,JANAHA,unrel,a_unrelated,derivation
+СТАВИТЬ,0.68293,JANAHA,unrel,a_unrelated,derivation
+СЛУШАТЬ,0.533655,JANAHA,unrel,a_unrelated,derivation
+ПРОСИТЬ,0.583815,JANAHA,unrel,a_unrelated,derivation
+КУРИТЬ,0.55055,JANAHA,unrel,a_unrelated,derivation
+СЧИТАТЬ,0.616945,JANAHA,unrel,a_unrelated,derivation
+ЖЕЛАТЬ,0.534,JANAHA,unrel,a_unrelated,derivation
+ИСКАТЬ,0.508465,JANAHA,unrel,a_unrelated,derivation
+ТЕРЯТЬ,0.466845,JANAHA,unrel,a_unrelated,derivation
+ТРАТИТЬ,0.5835,JANAHA,unrel,a_unrelated,derivation
+СИДЕТЬ,0.506225,JANAHA,unrel,a_unrelated,derivation
+ДУМАТЬ,0.55601,JANAHA,der,related,derivation
+ГОВОРИТЬ,0.45018,JANAHA,unrel,a_unrelated,derivation
+ДЕРЖАТЬ,0.51674,JANAHA,der,related,derivation
+ВЕРИТЬ,0.450265,JANAHA,der,related,derivation
+СТРОИТЬ,0.517615,JANAHA,der,related,derivation
+ЗВОНИТЬ,0.433575,JANAHA,der,related,derivation
+ПЛАКАТЬ,0.467325,JANAHA,unrel,a_unrelated,inflection
+ВЫБРАТЬ,0.466815,JANAHA,unrel,a_unrelated,inflection
+ВСТРЕЧАТЬ,0.46673,JANAHA,unrel,a_unrelated,inflection
+КРИЧАТЬ,0.68396,JANAHA,unrel,a_unrelated,inflection
+СООБЩИТЬ,0.500835,JANAHA,unrel,a_unrelated,inflection
+УБИТЬ,0.567045,JANAHA,unrel,a_unrelated,inflection
+БЕЖАТЬ,0.467215,JANAHA,unrel,a_unrelated,inflection
+БРОСИТЬ,0.539675,JANAHA,inf,related,inflection
+УМЕТЬ,0.450305,JANAHA,unrel,a_unrelated,inflection
+ПОНЯТЬ,0.441345,JANAHA,inf,related,inflection
+НАЧАТЬ,0.48356,JANAHA,inf,related,inflection
+ПИСАТЬ,0.49229,JANAHA,inf,related,inflection
+РЕШИТЬ,0.40513,JANAHA,inf,related,inflection
+СЛЫШАТЬ,0.450175,JANAHA,inf,related,inflection
+ПОМНИТЬ,0.47135,JANAHA,inf,related,inflection
+УЗНАТЬ,0.74233,JANAHA,inf,related,inflection
+ОЖИДАТЬ,0.533345,JANAHA,inf,related,inflection
+СНИМАТЬ,0.455465,JANAHA,inf,related,inflection
+ЗАБЫТЬ,0.550765,JANAHA,unrel,a_unrelated,inflection
+СОБРАТЬ,0.483575,JANAHA,unrel,a_unrelated,inflection
+СТРАДАТЬ,0.667165,maikki_L1,unrel,a_unrelated,derivation
+СМОТРЕТЬ,0.582845,maikki_L1,unrel,a_unrelated,derivation
+СТОЯТЬ,0.589835,maikki_L1,unrel,a_unrelated,derivation
+ИГРАТЬ,0.598135,maikki_L1,unrel,a_unrelated,derivation
+СТАВИТЬ,0.63962,maikki_L1,unrel,a_unrelated,derivation
+СЛУШАТЬ,0.56427,maikki_L1,unrel,a_unrelated,derivation
+ПРОСИТЬ,0.63271,maikki_L1,unrel,a_unrelated,derivation
+КУРИТЬ,0.565865,maikki_L1,unrel,a_unrelated,derivation
+СЧИТАТЬ,0.614785,maikki_L1,unrel,a_unrelated,derivation
+ЖЕЛАТЬ,0.68793,maikki_L1,unrel,a_unrelated,derivation
+ИСКАТЬ,0.58483,maikki_L1,unrel,a_unrelated,derivation
+ТЕРЯТЬ,0.52439,maikki_L1,unrel,a_unrelated,derivation
+ТРАТИТЬ,0.698555,maikki_L1,unrel,a_unrelated,derivation
+СИДЕТЬ,0.64805,maikki_L1,unrel,a_unrelated,derivation
+ДУМАТЬ,0.721365,maikki_L1,der,related,derivation
+ГОВОРИТЬ,0.670755,maikki_L1,unrel,a_unrelated,derivation
+ЗВОНИТЬ,0.58026,maikki_L1,der,related,derivation
+ДЕРЖАТЬ,0.549795,maikki_L1,der,related,derivation
+ВЕРИТЬ,0.68083,maikki_L1,der,related,derivation
+СТРОИТЬ,0.61804,maikki_L1,der,related,derivation
+ПЛАКАТЬ,0.634135,maikki_L1,unrel,a_unrelated,inflection
+ВЫБРАТЬ,0.489625,maikki_L1,unrel,a_unrelated,inflection
+ВСТРЕЧАТЬ,0.532225,maikki_L1,unrel,a_unrelated,inflection
+КРИЧАТЬ,0.54047,maikki_L1,unrel,a_unrelated,inflection
+СООБЩИТЬ,0.58909,maikki_L1,unrel,a_unrelated,inflection
+УБИТЬ,0.571845,maikki_L1,unrel,a_unrelated,inflection
+БЕЖАТЬ,0.48705,maikki_L1,unrel,a_unrelated,inflection
+БРОСИТЬ,0.496885,maikki_L1,inf,related,inflection
+УМЕТЬ,0.54717,maikki_L1,unrel,a_unrelated,inflection
+ПОНЯТЬ,0.458875,maikki_L1,inf,related,inflection
+НАЧАТЬ,0.5314,maikki_L1,inf,related,inflection
+ПИСАТЬ,0.46991,maikki_L1,inf,related,inflection
+РЕШИТЬ,0.531595,maikki_L1,inf,related,inflection
+СЛЫШАТЬ,0.5033,maikki_L1,inf,related,inflection
+ПОМНИТЬ,0.758015,maikki_L1,inf,related,inflection
+УЗНАТЬ,0.614015,maikki_L1,inf,related,inflection
+ОЖИДАТЬ,0.79171,maikki_L1,inf,related,inflection
+СНИМАТЬ,0.448005,maikki_L1,inf,related,inflection
+ЗАБЫТЬ,0.74425,maikki_L1,unrel,a_unrelated,inflection
+СОБРАТЬ,0.58286,maikki_L1,unrel,a_unrelated,inflection
+СТРАДАТЬ,0.526,Alina,id,identity,derivation
+СМОТРЕТЬ,0.502,Alina,id,identity,derivation
+СТОЯТЬ,0.524,Alina,id,identity,derivation
+ИГРАТЬ,0.522,Alina,id,identity,derivation
+СЛУШАТЬ,0.482,Alina,id,identity,derivation
+ПРОСИТЬ,0.535,Alina,id,identity,derivation
+КУРИТЬ,0.496,Alina,id,identity,derivation
+СЧИТАТЬ,0.469,Alina,id,identity,derivation
+ЖЕЛАТЬ,0.499,Alina,id,identity,derivation
+ИСКАТЬ,0.422,Alina,id,identity,derivation
+ТЕРЯТЬ,0.508,Alina,id,identity,derivation
+ТРАТИТЬ,0.466,Alina,id,identity,derivation
+СИДЕТЬ,0.605,Alina,id,identity,derivation
+ДУМАТЬ,0.592,Alina,id,identity,derivation
+ГОВОРИТЬ,0.58,Alina,id,identity,derivation
+ЗВОНИТЬ,0.401,Alina,id,identity,derivation
+ДЕРЖАТЬ,0.436,Alina,id,identity,derivation
+ВЕРИТЬ,0.516,Alina,id,identity,derivation
+СТРОИТЬ,0.445,Alina,id,identity,derivation
+ПЛАКАТЬ,0.566,Alina,id,identity,inflection
+ВЫБРАТЬ,0.513,Alina,id,identity,inflection
+ВСТРЕЧАТЬ,,Alina,id,identity,inflection
+КРИЧАТЬ,0.499,Alina,id,identity,inflection
+СООБЩИТЬ,0.647,Alina,id,identity,inflection
+УБИТЬ,0.406,Alina,id,identity,inflection
+БЕЖАТЬ,0.482,Alina,id,identity,inflection
+БРОСИТЬ,0.521,Alina,id,identity,inflection
+УМЕТЬ,0.53,Alina,id,identity,inflection
+ПОНЯТЬ,0.506,Alina,id,identity,inflection
+НАЧАТЬ,0.496,Alina,id,identity,inflection
+ПИСАТЬ,0.456,Alina,id,identity,inflection
+РЕШИТЬ,0.521,Alina,id,identity,inflection
+СЛЫШАТЬ,0.455,Alina,id,identity,inflection
+ПОМНИТЬ,0.538,Alina,id,identity,inflection
+УЗНАТЬ,0.447,Alina,id,identity,inflection
+ОЖИДАТЬ,0.443,Alina,id,identity,inflection
+СНИМАТЬ,0.538,Alina,id,identity,inflection
+ЗАБЫТЬ,0.466,Alina,id,identity,inflection
+СОБРАТЬ,0.552,Alina,id,identity,inflection
+СТРАДАТЬ,1.2789,danna_L1,id,identity,derivation
+СМОТРЕТЬ,0.6576,danna_L1,id,identity,derivation
+СТОЯТЬ,0.7184,danna_L1,id,identity,derivation
+ИГРАТЬ,0.756,danna_L1,id,identity,derivation
+СТАВИТЬ,0.746,danna_L1,id,identity,derivation
+СЛУШАТЬ,0.6653,danna_L1,id,identity,derivation
+ПРОСИТЬ,0.7747,danna_L1,id,identity,derivation
+КУРИТЬ,0.5707,danna_L1,id,identity,derivation
+СЧИТАТЬ,0.9847,danna_L1,id,identity,derivation
+ЖЕЛАТЬ,0.5367,danna_L1,id,identity,derivation
+ИСКАТЬ,0.6527,danna_L1,id,identity,derivation
+ТЕРЯТЬ,0.6476,danna_L1,id,identity,derivation
+ТРАТИТЬ,0.6474,danna_L1,id,identity,derivation
+СИДЕТЬ,0.5967,danna_L1,id,identity,derivation
+ДУМАТЬ,0.5795,danna_L1,id,identity,derivation
+ГОВОРИТЬ,0.5748,danna_L1,id,identity,derivation
+ЗВОНИТЬ,0.668,danna_L1,id,identity,derivation
+ДЕРЖАТЬ,0.537,danna_L1,id,identity,derivation
+ВЕРИТЬ,0.5941,danna_L1,id,identity,derivation
+СТРОИТЬ,0.5223,danna_L1,id,identity,derivation
+ПЛАКАТЬ,0.5503,danna_L1,id,identity,inflection
+ВЫБРАТЬ,0.5215,danna_L1,id,identity,inflection
+ВСТРЕЧАТЬ,0.8099,danna_L1,id,identity,inflection
+КРИЧАТЬ,0.8031,danna_L1,id,identity,inflection
+СООБЩИТЬ,0.6418,danna_L1,id,identity,inflection
+УБИТЬ,1.0171,danna_L1,id,identity,inflection
+БЕЖАТЬ,0.8862,danna_L1,id,identity,inflection
+БРОСИТЬ,0.9278,danna_L1,id,identity,inflection
+УМЕТЬ,0.7122,danna_L1,id,identity,inflection
+ПОНЯТЬ,0.8101,danna_L1,id,identity,inflection
+НАЧАТЬ,0.5774,danna_L1,id,identity,inflection
+ПИСАТЬ,0.6457,danna_L1,id,identity,inflection
+РЕШИТЬ,0.6286,danna_L1,id,identity,inflection
+СЛЫШАТЬ,0.5659,danna_L1,id,identity,inflection
+ПОМНИТЬ,0.7157,danna_L1,id,identity,inflection
+УЗНАТЬ,1.1338,danna_L1,id,identity,inflection
+ОЖИДАТЬ,0.9814,danna_L1,id,identity,inflection
+СНИМАТЬ,0.6815,danna_L1,id,identity,inflection
+ЗАБЫТЬ,0.9184,danna_L1,id,identity,inflection
+СОБРАТЬ,0.6681,danna_L1,id,identity,inflection
+СТРАДАТЬ,0.5842,Inessa_L1,id,identity,derivation
+СМОТРЕТЬ,0.4829,Inessa_L1,id,identity,derivation
+СТОЯТЬ,0.6717,Inessa_L1,id,identity,derivation
+ИГРАТЬ,0.6666,Inessa_L1,id,identity,derivation
+СТАВИТЬ,0.6814,Inessa_L1,id,identity,derivation
+СЛУШАТЬ,0.5336,Inessa_L1,id,identity,derivation
+ПРОСИТЬ,0.5366,Inessa_L1,id,identity,derivation
+КУРИТЬ,0.6184,Inessa_L1,id,identity,derivation
+ЖЕЛАТЬ,0.6513,Inessa_L1,id,identity,derivation
+ИСКАТЬ,0.5804,Inessa_L1,id,identity,derivation
+ТЕРЯТЬ,0.6377,Inessa_L1,id,identity,derivation
+ТРАТИТЬ,0.5999,Inessa_L1,id,identity,derivation
+СИДЕТЬ,0.6213,Inessa_L1,id,identity,derivation
+ДУМАТЬ,0.4634,Inessa_L1,id,identity,derivation
+ГОВОРИТЬ,0.569,Inessa_L1,id,identity,derivation
+ЗВОНИТЬ,0.6144,Inessa_L1,id,identity,derivation
+ДЕРЖАТЬ,0.5865,Inessa_L1,id,identity,derivation
+ВЕРИТЬ,0.5613,Inessa_L1,id,identity,derivation
+СТРОИТЬ,0.6228,Inessa_L1,id,identity,derivation
+ПЛАКАТЬ,0.6175,Inessa_L1,id,identity,inflection
+ВЫБРАТЬ,0.6339,Inessa_L1,id,identity,inflection
+ВСТРЕЧАТЬ,0.6249,Inessa_L1,id,identity,inflection
+КРИЧАТЬ,0.565,Inessa_L1,id,identity,inflection
+СООБЩИТЬ,0.5639,Inessa_L1,id,identity,inflection
+УБИТЬ,0.5966,Inessa_L1,id,identity,inflection
+БЕЖАТЬ,0.6294,Inessa_L1,id,identity,inflection
+БРОСИТЬ,0.5197,Inessa_L1,id,identity,inflection
+УМЕТЬ,0.721,Inessa_L1,id,identity,inflection
+ПОНЯТЬ,0.61,Inessa_L1,id,identity,inflection
+НАЧАТЬ,0.6037,Inessa_L1,id,identity,inflection
+ПИСАТЬ,0.6534,Inessa_L1,id,identity,inflection
+РЕШИТЬ,0.5934,Inessa_L1,id,identity,inflection
+СЛЫШАТЬ,0.651,Inessa_L1,id,identity,inflection
+ПОМНИТЬ,0.6386,Inessa_L1,id,identity,inflection
+УЗНАТЬ,0.5717,Inessa_L1,id,identity,inflection
+ОЖИДАТЬ,0.5809,Inessa_L1,id,identity,inflection
+СНИМАТЬ,0.6032,Inessa_L1,id,identity,inflection
+ЗАБЫТЬ,0.6945,Inessa_L1,id,identity,inflection
+СОБРАТЬ,0.5372,Inessa_L1,id,identity,inflection
+СТРАДАТЬ,0.733,JVL1,id,identity,derivation
+СМОТРЕТЬ,0.896,JVL1,id,identity,derivation
+СТОЯТЬ,0.985,JVL1,id,identity,derivation
+ИГРАТЬ,0.735,JVL1,id,identity,derivation
+СТАВИТЬ,1.08,JVL1,id,identity,derivation
+СЛУШАТЬ,0.748,JVL1,id,identity,derivation
+ПРОСИТЬ,0.881,JVL1,id,identity,derivation
+КУРИТЬ,0.886,JVL1,id,identity,derivation
+СЧИТАТЬ,1.072,JVL1,id,identity,derivation
+ЖЕЛАТЬ,0.831,JVL1,id,identity,derivation
+ИСКАТЬ,0.983,JVL1,id,identity,derivation
+ТЕРЯТЬ,1.218,JVL1,id,identity,derivation
+ТРАТИТЬ,0.9,JVL1,id,identity,derivation
+СИДЕТЬ,0.846,JVL1,id,identity,derivation
+ДУМАТЬ,0.816,JVL1,id,identity,derivation
+ГОВОРИТЬ,0.64,JVL1,id,identity,derivation
+ЗВОНИТЬ,0.707,JVL1,id,identity,derivation
+ДЕРЖАТЬ,0.739,JVL1,id,identity,derivation
+ВЕРИТЬ,0.747,JVL1,id,identity,derivation
+СТРОИТЬ,0.868,JVL1,id,identity,derivation
+ПЛАКАТЬ,0.89,JVL1,id,identity,inflection
+ВЫБРАТЬ,1.249,JVL1,id,identity,inflection
+ВСТРЕЧАТЬ,0.858,JVL1,id,identity,inflection
+КРИЧАТЬ,0.85,JVL1,id,identity,inflection
+СООБЩИТЬ,1.634,JVL1,id,identity,inflection
+УБИТЬ,0.8,JVL1,id,identity,inflection
+БЕЖАТЬ,1.203,JVL1,id,identity,inflection
+БРОСИТЬ,0.662,JVL1,id,identity,inflection
+УМЕТЬ,0.834,JVL1,id,identity,inflection
+ПОНЯТЬ,0.96,JVL1,id,identity,inflection
+НАЧАТЬ,0.885,JVL1,id,identity,inflection
+ПИСАТЬ,0.701,JVL1,id,identity,inflection
+РЕШИТЬ,1.232,JVL1,id,identity,inflection
+СЛЫШАТЬ,0.786,JVL1,id,identity,inflection
+ПОМНИТЬ,1.057,JVL1,id,identity,inflection
+УЗНАТЬ,0.918,JVL1,id,identity,inflection
+ОЖИДАТЬ,1.218,JVL1,id,identity,inflection
+СНИМАТЬ,0.786,JVL1,id,identity,inflection
+ЗАБЫТЬ,1.005,JVL1,id,identity,inflection
+СОБРАТЬ,0.734,JVL1,id,identity,inflection
+СТРАДАТЬ,0.673,Pavel_L1,id,identity,derivation
+СМОТРЕТЬ,1.681,Pavel_L1,id,identity,derivation
+СТОЯТЬ,0.899,Pavel_L1,id,identity,derivation
+ИГРАТЬ,0.454,Pavel_L1,id,identity,derivation
+СТАВИТЬ,0.65,Pavel_L1,id,identity,derivation
+СЛУШАТЬ,0.564,Pavel_L1,id,identity,derivation
+ПРОСИТЬ,0.584,Pavel_L1,id,identity,derivation
+КУРИТЬ,0.551,Pavel_L1,id,identity,derivation
+СЧИТАТЬ,0.616,Pavel_L1,id,identity,derivation
+ЖЕЛАТЬ,0.574,Pavel_L1,id,identity,derivation
+ИСКАТЬ,0.516,Pavel_L1,id,identity,derivation
+ТЕРЯТЬ,0.553,Pavel_L1,id,identity,derivation
+ТРАТИТЬ,0.648,Pavel_L1,id,identity,derivation
+СИДЕТЬ,0.554,Pavel_L1,id,identity,derivation
+ДУМАТЬ,0.532,Pavel_L1,id,identity,derivation
+ГОВОРИТЬ,0.487,Pavel_L1,id,identity,derivation
+ДЕРЖАТЬ,0.482,Pavel_L1,id,identity,derivation
+ВЕРИТЬ,0.554,Pavel_L1,id,identity,derivation
+СТРОИТЬ,0.548,Pavel_L1,id,identity,derivation
+ЗВОНИТЬ,0.516,Pavel_L1,id,identity,derivation
+ПЛАКАТЬ,0.5,Pavel_L1,id,identity,inflection
+ВЫБРАТЬ,0.502,Pavel_L1,id,identity,inflection
+ВСТРЕЧАТЬ,0.504,Pavel_L1,id,identity,inflection
+КРИЧАТЬ,0.454,Pavel_L1,id,identity,inflection
+СООБЩИТЬ,0.538,Pavel_L1,id,identity,inflection
+УБИТЬ,0.483,Pavel_L1,id,identity,inflection
+БЕЖАТЬ,0.582,Pavel_L1,id,identity,inflection
+БРОСИТЬ,0.558,Pavel_L1,id,identity,inflection
+УМЕТЬ,0.516,Pavel_L1,id,identity,inflection
+ПОНЯТЬ,0.467,Pavel_L1,id,identity,inflection
+НАЧАТЬ,0.475,Pavel_L1,id,identity,inflection
+ПИСАТЬ,0.664,Pavel_L1,id,identity,inflection
+РЕШИТЬ,0.472,Pavel_L1,id,identity,inflection
+СЛЫШАТЬ,0.489,Pavel_L1,id,identity,inflection
+ПОМНИТЬ,0.619,Pavel_L1,id,identity,inflection
+УЗНАТЬ,0.521,Pavel_L1,id,identity,inflection
+ОЖИДАТЬ,0.569,Pavel_L1,id,identity,inflection
+СНИМАТЬ,0.623,Pavel_L1,id,identity,inflection
+ЗАБЫТЬ,0.551,Pavel_L1,id,identity,inflection
+СОБРАТЬ,0.532,Pavel_L1,id,identity,inflection
+СТРАДАТЬ,0.631,Svjatoslav L1,id,identity,derivation
+СМОТРЕТЬ,0.657,Svjatoslav L1,id,identity,derivation
+СТОЯТЬ,0.601,Svjatoslav L1,id,identity,derivation
+ИГРАТЬ,0.596,Svjatoslav L1,id,identity,derivation
+СТАВИТЬ,0.483,Svjatoslav L1,id,identity,derivation
+СЛУШАТЬ,0.507,Svjatoslav L1,id,identity,derivation
+ПРОСИТЬ,0.543,Svjatoslav L1,id,identity,derivation
+КУРИТЬ,0.55,Svjatoslav L1,id,identity,derivation
+СЧИТАТЬ,0.535,Svjatoslav L1,id,identity,derivation
+ЖЕЛАТЬ,0.617,Svjatoslav L1,id,identity,derivation
+ИСКАТЬ,0.578,Svjatoslav L1,id,identity,derivation
+ТЕРЯТЬ,0.572,Svjatoslav L1,id,identity,derivation
+ТРАТИТЬ,0.67,Svjatoslav L1,id,identity,derivation
+СИДЕТЬ,0.572,Svjatoslav L1,id,identity,derivation
+ДУМАТЬ,0.659,Svjatoslav L1,id,identity,derivation
+ГОВОРИТЬ,0.572,Svjatoslav L1,id,identity,derivation
+ЗВОНИТЬ,0.509,Svjatoslav L1,id,identity,derivation
+ДЕРЖАТЬ,0.554,Svjatoslav L1,id,identity,derivation
+ВЕРИТЬ,0.589,Svjatoslav L1,id,identity,derivation
+СТРОИТЬ,0.519,Svjatoslav L1,id,identity,derivation
+ПЛАКАТЬ,0.617,Svjatoslav L1,id,identity,inflection
+ВЫБРАТЬ,0.642,Svjatoslav L1,id,identity,inflection
+ВСТРЕЧАТЬ,0.569,Svjatoslav L1,id,identity,inflection
+КРИЧАТЬ,0.481,Svjatoslav L1,id,identity,inflection
+СООБЩИТЬ,0.506,Svjatoslav L1,id,identity,inflection
+УБИТЬ,0.686,Svjatoslav L1,id,identity,inflection
+БЕЖАТЬ,0.5,Svjatoslav L1,id,identity,inflection
+БРОСИТЬ,0.477,Svjatoslav L1,id,identity,inflection
+УМЕТЬ,0.472,Svjatoslav L1,id,identity,inflection
+ПОНЯТЬ,0.45,Svjatoslav L1,id,identity,inflection
+НАЧАТЬ,0.386,Svjatoslav L1,id,identity,inflection
+РЕШИТЬ,0.54,Svjatoslav L1,id,identity,inflection
+СЛЫШАТЬ,0.614,Svjatoslav L1,id,identity,inflection
+ПОМНИТЬ,0.554,Svjatoslav L1,id,identity,inflection
+УЗНАТЬ,0.586,Svjatoslav L1,id,identity,inflection
+ОЖИДАТЬ,0.644,Svjatoslav L1,id,identity,inflection
+СНИМАТЬ,0.459,Svjatoslav L1,id,identity,inflection
+ЗАБЫТЬ,0.322,Svjatoslav L1,id,identity,inflection
+СОБРАТЬ,0.567,Svjatoslav L1,id,identity,inflection
